@@ -1,0 +1,6014 @@
+Testvector of speck64/96 verified.
+Testvector of speck64/128 verified.
+Attack index: 0
+Running time: 10.918273210525513 s
+Surviving key guess num: 23
+Best key guess score: 195.77802
+Diff between tk and best kg: 0x10000000
+
+Attack index: 1
+Running time: 8.004318475723267 s
+Surviving key guess num: 48
+Best key guess score: 314.86594
+Diff between tk and best kg: 0x0
+
+Attack index: 2
+Running time: 8.002208471298218 s
+Surviving key guess num: 16
+Best key guess score: 169.05495
+Diff between tk and best kg: 0x0
+
+Attack index: 3
+Running time: 7.877728700637817 s
+Surviving key guess num: 28
+Best key guess score: 141.86
+Diff between tk and best kg: 0x0
+
+Attack index: 4
+Running time: 7.746924638748169 s
+Surviving key guess num: 12
+Best key guess score: 193.67998
+Diff between tk and best kg: 0x10000000
+
+Attack index: 5
+Running time: 7.928961992263794 s
+Surviving key guess num: 24
+Best key guess score: 120.99455
+Diff between tk and best kg: 0x0
+
+Attack index: 6
+Running time: 7.923642635345459 s
+Surviving key guess num: 26
+Best key guess score: 205.41914
+Diff between tk and best kg: 0x10000010
+
+Attack index: 7
+Running time: 7.69193696975708 s
+Surviving key guess num: 24
+Best key guess score: 184.9541
+Diff between tk and best kg: 0x10
+
+Attack index: 8
+Running time: 7.716828346252441 s
+Surviving key guess num: 20
+Best key guess score: 153.8744
+Diff between tk and best kg: 0x0
+
+Attack index: 9
+Running time: 7.9465858936309814 s
+Surviving key guess num: 32
+Best key guess score: 247.1467
+Diff between tk and best kg: 0x10000000
+
+Attack index: 10
+Running time: 7.808572053909302 s
+Surviving key guess num: 24
+Best key guess score: 173.32358
+Diff between tk and best kg: 0x10000000
+
+Attack index: 11
+Running time: 7.665123462677002 s
+Surviving key guess num: 24
+Best key guess score: 163.51773
+Diff between tk and best kg: 0x0
+
+Attack index: 12
+Running time: 7.819221496582031 s
+Surviving key guess num: 36
+Best key guess score: 299.3638
+Diff between tk and best kg: 0x10
+
+Attack index: 13
+Running time: 7.661174535751343 s
+Surviving key guess num: 32
+Best key guess score: 190.56494
+Diff between tk and best kg: 0x10000000
+
+Attack index: 14
+Running time: 7.535741329193115 s
+Surviving key guess num: 56
+Best key guess score: 313.14542
+Diff between tk and best kg: 0x10
+
+Attack index: 15
+Running time: 7.656624794006348 s
+Surviving key guess num: 36
+Best key guess score: 292.37067
+Diff between tk and best kg: 0x0
+
+Attack index: 16
+Running time: 7.765959978103638 s
+Surviving key guess num: 49
+Best key guess score: 297.7322
+Diff between tk and best kg: 0x10
+
+Attack index: 17
+Running time: 7.7404820919036865 s
+Surviving key guess num: 36
+Best key guess score: 289.04852
+Diff between tk and best kg: 0x10
+
+Attack index: 18
+Running time: 7.787208557128906 s
+Surviving key guess num: 24
+Best key guess score: 160.80362
+Diff between tk and best kg: 0x10
+
+Attack index: 19
+Running time: 7.6208741664886475 s
+Surviving key guess num: 12
+Best key guess score: 137.29228
+Diff between tk and best kg: 0x0
+
+Attack index: 20
+Running time: 7.728224515914917 s
+Surviving key guess num: 12
+Best key guess score: 170.59277
+Diff between tk and best kg: 0x10
+
+Attack index: 21
+Running time: 7.621549367904663 s
+Surviving key guess num: 12
+Best key guess score: 142.29105
+Diff between tk and best kg: 0x10000010
+
+Attack index: 22
+Running time: 7.572329759597778 s
+Surviving key guess num: 28
+Best key guess score: 216.53378
+Diff between tk and best kg: 0x10
+
+Attack index: 23
+Running time: 7.5525782108306885 s
+Surviving key guess num: 28
+Best key guess score: 259.4915
+Diff between tk and best kg: 0x0
+
+Attack index: 24
+Running time: 7.5555503368377686 s
+Surviving key guess num: 52
+Best key guess score: 268.7245
+Diff between tk and best kg: 0x10
+
+Attack index: 25
+Running time: 7.603206157684326 s
+Surviving key guess num: 24
+Best key guess score: 240.71434
+Diff between tk and best kg: 0x10000010
+
+Attack index: 26
+Running time: 7.637237071990967 s
+Surviving key guess num: 24
+Best key guess score: 214.60167
+Diff between tk and best kg: 0x10000000
+
+Attack index: 27
+Running time: 7.727011203765869 s
+Surviving key guess num: 12
+Best key guess score: 204.99438
+Diff between tk and best kg: 0x10000000
+
+Attack index: 28
+Running time: 7.790890693664551 s
+Surviving key guess num: 48
+Best key guess score: 326.72803
+Diff between tk and best kg: 0x10000010
+
+Attack index: 29
+Running time: 7.712172031402588 s
+Surviving key guess num: 20
+Best key guess score: 149.77248
+Diff between tk and best kg: 0x10
+
+Attack index: 30
+Running time: 7.763826370239258 s
+Surviving key guess num: 8
+Best key guess score: 103.158554
+Diff between tk and best kg: 0x10000000
+
+Attack index: 31
+Running time: 7.752400636672974 s
+Surviving key guess num: 24
+Best key guess score: 182.23427
+Diff between tk and best kg: 0x10
+
+Attack index: 32
+Running time: 7.723437309265137 s
+Surviving key guess num: 12
+Best key guess score: 184.50787
+Diff between tk and best kg: 0x0
+
+Attack index: 33
+Running time: 7.734987020492554 s
+Surviving key guess num: 40
+Best key guess score: 260.99026
+Diff between tk and best kg: 0x0
+
+Attack index: 34
+Running time: 7.661218643188477 s
+Surviving key guess num: 32
+Best key guess score: 207.55876
+Diff between tk and best kg: 0x0
+
+Attack index: 35
+Running time: 7.691339492797852 s
+Surviving key guess num: 36
+Best key guess score: 267.58087
+Diff between tk and best kg: 0x10000010
+
+Attack index: 36
+Running time: 7.706544399261475 s
+Surviving key guess num: 28
+Best key guess score: 211.63931
+Diff between tk and best kg: 0x10
+
+Attack index: 37
+Running time: 7.803038597106934 s
+Surviving key guess num: 16
+Best key guess score: 195.99309
+Diff between tk and best kg: 0x10000000
+
+Attack index: 38
+Running time: 7.729024648666382 s
+Surviving key guess num: 40
+Best key guess score: 280.24356
+Diff between tk and best kg: 0x10000010
+
+Attack index: 39
+Running time: 7.84138822555542 s
+Surviving key guess num: 16
+Best key guess score: 144.52313
+Diff between tk and best kg: 0x0
+
+Attack index: 40
+Running time: 7.696557998657227 s
+Surviving key guess num: 20
+Best key guess score: 136.73814
+Diff between tk and best kg: 0x0
+
+Attack index: 41
+Running time: 7.683012962341309 s
+Surviving key guess num: 15
+Best key guess score: 163.19226
+Diff between tk and best kg: 0x10000010
+
+Attack index: 42
+Running time: 7.61267614364624 s
+Surviving key guess num: 32
+Best key guess score: 296.52774
+Diff between tk and best kg: 0x10000000
+
+Attack index: 43
+Running time: 7.51683235168457 s
+Surviving key guess num: 23
+Best key guess score: 166.20016
+Diff between tk and best kg: 0x10
+
+Attack index: 44
+Running time: 7.672891139984131 s
+Surviving key guess num: 12
+Best key guess score: 141.49454
+Diff between tk and best kg: 0x10000000
+
+Attack index: 45
+Running time: 7.690460920333862 s
+Surviving key guess num: 19
+Best key guess score: 230.85864
+Diff between tk and best kg: 0x0
+
+Attack index: 46
+Running time: 7.768396615982056 s
+Surviving key guess num: 12
+Best key guess score: 187.3695
+Diff between tk and best kg: 0x10
+
+Attack index: 47
+Running time: 7.821802854537964 s
+Surviving key guess num: 16
+Best key guess score: 139.07216
+Diff between tk and best kg: 0x0
+
+Attack index: 48
+Running time: 7.676560401916504 s
+Surviving key guess num: 32
+Best key guess score: 262.41293
+Diff between tk and best kg: 0x10
+
+Attack index: 49
+Running time: 7.913362979888916 s
+Surviving key guess num: 52
+Best key guess score: 291.84106
+Diff between tk and best kg: 0x0
+
+Attack index: 50
+Running time: 7.561965227127075 s
+Surviving key guess num: 38
+Best key guess score: 247.65459
+Diff between tk and best kg: 0x10
+
+Attack index: 51
+Running time: 7.812366008758545 s
+Surviving key guess num: 28
+Best key guess score: 203.23175
+Diff between tk and best kg: 0x0
+
+Attack index: 52
+Running time: 7.492327690124512 s
+Surviving key guess num: 20
+Best key guess score: 180.72865
+Diff between tk and best kg: 0x10000010
+
+Attack index: 53
+Running time: 7.730324029922485 s
+Surviving key guess num: 20
+Best key guess score: 205.80289
+Diff between tk and best kg: 0x0
+
+Attack index: 54
+Running time: 7.62247109413147 s
+Surviving key guess num: 36
+Best key guess score: 216.89508
+Diff between tk and best kg: 0x10000000
+
+Attack index: 55
+Running time: 7.95646333694458 s
+Surviving key guess num: 39
+Best key guess score: 258.9464
+Diff between tk and best kg: 0x10000000
+
+Attack index: 56
+Running time: 7.770750522613525 s
+Surviving key guess num: 27
+Best key guess score: 194.77512
+Diff between tk and best kg: 0x10000000
+
+Attack index: 57
+Running time: 7.796694755554199 s
+Surviving key guess num: 12
+Best key guess score: 171.14095
+Diff between tk and best kg: 0x10
+
+Attack index: 58
+Running time: 7.724075555801392 s
+Surviving key guess num: 16
+Best key guess score: 188.98222
+Diff between tk and best kg: 0x0
+
+Attack index: 59
+Running time: 7.698887348175049 s
+Surviving key guess num: 25
+Best key guess score: 200.37929
+Diff between tk and best kg: 0x10000010
+
+Attack index: 60
+Running time: 7.695487022399902 s
+Surviving key guess num: 28
+Best key guess score: 199.52786
+Diff between tk and best kg: 0x10000000
+
+Attack index: 61
+Running time: 7.7496278285980225 s
+Surviving key guess num: 28
+Best key guess score: 201.23851
+Diff between tk and best kg: 0x10
+
+Attack index: 62
+Running time: 7.86699914932251 s
+Surviving key guess num: 36
+Best key guess score: 276.0778
+Diff between tk and best kg: 0x10
+
+Attack index: 63
+Running time: 7.685039758682251 s
+Surviving key guess num: 31
+Best key guess score: 227.53
+Diff between tk and best kg: 0x10
+
+Attack index: 64
+Running time: 7.790598630905151 s
+Surviving key guess num: 17
+Best key guess score: 157.96904
+Diff between tk and best kg: 0x10000010
+
+Attack index: 65
+Running time: 7.841332197189331 s
+Surviving key guess num: 20
+Best key guess score: 176.69873
+Diff between tk and best kg: 0x10
+
+Attack index: 66
+Running time: 7.854097843170166 s
+Surviving key guess num: 28
+Best key guess score: 182.77647
+Diff between tk and best kg: 0x0
+
+Attack index: 67
+Running time: 7.869821071624756 s
+Surviving key guess num: 16
+Best key guess score: 131.39537
+Diff between tk and best kg: 0x0
+
+Attack index: 68
+Running time: 7.618468999862671 s
+Surviving key guess num: 44
+Best key guess score: 270.60748
+Diff between tk and best kg: 0x10000010
+
+Attack index: 69
+Running time: 7.706469774246216 s
+Surviving key guess num: 24
+Best key guess score: 146.62334
+Diff between tk and best kg: 0x10000000
+
+Attack index: 70
+Running time: 7.793805122375488 s
+Surviving key guess num: 12
+Best key guess score: 74.002365
+Diff between tk and best kg: 0x10000010
+
+Attack index: 71
+Running time: 7.878044128417969 s
+Surviving key guess num: 20
+Best key guess score: 174.3574
+Diff between tk and best kg: 0x10000010
+
+Attack index: 72
+Running time: 7.612786769866943 s
+Surviving key guess num: 24
+Best key guess score: 211.59749
+Diff between tk and best kg: 0x0
+
+Attack index: 73
+Running time: 7.715560436248779 s
+Surviving key guess num: 20
+Best key guess score: 197.74513
+Diff between tk and best kg: 0x0
+
+Attack index: 74
+Running time: 7.639996528625488 s
+Surviving key guess num: 20
+Best key guess score: 189.64197
+Diff between tk and best kg: 0x10000010
+
+Attack index: 75
+Running time: 7.476503849029541 s
+Surviving key guess num: 12
+Best key guess score: 104.565025
+Diff between tk and best kg: 0x0
+
+Attack index: 76
+Running time: 7.514442205429077 s
+Surviving key guess num: 12
+Best key guess score: 185.50887
+Diff between tk and best kg: 0x0
+
+Attack index: 77
+Running time: 7.6058313846588135 s
+Surviving key guess num: 20
+Best key guess score: 140.42183
+Diff between tk and best kg: 0x0
+
+Attack index: 78
+Running time: 7.956257104873657 s
+Surviving key guess num: 32
+Best key guess score: 228.062
+Diff between tk and best kg: 0x10000000
+
+Attack index: 79
+Running time: 7.91900110244751 s
+Surviving key guess num: 20
+Best key guess score: 125.9203
+Diff between tk and best kg: 0x10000010
+
+Attack index: 80
+Running time: 7.7960450649261475 s
+Surviving key guess num: 20
+Best key guess score: 147.28624
+Diff between tk and best kg: 0x10
+
+Attack index: 81
+Running time: 7.428094863891602 s
+Surviving key guess num: 40
+Best key guess score: 233.1975
+Diff between tk and best kg: 0x10000010
+
+Attack index: 82
+Running time: 7.687464237213135 s
+Surviving key guess num: 32
+Best key guess score: 254.04335
+Diff between tk and best kg: 0x10000010
+
+Attack index: 83
+Running time: 7.576162576675415 s
+Surviving key guess num: 16
+Best key guess score: 176.1155
+Diff between tk and best kg: 0x10000010
+
+Attack index: 84
+Running time: 7.674952745437622 s
+Surviving key guess num: 56
+Best key guess score: 361.00085
+Diff between tk and best kg: 0x10000010
+
+Attack index: 85
+Running time: 7.6872522830963135 s
+Surviving key guess num: 24
+Best key guess score: 188.57944
+Diff between tk and best kg: 0x10
+
+Attack index: 86
+Running time: 7.642642259597778 s
+Surviving key guess num: 24
+Best key guess score: 233.31552
+Diff between tk and best kg: 0x10000000
+
+Attack index: 87
+Running time: 7.470943212509155 s
+Surviving key guess num: 12
+Best key guess score: 143.8088
+Diff between tk and best kg: 0x10000010
+
+Attack index: 88
+Running time: 7.424056768417358 s
+Surviving key guess num: 16
+Best key guess score: 127.92506
+Diff between tk and best kg: 0x0
+
+Attack index: 89
+Running time: 7.269128799438477 s
+Surviving key guess num: 21
+Best key guess score: 204.29103
+Diff between tk and best kg: 0x10
+
+Attack index: 90
+Running time: 7.376617431640625 s
+Surviving key guess num: 23
+Best key guess score: 201.34613
+Diff between tk and best kg: 0x10000010
+
+Attack index: 91
+Running time: 7.447429895401001 s
+Surviving key guess num: 28
+Best key guess score: 206.67255
+Diff between tk and best kg: 0x10000010
+
+Attack index: 92
+Running time: 7.666023254394531 s
+Surviving key guess num: 16
+Best key guess score: 147.60396
+Diff between tk and best kg: 0x10000010
+
+Attack index: 93
+Running time: 7.47342848777771 s
+Surviving key guess num: 12
+Best key guess score: 151.5697
+Diff between tk and best kg: 0x0
+
+Attack index: 94
+Running time: 7.586307048797607 s
+Surviving key guess num: 14
+Best key guess score: 148.48224
+Diff between tk and best kg: 0x10
+
+Attack index: 95
+Running time: 7.573779344558716 s
+Surviving key guess num: 28
+Best key guess score: 210.5362
+Diff between tk and best kg: 0x10000010
+
+Attack index: 96
+Running time: 7.72263765335083 s
+Surviving key guess num: 23
+Best key guess score: 163.48825
+Diff between tk and best kg: 0x10000000
+
+Attack index: 97
+Running time: 7.798886299133301 s
+Surviving key guess num: 28
+Best key guess score: 211.35043
+Diff between tk and best kg: 0x10
+
+Attack index: 98
+Running time: 7.576805591583252 s
+Surviving key guess num: 44
+Best key guess score: 311.92374
+Diff between tk and best kg: 0x10000010
+
+Attack index: 99
+Running time: 7.55733323097229 s
+Surviving key guess num: 12
+Best key guess score: 137.9634
+Diff between tk and best kg: 0x10
+
+Attack index: 100
+Running time: 7.220664024353027 s
+Surviving key guess num: 32
+Best key guess score: 204.97998
+Diff between tk and best kg: 0x0
+
+Attack index: 101
+Running time: 7.498409748077393 s
+Surviving key guess num: 24
+Best key guess score: 175.26343
+Diff between tk and best kg: 0x10000000
+
+Attack index: 102
+Running time: 7.618557453155518 s
+Surviving key guess num: 28
+Best key guess score: 237.66139
+Diff between tk and best kg: 0x10000000
+
+Attack index: 103
+Running time: 7.470212936401367 s
+Surviving key guess num: 24
+Best key guess score: 228.79448
+Diff between tk and best kg: 0x10000000
+
+Attack index: 104
+Running time: 7.6769068241119385 s
+Surviving key guess num: 20
+Best key guess score: 241.92775
+Diff between tk and best kg: 0x10
+
+Attack index: 105
+Running time: 7.521488904953003 s
+Surviving key guess num: 32
+Best key guess score: 244.13078
+Diff between tk and best kg: 0x10
+
+Attack index: 106
+Running time: 7.6480512619018555 s
+Surviving key guess num: 32
+Best key guess score: 217.02347
+Diff between tk and best kg: 0x10000010
+
+Attack index: 107
+Running time: 7.72844934463501 s
+Surviving key guess num: 20
+Best key guess score: 168.78203
+Diff between tk and best kg: 0x10000000
+
+Attack index: 108
+Running time: 7.6887428760528564 s
+Surviving key guess num: 32
+Best key guess score: 190.54364
+Diff between tk and best kg: 0x10000010
+
+Attack index: 109
+Running time: 7.60317063331604 s
+Surviving key guess num: 24
+Best key guess score: 198.95699
+Diff between tk and best kg: 0x10000000
+
+Attack index: 110
+Running time: 7.396907091140747 s
+Surviving key guess num: 9
+Best key guess score: 121.21901
+Diff between tk and best kg: 0x10000010
+
+Attack index: 111
+Running time: 7.593691825866699 s
+Surviving key guess num: 20
+Best key guess score: 131.13817
+Diff between tk and best kg: 0x10000010
+
+Attack index: 112
+Running time: 7.454322576522827 s
+Surviving key guess num: 28
+Best key guess score: 240.35468
+Diff between tk and best kg: 0x10
+
+Attack index: 113
+Running time: 7.681737422943115 s
+Surviving key guess num: 20
+Best key guess score: 196.39421
+Diff between tk and best kg: 0x10
+
+Attack index: 114
+Running time: 7.66083550453186 s
+Surviving key guess num: 12
+Best key guess score: 88.18784
+Diff between tk and best kg: 0x10
+
+Attack index: 115
+Running time: 7.584990978240967 s
+Surviving key guess num: 16
+Best key guess score: 168.318
+Diff between tk and best kg: 0x0
+
+Attack index: 116
+Running time: 7.355423927307129 s
+Surviving key guess num: 28
+Best key guess score: 191.23029
+Diff between tk and best kg: 0x0
+
+Attack index: 117
+Running time: 7.453066110610962 s
+Surviving key guess num: 12
+Best key guess score: 103.80348
+Diff between tk and best kg: 0x10
+
+Attack index: 118
+Running time: 7.515479564666748 s
+Surviving key guess num: 24
+Best key guess score: 207.53906
+Diff between tk and best kg: 0x0
+
+Attack index: 119
+Running time: 7.686835765838623 s
+Surviving key guess num: 16
+Best key guess score: 171.15335
+Diff between tk and best kg: 0x10000000
+
+Attack index: 120
+Running time: 7.6418445110321045 s
+Surviving key guess num: 24
+Best key guess score: 204.44739
+Diff between tk and best kg: 0x10000000
+
+Attack index: 121
+Running time: 7.671035528182983 s
+Surviving key guess num: 24
+Best key guess score: 221.66252
+Diff between tk and best kg: 0x10
+
+Attack index: 122
+Running time: 7.686549186706543 s
+Surviving key guess num: 45
+Best key guess score: 223.17323
+Diff between tk and best kg: 0x10000000
+
+Attack index: 123
+Running time: 7.634416103363037 s
+Surviving key guess num: 33
+Best key guess score: 240.54233
+Diff between tk and best kg: 0x10000000
+
+Attack index: 124
+Running time: 7.624919652938843 s
+Surviving key guess num: 44
+Best key guess score: 254.30482
+Diff between tk and best kg: 0x10000000
+
+Attack index: 125
+Running time: 7.666461229324341 s
+Surviving key guess num: 12
+Best key guess score: 130.07555
+Diff between tk and best kg: 0x10
+
+Attack index: 126
+Running time: 7.734537601470947 s
+Surviving key guess num: 20
+Best key guess score: 130.91554
+Diff between tk and best kg: 0x10000010
+
+Attack index: 127
+Running time: 7.504411458969116 s
+Surviving key guess num: 24
+Best key guess score: 201.56123
+Diff between tk and best kg: 0x10000010
+
+Attack index: 128
+Running time: 7.517610311508179 s
+Surviving key guess num: 20
+Best key guess score: 199.64943
+Diff between tk and best kg: 0x10
+
+Attack index: 129
+Running time: 7.5836405754089355 s
+Surviving key guess num: 20
+Best key guess score: 144.37764
+Diff between tk and best kg: 0x0
+
+Attack index: 130
+Running time: 7.605850696563721 s
+Surviving key guess num: 28
+Best key guess score: 240.8099
+Diff between tk and best kg: 0x0
+
+Attack index: 131
+Running time: 7.521127700805664 s
+Surviving key guess num: 32
+Best key guess score: 228.4895
+Diff between tk and best kg: 0x10000000
+
+Attack index: 132
+Running time: 7.518864154815674 s
+Surviving key guess num: 16
+Best key guess score: 87.05272
+Diff between tk and best kg: 0x10000010
+
+Attack index: 133
+Running time: 7.568813323974609 s
+Surviving key guess num: 20
+Best key guess score: 154.48126
+Diff between tk and best kg: 0x0
+
+Attack index: 134
+Running time: 7.567843198776245 s
+Surviving key guess num: 32
+Best key guess score: 264.958
+Diff between tk and best kg: 0x0
+
+Attack index: 135
+Running time: 7.469691038131714 s
+Surviving key guess num: 20
+Best key guess score: 155.45282
+Diff between tk and best kg: 0x10000010
+
+Attack index: 136
+Running time: 7.503386497497559 s
+Surviving key guess num: 41
+Best key guess score: 284.0591
+Diff between tk and best kg: 0x10000000
+
+Attack index: 137
+Running time: 7.706568479537964 s
+Surviving key guess num: 16
+Best key guess score: 199.23885
+Diff between tk and best kg: 0x10000000
+
+Attack index: 138
+Running time: 7.446524620056152 s
+Surviving key guess num: 16
+Best key guess score: 150.6756
+Diff between tk and best kg: 0x10000000
+
+Attack index: 139
+Running time: 7.621163845062256 s
+Surviving key guess num: 24
+Best key guess score: 195.31203
+Diff between tk and best kg: 0x10000010
+
+Attack index: 140
+Running time: 7.6955249309539795 s
+Surviving key guess num: 20
+Best key guess score: 180.32033
+Diff between tk and best kg: 0x10000000
+
+Attack index: 141
+Running time: 7.709974050521851 s
+Surviving key guess num: 36
+Best key guess score: 275.38275
+Diff between tk and best kg: 0x0
+
+Attack index: 142
+Running time: 7.623833656311035 s
+Surviving key guess num: 11
+Best key guess score: 152.76448
+Diff between tk and best kg: 0x10000010
+
+Attack index: 143
+Running time: 7.592639207839966 s
+Surviving key guess num: 16
+Best key guess score: 143.29158
+Diff between tk and best kg: 0x10000010
+
+Attack index: 144
+Running time: 7.7251341342926025 s
+Surviving key guess num: 44
+Best key guess score: 320.00314
+Diff between tk and best kg: 0x10
+
+Attack index: 145
+Running time: 7.356932163238525 s
+Surviving key guess num: 24
+Best key guess score: 168.1759
+Diff between tk and best kg: 0x0
+
+Attack index: 146
+Running time: 7.66755223274231 s
+Surviving key guess num: 51
+Best key guess score: 267.5514
+Diff between tk and best kg: 0x0
+
+Attack index: 147
+Running time: 7.542475461959839 s
+Surviving key guess num: 38
+Best key guess score: 198.10416
+Diff between tk and best kg: 0x0
+
+Attack index: 148
+Running time: 7.573489427566528 s
+Surviving key guess num: 28
+Best key guess score: 231.58195
+Diff between tk and best kg: 0x10000010
+
+Attack index: 149
+Running time: 7.6936070919036865 s
+Surviving key guess num: 24
+Best key guess score: 198.90364
+Diff between tk and best kg: 0x10000000
+
+Attack index: 150
+Running time: 7.713587522506714 s
+Surviving key guess num: 8
+Best key guess score: 81.55305
+Diff between tk and best kg: 0x0
+
+Attack index: 151
+Running time: 7.5490312576293945 s
+Surviving key guess num: 16
+Best key guess score: 177.61577
+Diff between tk and best kg: 0x10000010
+
+Attack index: 152
+Running time: 7.636541366577148 s
+Surviving key guess num: 40
+Best key guess score: 242.61687
+Diff between tk and best kg: 0x10000000
+
+Attack index: 153
+Running time: 7.545784950256348 s
+Surviving key guess num: 31
+Best key guess score: 208.2133
+Diff between tk and best kg: 0x10
+
+Attack index: 154
+Running time: 7.546686887741089 s
+Surviving key guess num: 28
+Best key guess score: 245.53505
+Diff between tk and best kg: 0x0
+
+Attack index: 155
+Running time: 7.610471963882446 s
+Surviving key guess num: 12
+Best key guess score: 159.55219
+Diff between tk and best kg: 0x10000010
+
+Attack index: 156
+Running time: 7.681001663208008 s
+Surviving key guess num: 16
+Best key guess score: 165.19855
+Diff between tk and best kg: 0x10
+
+Attack index: 157
+Running time: 7.589308977127075 s
+Surviving key guess num: 12
+Best key guess score: 132.87872
+Diff between tk and best kg: 0x0
+
+Attack index: 158
+Running time: 7.4913530349731445 s
+Surviving key guess num: 9
+Best key guess score: 95.778625
+Diff between tk and best kg: 0x0
+
+Attack index: 159
+Running time: 7.609685182571411 s
+Surviving key guess num: 16
+Best key guess score: 138.34154
+Diff between tk and best kg: 0x10
+
+Attack index: 160
+Running time: 7.611530780792236 s
+Surviving key guess num: 16
+Best key guess score: 137.18057
+Diff between tk and best kg: 0x10000010
+
+Attack index: 161
+Running time: 7.633976936340332 s
+Surviving key guess num: 16
+Best key guess score: 166.2454
+Diff between tk and best kg: 0x10000010
+
+Attack index: 162
+Running time: 7.471763610839844 s
+Surviving key guess num: 36
+Best key guess score: 259.739
+Diff between tk and best kg: 0x10000010
+
+Attack index: 163
+Running time: 7.581595420837402 s
+Surviving key guess num: 16
+Best key guess score: 179.80605
+Diff between tk and best kg: 0x10000010
+
+Attack index: 164
+Running time: 7.581907749176025 s
+Surviving key guess num: 16
+Best key guess score: 160.17325
+Diff between tk and best kg: 0x10000000
+
+Attack index: 165
+Running time: 7.662856340408325 s
+Surviving key guess num: 28
+Best key guess score: 232.09482
+Diff between tk and best kg: 0x10000010
+
+Attack index: 166
+Running time: 7.334439516067505 s
+Surviving key guess num: 12
+Best key guess score: 151.91301
+Diff between tk and best kg: 0x10000010
+
+Attack index: 167
+Running time: 7.453958511352539 s
+Surviving key guess num: 29
+Best key guess score: 206.54768
+Diff between tk and best kg: 0x0
+
+Attack index: 168
+Running time: 7.389206409454346 s
+Surviving key guess num: 28
+Best key guess score: 182.29636
+Diff between tk and best kg: 0x10
+
+Attack index: 169
+Running time: 7.413562059402466 s
+Surviving key guess num: 8
+Best key guess score: 105.41506
+Diff between tk and best kg: 0x0
+
+Attack index: 170
+Running time: 7.548746824264526 s
+Surviving key guess num: 17
+Best key guess score: 180.08902
+Diff between tk and best kg: 0x10
+
+Attack index: 171
+Running time: 7.563451528549194 s
+Surviving key guess num: 32
+Best key guess score: 192.84454
+Diff between tk and best kg: 0x10000010
+
+Attack index: 172
+Running time: 7.721043109893799 s
+Surviving key guess num: 8
+Best key guess score: 104.92397
+Diff between tk and best kg: 0x0
+
+Attack index: 173
+Running time: 7.511295795440674 s
+Surviving key guess num: 28
+Best key guess score: 178.54013
+Diff between tk and best kg: 0x10000000
+
+Attack index: 174
+Running time: 7.455785512924194 s
+Surviving key guess num: 28
+Best key guess score: 258.8554
+Diff between tk and best kg: 0x10000000
+
+Attack index: 175
+Running time: 7.561221361160278 s
+Surviving key guess num: 29
+Best key guess score: 283.15115
+Diff between tk and best kg: 0x10000000
+
+Attack index: 176
+Running time: 7.539081811904907 s
+Surviving key guess num: 33
+Best key guess score: 254.50351
+Diff between tk and best kg: 0x0
+
+Attack index: 177
+Running time: 7.411915302276611 s
+Surviving key guess num: 16
+Best key guess score: 147.40636
+Diff between tk and best kg: 0x10000010
+
+Attack index: 178
+Running time: 7.298007488250732 s
+Surviving key guess num: 48
+Best key guess score: 297.8063
+Diff between tk and best kg: 0x10000010
+
+Attack index: 179
+Running time: 7.289071559906006 s
+Surviving key guess num: 23
+Best key guess score: 180.73788
+Diff between tk and best kg: 0x10
+
+Attack index: 180
+Running time: 7.755397796630859 s
+Surviving key guess num: 40
+Best key guess score: 263.34686
+Diff between tk and best kg: 0x10
+
+Attack index: 181
+Running time: 7.670175075531006 s
+Surviving key guess num: 47
+Best key guess score: 312.07407
+Diff between tk and best kg: 0x10000000
+
+Attack index: 182
+Running time: 7.635467290878296 s
+Surviving key guess num: 30
+Best key guess score: 225.17717
+Diff between tk and best kg: 0x10000010
+
+Attack index: 183
+Running time: 7.503100633621216 s
+Surviving key guess num: 26
+Best key guess score: 214.07901
+Diff between tk and best kg: 0x10
+
+Attack index: 184
+Running time: 7.716574430465698 s
+Surviving key guess num: 24
+Best key guess score: 205.75562
+Diff between tk and best kg: 0x10000010
+
+Attack index: 185
+Running time: 7.6772401332855225 s
+Surviving key guess num: 12
+Best key guess score: 159.0442
+Diff between tk and best kg: 0x10000010
+
+Attack index: 186
+Running time: 7.751351356506348 s
+Surviving key guess num: 24
+Best key guess score: 207.68233
+Diff between tk and best kg: 0x0
+
+Attack index: 187
+Running time: 7.601870775222778 s
+Surviving key guess num: 49
+Best key guess score: 339.0814
+Diff between tk and best kg: 0x10000000
+
+Attack index: 188
+Running time: 7.690903186798096 s
+Surviving key guess num: 24
+Best key guess score: 208.70682
+Diff between tk and best kg: 0x10
+
+Attack index: 189
+Running time: 7.657660484313965 s
+Surviving key guess num: 54
+Best key guess score: 337.29083
+Diff between tk and best kg: 0x0
+
+Attack index: 190
+Running time: 7.570896148681641 s
+Surviving key guess num: 50
+Best key guess score: 244.77496
+Diff between tk and best kg: 0x10000010
+
+Attack index: 191
+Running time: 7.701916456222534 s
+Surviving key guess num: 48
+Best key guess score: 299.30713
+Diff between tk and best kg: 0x10000000
+
+Attack index: 192
+Running time: 7.657494783401489 s
+Surviving key guess num: 12
+Best key guess score: 90.85757
+Diff between tk and best kg: 0x0
+
+Attack index: 193
+Running time: 7.521560430526733 s
+Surviving key guess num: 19
+Best key guess score: 148.85532
+Diff between tk and best kg: 0x10000010
+
+Attack index: 194
+Running time: 7.6831724643707275 s
+Surviving key guess num: 28
+Best key guess score: 219.40688
+Diff between tk and best kg: 0x10
+
+Attack index: 195
+Running time: 7.668939828872681 s
+Surviving key guess num: 32
+Best key guess score: 252.78426
+Diff between tk and best kg: 0x10000000
+
+Attack index: 196
+Running time: 7.613856077194214 s
+Surviving key guess num: 32
+Best key guess score: 212.04843
+Diff between tk and best kg: 0x0
+
+Attack index: 197
+Running time: 7.511096000671387 s
+Surviving key guess num: 36
+Best key guess score: 226.67894
+Diff between tk and best kg: 0x0
+
+Attack index: 198
+Running time: 7.61458683013916 s
+Surviving key guess num: 40
+Best key guess score: 272.7241
+Diff between tk and best kg: 0x0
+
+Attack index: 199
+Running time: 7.783409357070923 s
+Surviving key guess num: 24
+Best key guess score: 182.84134
+Diff between tk and best kg: 0x10
+
+Attack index: 200
+Running time: 7.686873912811279 s
+Surviving key guess num: 31
+Best key guess score: 249.24474
+Diff between tk and best kg: 0x10000010
+
+Attack index: 201
+Running time: 7.5878870487213135 s
+Surviving key guess num: 24
+Best key guess score: 172.90143
+Diff between tk and best kg: 0x10
+
+Attack index: 202
+Running time: 7.550162315368652 s
+Surviving key guess num: 28
+Best key guess score: 233.49684
+Diff between tk and best kg: 0x0
+
+Attack index: 203
+Running time: 7.799960136413574 s
+Surviving key guess num: 28
+Best key guess score: 248.8463
+Diff between tk and best kg: 0x10000010
+
+Attack index: 204
+Running time: 7.591840028762817 s
+Surviving key guess num: 24
+Best key guess score: 198.52577
+Diff between tk and best kg: 0x10
+
+Attack index: 205
+Running time: 7.701173782348633 s
+Surviving key guess num: 44
+Best key guess score: 273.51547
+Diff between tk and best kg: 0x0
+
+Attack index: 206
+Running time: 7.729060173034668 s
+Surviving key guess num: 12
+Best key guess score: 162.46959
+Diff between tk and best kg: 0x0
+
+Attack index: 207
+Running time: 7.52827262878418 s
+Surviving key guess num: 16
+Best key guess score: 140.63019
+Diff between tk and best kg: 0x0
+
+Attack index: 208
+Running time: 7.5613508224487305 s
+Surviving key guess num: 16
+Best key guess score: 155.77536
+Diff between tk and best kg: 0x10000010
+
+Attack index: 209
+Running time: 7.575519800186157 s
+Surviving key guess num: 12
+Best key guess score: 121.70107
+Diff between tk and best kg: 0x0
+
+Attack index: 210
+Running time: 7.6807568073272705 s
+Surviving key guess num: 19
+Best key guess score: 150.34802
+Diff between tk and best kg: 0x0
+
+Attack index: 211
+Running time: 7.707143068313599 s
+Surviving key guess num: 12
+Best key guess score: 163.63123
+Diff between tk and best kg: 0x0
+
+Attack index: 212
+Running time: 7.712731122970581 s
+Surviving key guess num: 16
+Best key guess score: 169.91302
+Diff between tk and best kg: 0x10
+
+Attack index: 213
+Running time: 7.653858184814453 s
+Surviving key guess num: 19
+Best key guess score: 162.85864
+Diff between tk and best kg: 0x10000010
+
+Attack index: 214
+Running time: 7.769582748413086 s
+Surviving key guess num: 24
+Best key guess score: 166.14781
+Diff between tk and best kg: 0x10
+
+Attack index: 215
+Running time: 7.7745442390441895 s
+Surviving key guess num: 36
+Best key guess score: 244.37459
+Diff between tk and best kg: 0x10000010
+
+Attack index: 216
+Running time: 7.716340065002441 s
+Surviving key guess num: 28
+Best key guess score: 178.70158
+Diff between tk and best kg: 0x10000010
+
+Attack index: 217
+Running time: 7.730605363845825 s
+Surviving key guess num: 17
+Best key guess score: 197.33542
+Diff between tk and best kg: 0x0
+
+Attack index: 218
+Running time: 7.718409538269043 s
+Surviving key guess num: 32
+Best key guess score: 221.71135
+Diff between tk and best kg: 0x10000000
+
+Attack index: 219
+Running time: 7.643011808395386 s
+Surviving key guess num: 23
+Best key guess score: 167.99759
+Diff between tk and best kg: 0x10000000
+
+Attack index: 220
+Running time: 7.724982261657715 s
+Surviving key guess num: 32
+Best key guess score: 176.86606
+Diff between tk and best kg: 0x0
+
+Attack index: 221
+Running time: 7.633760929107666 s
+Surviving key guess num: 42
+Best key guess score: 290.97806
+Diff between tk and best kg: 0x10000010
+
+Attack index: 222
+Running time: 7.694463014602661 s
+Surviving key guess num: 32
+Best key guess score: 215.49016
+Diff between tk and best kg: 0x0
+
+Attack index: 223
+Running time: 7.70300817489624 s
+Surviving key guess num: 28
+Best key guess score: 216.43153
+Diff between tk and best kg: 0x10000010
+
+Attack index: 224
+Running time: 7.674188613891602 s
+Surviving key guess num: 20
+Best key guess score: 184.34363
+Diff between tk and best kg: 0x10000010
+
+Attack index: 225
+Running time: 7.697815418243408 s
+Surviving key guess num: 24
+Best key guess score: 271.0189
+Diff between tk and best kg: 0x10000000
+
+Attack index: 226
+Running time: 7.579075813293457 s
+Surviving key guess num: 32
+Best key guess score: 256.48593
+Diff between tk and best kg: 0x0
+
+Attack index: 227
+Running time: 7.638739109039307 s
+Surviving key guess num: 20
+Best key guess score: 153.55406
+Diff between tk and best kg: 0x10000000
+
+Attack index: 228
+Running time: 7.628783941268921 s
+Surviving key guess num: 20
+Best key guess score: 139.4009
+Diff between tk and best kg: 0x10
+
+Attack index: 229
+Running time: 7.5957112312316895 s
+Surviving key guess num: 16
+Best key guess score: 207.99792
+Diff between tk and best kg: 0x10000010
+
+Attack index: 230
+Running time: 7.720400810241699 s
+Surviving key guess num: 32
+Best key guess score: 268.29926
+Diff between tk and best kg: 0x10
+
+Attack index: 231
+Running time: 7.665434837341309 s
+Surviving key guess num: 16
+Best key guess score: 172.2484
+Diff between tk and best kg: 0x0
+
+Attack index: 232
+Running time: 7.566766977310181 s
+Surviving key guess num: 16
+Best key guess score: 132.61728
+Diff between tk and best kg: 0x0
+
+Attack index: 233
+Running time: 7.494575500488281 s
+Surviving key guess num: 12
+Best key guess score: 102.55805
+Diff between tk and best kg: 0x0
+
+Attack index: 234
+Running time: 7.657942056655884 s
+Surviving key guess num: 16
+Best key guess score: 154.67375
+Diff between tk and best kg: 0x10000010
+
+Attack index: 235
+Running time: 7.694458246231079 s
+Surviving key guess num: 40
+Best key guess score: 296.6123
+Diff between tk and best kg: 0x10000010
+
+Attack index: 236
+Running time: 7.535986661911011 s
+Surviving key guess num: 52
+Best key guess score: 307.96713
+Diff between tk and best kg: 0x10000000
+
+Attack index: 237
+Running time: 7.53961443901062 s
+Surviving key guess num: 32
+Best key guess score: 212.37228
+Diff between tk and best kg: 0x10000000
+
+Attack index: 238
+Running time: 7.460235357284546 s
+Surviving key guess num: 24
+Best key guess score: 158.99509
+Diff between tk and best kg: 0x10
+
+Attack index: 239
+Running time: 7.704303741455078 s
+Surviving key guess num: 39
+Best key guess score: 221.17216
+Diff between tk and best kg: 0x10
+
+Attack index: 240
+Running time: 7.7652881145477295 s
+Surviving key guess num: 12
+Best key guess score: 137.40077
+Diff between tk and best kg: 0x10000010
+
+Attack index: 241
+Running time: 7.740049839019775 s
+Surviving key guess num: 44
+Best key guess score: 245.9203
+Diff between tk and best kg: 0x10000000
+
+Attack index: 242
+Running time: 7.5578391551971436 s
+Surviving key guess num: 38
+Best key guess score: 257.77258
+Diff between tk and best kg: 0x10
+
+Attack index: 243
+Running time: 7.725964784622192 s
+Surviving key guess num: 28
+Best key guess score: 210.87207
+Diff between tk and best kg: 0x10
+
+Attack index: 244
+Running time: 7.772892713546753 s
+Surviving key guess num: 20
+Best key guess score: 205.91077
+Diff between tk and best kg: 0x10
+
+Attack index: 245
+Running time: 7.595066785812378 s
+Surviving key guess num: 16
+Best key guess score: 139.04308
+Diff between tk and best kg: 0x10
+
+Attack index: 246
+Running time: 7.6287312507629395 s
+Surviving key guess num: 16
+Best key guess score: 131.06807
+Diff between tk and best kg: 0x0
+
+Attack index: 247
+Running time: 7.744690895080566 s
+Surviving key guess num: 11
+Best key guess score: 117.78211
+Diff between tk and best kg: 0x10
+
+Attack index: 248
+Running time: 7.707418441772461 s
+Surviving key guess num: 20
+Best key guess score: 200.13242
+Diff between tk and best kg: 0x10
+
+Attack index: 249
+Running time: 7.645076274871826 s
+Surviving key guess num: 23
+Best key guess score: 155.77708
+Diff between tk and best kg: 0x10
+
+Attack index: 250
+Running time: 7.58211350440979 s
+Surviving key guess num: 12
+Best key guess score: 89.74149
+Diff between tk and best kg: 0x10000010
+
+Attack index: 251
+Running time: 7.606858015060425 s
+Surviving key guess num: 24
+Best key guess score: 173.76997
+Diff between tk and best kg: 0x0
+
+Attack index: 252
+Running time: 7.6229188442230225 s
+Surviving key guess num: 28
+Best key guess score: 228.03543
+Diff between tk and best kg: 0x10000000
+
+Attack index: 253
+Running time: 7.614279747009277 s
+Surviving key guess num: 36
+Best key guess score: 313.80054
+Diff between tk and best kg: 0x10000000
+
+Attack index: 254
+Running time: 7.711557149887085 s
+Surviving key guess num: 16
+Best key guess score: 184.03241
+Diff between tk and best kg: 0x0
+
+Attack index: 255
+Running time: 7.630099773406982 s
+Surviving key guess num: 16
+Best key guess score: 186.4122
+Diff between tk and best kg: 0x10
+
+Attack index: 256
+Running time: 7.655538320541382 s
+Surviving key guess num: 16
+Best key guess score: 205.00421
+Diff between tk and best kg: 0x10000010
+
+Attack index: 257
+Running time: 7.4776225090026855 s
+Surviving key guess num: 22
+Best key guess score: 218.86342
+Diff between tk and best kg: 0x0
+
+Attack index: 258
+Running time: 7.630254030227661 s
+Surviving key guess num: 29
+Best key guess score: 220.76678
+Diff between tk and best kg: 0x10000000
+
+Attack index: 259
+Running time: 7.821979522705078 s
+Surviving key guess num: 8
+Best key guess score: 55.403286
+Diff between tk and best kg: 0x10000010
+
+Attack index: 260
+Running time: 7.6840150356292725 s
+Surviving key guess num: 12
+Best key guess score: 143.33179
+Diff between tk and best kg: 0x0
+
+Attack index: 261
+Running time: 7.53244686126709 s
+Surviving key guess num: 36
+Best key guess score: 279.9304
+Diff between tk and best kg: 0x10000000
+
+Attack index: 262
+Running time: 7.640143871307373 s
+Surviving key guess num: 32
+Best key guess score: 207.68819
+Diff between tk and best kg: 0x0
+
+Attack index: 263
+Running time: 7.630099773406982 s
+Surviving key guess num: 48
+Best key guess score: 265.82318
+Diff between tk and best kg: 0x10000000
+
+Attack index: 264
+Running time: 7.811126232147217 s
+Surviving key guess num: 48
+Best key guess score: 288.95294
+Diff between tk and best kg: 0x10
+
+Attack index: 265
+Running time: 7.709472179412842 s
+Surviving key guess num: 32
+Best key guess score: 205.64008
+Diff between tk and best kg: 0x0
+
+Attack index: 266
+Running time: 7.724435567855835 s
+Surviving key guess num: 16
+Best key guess score: 151.64685
+Diff between tk and best kg: 0x10000010
+
+Attack index: 267
+Running time: 7.69055438041687 s
+Surviving key guess num: 16
+Best key guess score: 168.84589
+Diff between tk and best kg: 0x10000000
+
+Attack index: 268
+Running time: 7.752586841583252 s
+Surviving key guess num: 24
+Best key guess score: 202.00401
+Diff between tk and best kg: 0x10000000
+
+Attack index: 269
+Running time: 7.718618869781494 s
+Surviving key guess num: 24
+Best key guess score: 179.23961
+Diff between tk and best kg: 0x0
+
+Attack index: 270
+Running time: 7.608941555023193 s
+Surviving key guess num: 24
+Best key guess score: 184.10951
+Diff between tk and best kg: 0x0
+
+Attack index: 271
+Running time: 7.638648271560669 s
+Surviving key guess num: 20
+Best key guess score: 156.36966
+Diff between tk and best kg: 0x10000010
+
+Attack index: 272
+Running time: 7.6325554847717285 s
+Surviving key guess num: 12
+Best key guess score: 133.11981
+Diff between tk and best kg: 0x10000000
+
+Attack index: 273
+Running time: 7.456347942352295 s
+Surviving key guess num: 32
+Best key guess score: 250.33093
+Diff between tk and best kg: 0x0
+
+Attack index: 274
+Running time: 7.550442934036255 s
+Surviving key guess num: 12
+Best key guess score: 132.03546
+Diff between tk and best kg: 0x10000010
+
+Attack index: 275
+Running time: 7.53158164024353 s
+Surviving key guess num: 36
+Best key guess score: 240.00966
+Diff between tk and best kg: 0x10
+
+Attack index: 276
+Running time: 7.5266618728637695 s
+Surviving key guess num: 36
+Best key guess score: 287.7127
+Diff between tk and best kg: 0x0
+
+Attack index: 277
+Running time: 7.560189723968506 s
+Surviving key guess num: 40
+Best key guess score: 306.96765
+Diff between tk and best kg: 0x10000000
+
+Attack index: 278
+Running time: 7.482244253158569 s
+Surviving key guess num: 20
+Best key guess score: 149.51375
+Diff between tk and best kg: 0x10000000
+
+Attack index: 279
+Running time: 7.710205316543579 s
+Surviving key guess num: 16
+Best key guess score: 164.47168
+Diff between tk and best kg: 0x10
+
+Attack index: 280
+Running time: 7.636133432388306 s
+Surviving key guess num: 16
+Best key guess score: 185.37158
+Diff between tk and best kg: 0x0
+
+Attack index: 281
+Running time: 7.597353219985962 s
+Surviving key guess num: 24
+Best key guess score: 233.92531
+Diff between tk and best kg: 0x10000010
+
+Attack index: 282
+Running time: 7.600691795349121 s
+Surviving key guess num: 27
+Best key guess score: 228.88844
+Diff between tk and best kg: 0x10000000
+
+Attack index: 283
+Running time: 7.697577238082886 s
+Surviving key guess num: 24
+Best key guess score: 199.3365
+Diff between tk and best kg: 0x0
+
+Attack index: 284
+Running time: 7.64633584022522 s
+Surviving key guess num: 52
+Best key guess score: 294.5612
+Diff between tk and best kg: 0x10000010
+
+Attack index: 285
+Running time: 7.391483306884766 s
+Surviving key guess num: 16
+Best key guess score: 117.785385
+Diff between tk and best kg: 0x10
+
+Attack index: 286
+Running time: 7.708587884902954 s
+Surviving key guess num: 16
+Best key guess score: 178.79762
+Diff between tk and best kg: 0x10000010
+
+Attack index: 287
+Running time: 7.510722398757935 s
+Surviving key guess num: 40
+Best key guess score: 209.7303
+Diff between tk and best kg: 0x10
+
+Attack index: 288
+Running time: 7.677471876144409 s
+Surviving key guess num: 47
+Best key guess score: 255.13103
+Diff between tk and best kg: 0x10000010
+
+Attack index: 289
+Running time: 7.669330358505249 s
+Surviving key guess num: 35
+Best key guess score: 254.39377
+Diff between tk and best kg: 0x10
+
+Attack index: 290
+Running time: 7.528532981872559 s
+Surviving key guess num: 20
+Best key guess score: 144.68634
+Diff between tk and best kg: 0x10
+
+Attack index: 291
+Running time: 7.527952194213867 s
+Surviving key guess num: 12
+Best key guess score: 108.22978
+Diff between tk and best kg: 0x10000010
+
+Attack index: 292
+Running time: 7.631589412689209 s
+Surviving key guess num: 52
+Best key guess score: 285.32724
+Diff between tk and best kg: 0x0
+
+Attack index: 293
+Running time: 7.347817659378052 s
+Surviving key guess num: 12
+Best key guess score: 88.58903
+Diff between tk and best kg: 0x10000000
+
+Attack index: 294
+Running time: 7.43099045753479 s
+Surviving key guess num: 16
+Best key guess score: 158.84262
+Diff between tk and best kg: 0x10000010
+
+Attack index: 295
+Running time: 7.511447906494141 s
+Surviving key guess num: 40
+Best key guess score: 309.3663
+Diff between tk and best kg: 0x0
+
+Attack index: 296
+Running time: 7.420969009399414 s
+Surviving key guess num: 28
+Best key guess score: 227.14217
+Diff between tk and best kg: 0x0
+
+Attack index: 297
+Running time: 7.633289337158203 s
+Surviving key guess num: 25
+Best key guess score: 224.01416
+Diff between tk and best kg: 0x10000010
+
+Attack index: 298
+Running time: 7.386335372924805 s
+Surviving key guess num: 35
+Best key guess score: 179.0049
+Diff between tk and best kg: 0x0
+
+Attack index: 299
+Running time: 7.443985939025879 s
+Surviving key guess num: 24
+Best key guess score: 191.49881
+Diff between tk and best kg: 0x10
+
+Attack index: 300
+Running time: 7.492307901382446 s
+Surviving key guess num: 16
+Best key guess score: 123.018036
+Diff between tk and best kg: 0x10000000
+
+Attack index: 301
+Running time: 7.587059259414673 s
+Surviving key guess num: 46
+Best key guess score: 285.66812
+Diff between tk and best kg: 0x10000010
+
+Attack index: 302
+Running time: 7.651161193847656 s
+Surviving key guess num: 32
+Best key guess score: 216.24173
+Diff between tk and best kg: 0x0
+
+Attack index: 303
+Running time: 7.579008340835571 s
+Surviving key guess num: 16
+Best key guess score: 165.53627
+Diff between tk and best kg: 0x10000010
+
+Attack index: 304
+Running time: 7.480733871459961 s
+Surviving key guess num: 16
+Best key guess score: 184.51842
+Diff between tk and best kg: 0x10000000
+
+Attack index: 305
+Running time: 7.664643049240112 s
+Surviving key guess num: 26
+Best key guess score: 202.85258
+Diff between tk and best kg: 0x0
+
+Attack index: 306
+Running time: 7.617405891418457 s
+Surviving key guess num: 31
+Best key guess score: 240.95584
+Diff between tk and best kg: 0x0
+
+Attack index: 307
+Running time: 7.533338785171509 s
+Surviving key guess num: 41
+Best key guess score: 242.80368
+Diff between tk and best kg: 0x10000000
+
+Attack index: 308
+Running time: 7.643415927886963 s
+Surviving key guess num: 40
+Best key guess score: 222.0712
+Diff between tk and best kg: 0x10
+
+Attack index: 309
+Running time: 7.541585922241211 s
+Surviving key guess num: 29
+Best key guess score: 263.97067
+Diff between tk and best kg: 0x0
+
+Attack index: 310
+Running time: 7.414337158203125 s
+Surviving key guess num: 24
+Best key guess score: 192.88277
+Diff between tk and best kg: 0x10
+
+Attack index: 311
+Running time: 7.622912645339966 s
+Surviving key guess num: 12
+Best key guess score: 147.39267
+Diff between tk and best kg: 0x10000010
+
+Attack index: 312
+Running time: 7.545427560806274 s
+Surviving key guess num: 8
+Best key guess score: 77.446365
+Diff between tk and best kg: 0x200010
+
+Attack index: 313
+Running time: 7.524786710739136 s
+Surviving key guess num: 20
+Best key guess score: 193.923
+Diff between tk and best kg: 0x10
+
+Attack index: 314
+Running time: 7.745704650878906 s
+Surviving key guess num: 20
+Best key guess score: 194.39734
+Diff between tk and best kg: 0x10
+
+Attack index: 315
+Running time: 7.775044202804565 s
+Surviving key guess num: 40
+Best key guess score: 257.15732
+Diff between tk and best kg: 0x10000000
+
+Attack index: 316
+Running time: 7.685143709182739 s
+Surviving key guess num: 20
+Best key guess score: 208.0886
+Diff between tk and best kg: 0x0
+
+Attack index: 317
+Running time: 7.616901159286499 s
+Surviving key guess num: 24
+Best key guess score: 207.23734
+Diff between tk and best kg: 0x10000010
+
+Attack index: 318
+Running time: 7.640885829925537 s
+Surviving key guess num: 33
+Best key guess score: 244.41077
+Diff between tk and best kg: 0x10
+
+Attack index: 319
+Running time: 7.6155455112457275 s
+Surviving key guess num: 16
+Best key guess score: 126.07269
+Diff between tk and best kg: 0x10000000
+
+Attack index: 320
+Running time: 7.705406665802002 s
+Surviving key guess num: 12
+Best key guess score: 120.255455
+Diff between tk and best kg: 0x10
+
+Attack index: 321
+Running time: 7.589712858200073 s
+Surviving key guess num: 16
+Best key guess score: 167.81833
+Diff between tk and best kg: 0x10000010
+
+Attack index: 322
+Running time: 7.555188894271851 s
+Surviving key guess num: 20
+Best key guess score: 182.5766
+Diff between tk and best kg: 0x0
+
+Attack index: 323
+Running time: 7.438888311386108 s
+Surviving key guess num: 33
+Best key guess score: 265.9298
+Diff between tk and best kg: 0x0
+
+Attack index: 324
+Running time: 7.445247411727905 s
+Surviving key guess num: 20
+Best key guess score: 127.00373
+Diff between tk and best kg: 0x0
+
+Attack index: 325
+Running time: 7.628661155700684 s
+Surviving key guess num: 21
+Best key guess score: 184.21573
+Diff between tk and best kg: 0x10000010
+
+Attack index: 326
+Running time: 7.63898491859436 s
+Surviving key guess num: 28
+Best key guess score: 175.20244
+Diff between tk and best kg: 0x10
+
+Attack index: 327
+Running time: 7.603797912597656 s
+Surviving key guess num: 16
+Best key guess score: 130.05463
+Diff between tk and best kg: 0x10000010
+
+Attack index: 328
+Running time: 7.603422164916992 s
+Surviving key guess num: 20
+Best key guess score: 196.90515
+Diff between tk and best kg: 0x10000010
+
+Attack index: 329
+Running time: 7.529143571853638 s
+Surviving key guess num: 16
+Best key guess score: 128.97011
+Diff between tk and best kg: 0x10
+
+Attack index: 330
+Running time: 7.468040943145752 s
+Surviving key guess num: 33
+Best key guess score: 253.30801
+Diff between tk and best kg: 0x10
+
+Attack index: 331
+Running time: 7.50717568397522 s
+Surviving key guess num: 36
+Best key guess score: 241.63484
+Diff between tk and best kg: 0x0
+
+Attack index: 332
+Running time: 7.779322624206543 s
+Surviving key guess num: 24
+Best key guess score: 173.33842
+Diff between tk and best kg: 0x10000010
+
+Attack index: 333
+Running time: 7.799546718597412 s
+Surviving key guess num: 23
+Best key guess score: 204.63757
+Diff between tk and best kg: 0x10
+
+Attack index: 334
+Running time: 7.719782114028931 s
+Surviving key guess num: 16
+Best key guess score: 189.31714
+Diff between tk and best kg: 0x0
+
+Attack index: 335
+Running time: 7.712201833724976 s
+Surviving key guess num: 44
+Best key guess score: 312.18304
+Diff between tk and best kg: 0x10
+
+Attack index: 336
+Running time: 7.625717878341675 s
+Surviving key guess num: 20
+Best key guess score: 140.98236
+Diff between tk and best kg: 0x10
+
+Attack index: 337
+Running time: 7.617929697036743 s
+Surviving key guess num: 27
+Best key guess score: 220.5625
+Diff between tk and best kg: 0x0
+
+Attack index: 338
+Running time: 7.574682712554932 s
+Surviving key guess num: 16
+Best key guess score: 151.66408
+Diff between tk and best kg: 0x10000010
+
+Attack index: 339
+Running time: 7.6671226024627686 s
+Surviving key guess num: 19
+Best key guess score: 213.51941
+Diff between tk and best kg: 0x10000000
+
+Attack index: 340
+Running time: 7.485713005065918 s
+Surviving key guess num: 25
+Best key guess score: 237.14131
+Diff between tk and best kg: 0x0
+
+Attack index: 341
+Running time: 7.651456594467163 s
+Surviving key guess num: 32
+Best key guess score: 225.63603
+Diff between tk and best kg: 0x10
+
+Attack index: 342
+Running time: 7.740084409713745 s
+Surviving key guess num: 18
+Best key guess score: 196.65974
+Diff between tk and best kg: 0x10
+
+Attack index: 343
+Running time: 7.628280878067017 s
+Surviving key guess num: 28
+Best key guess score: 208.02429
+Diff between tk and best kg: 0x0
+
+Attack index: 344
+Running time: 7.635547637939453 s
+Surviving key guess num: 12
+Best key guess score: 145.13779
+Diff between tk and best kg: 0x10000000
+
+Attack index: 345
+Running time: 7.76531457901001 s
+Surviving key guess num: 12
+Best key guess score: 176.37097
+Diff between tk and best kg: 0x10
+
+Attack index: 346
+Running time: 7.686466217041016 s
+Surviving key guess num: 21
+Best key guess score: 174.00404
+Diff between tk and best kg: 0x10000010
+
+Attack index: 347
+Running time: 7.587466478347778 s
+Surviving key guess num: 28
+Best key guess score: 216.39796
+Diff between tk and best kg: 0x0
+
+Attack index: 348
+Running time: 7.584652423858643 s
+Surviving key guess num: 16
+Best key guess score: 146.78734
+Diff between tk and best kg: 0x10000010
+
+Attack index: 349
+Running time: 7.505791902542114 s
+Surviving key guess num: 8
+Best key guess score: 120.666115
+Diff between tk and best kg: 0x10
+
+Attack index: 350
+Running time: 7.652867317199707 s
+Surviving key guess num: 26
+Best key guess score: 207.5218
+Diff between tk and best kg: 0x10000000
+
+Attack index: 351
+Running time: 7.72395920753479 s
+Surviving key guess num: 28
+Best key guess score: 197.98097
+Diff between tk and best kg: 0x10
+
+Attack index: 352
+Running time: 7.617905378341675 s
+Surviving key guess num: 12
+Best key guess score: 116.06186
+Diff between tk and best kg: 0x10000010
+
+Attack index: 353
+Running time: 7.806065559387207 s
+Surviving key guess num: 28
+Best key guess score: 145.61226
+Diff between tk and best kg: 0x10
+
+Attack index: 354
+Running time: 7.730220317840576 s
+Surviving key guess num: 12
+Best key guess score: 133.77632
+Diff between tk and best kg: 0x10000010
+
+Attack index: 355
+Running time: 7.736470699310303 s
+Surviving key guess num: 36
+Best key guess score: 208.58076
+Diff between tk and best kg: 0x0
+
+Attack index: 356
+Running time: 7.65618634223938 s
+Surviving key guess num: 36
+Best key guess score: 263.24152
+Diff between tk and best kg: 0x0
+
+Attack index: 357
+Running time: 7.538810729980469 s
+Surviving key guess num: 13
+Best key guess score: 131.68947
+Diff between tk and best kg: 0x10
+
+Attack index: 358
+Running time: 7.598604679107666 s
+Surviving key guess num: 20
+Best key guess score: 138.85638
+Diff between tk and best kg: 0x10000000
+
+Attack index: 359
+Running time: 7.562303304672241 s
+Surviving key guess num: 28
+Best key guess score: 151.7548
+Diff between tk and best kg: 0x10
+
+Attack index: 360
+Running time: 7.521909713745117 s
+Surviving key guess num: 24
+Best key guess score: 204.75989
+Diff between tk and best kg: 0x10
+
+Attack index: 361
+Running time: 7.494921684265137 s
+Surviving key guess num: 20
+Best key guess score: 184.5245
+Diff between tk and best kg: 0x10000000
+
+Attack index: 362
+Running time: 7.545037508010864 s
+Surviving key guess num: 22
+Best key guess score: 208.41551
+Diff between tk and best kg: 0x10000000
+
+Attack index: 363
+Running time: 7.356096982955933 s
+Surviving key guess num: 16
+Best key guess score: 156.06268
+Diff between tk and best kg: 0x10
+
+Attack index: 364
+Running time: 7.7472052574157715 s
+Surviving key guess num: 15
+Best key guess score: 131.36444
+Diff between tk and best kg: 0x0
+
+Attack index: 365
+Running time: 7.561611175537109 s
+Surviving key guess num: 28
+Best key guess score: 248.14558
+Diff between tk and best kg: 0x10
+
+Attack index: 366
+Running time: 7.614235162734985 s
+Surviving key guess num: 14
+Best key guess score: 150.78114
+Diff between tk and best kg: 0x10
+
+Attack index: 367
+Running time: 7.431154727935791 s
+Surviving key guess num: 30
+Best key guess score: 235.56389
+Diff between tk and best kg: 0x10
+
+Attack index: 368
+Running time: 7.654741287231445 s
+Surviving key guess num: 20
+Best key guess score: 162.39227
+Diff between tk and best kg: 0x0
+
+Attack index: 369
+Running time: 7.7158522605896 s
+Surviving key guess num: 24
+Best key guess score: 206.56535
+Diff between tk and best kg: 0x10
+
+Attack index: 370
+Running time: 7.749581336975098 s
+Surviving key guess num: 28
+Best key guess score: 247.12827
+Diff between tk and best kg: 0x10000010
+
+Attack index: 371
+Running time: 7.564434051513672 s
+Surviving key guess num: 20
+Best key guess score: 168.04846
+Diff between tk and best kg: 0x0
+
+Attack index: 372
+Running time: 7.554036855697632 s
+Surviving key guess num: 37
+Best key guess score: 254.44026
+Diff between tk and best kg: 0x10
+
+Attack index: 373
+Running time: 7.631522178649902 s
+Surviving key guess num: 16
+Best key guess score: 185.82832
+Diff between tk and best kg: 0x10000010
+
+Attack index: 374
+Running time: 7.546483039855957 s
+Surviving key guess num: 18
+Best key guess score: 183.31236
+Diff between tk and best kg: 0x10000010
+
+Attack index: 375
+Running time: 7.615886211395264 s
+Surviving key guess num: 64
+Best key guess score: 364.08896
+Diff between tk and best kg: 0x0
+
+Attack index: 376
+Running time: 7.498552322387695 s
+Surviving key guess num: 24
+Best key guess score: 168.16359
+Diff between tk and best kg: 0x0
+
+Attack index: 377
+Running time: 7.639082908630371 s
+Surviving key guess num: 32
+Best key guess score: 235.39973
+Diff between tk and best kg: 0x10
+
+Attack index: 378
+Running time: 7.736236333847046 s
+Surviving key guess num: 11
+Best key guess score: 149.48871
+Diff between tk and best kg: 0x0
+
+Attack index: 379
+Running time: 7.81223464012146 s
+Surviving key guess num: 16
+Best key guess score: 202.67061
+Diff between tk and best kg: 0x0
+
+Attack index: 380
+Running time: 7.719342470169067 s
+Surviving key guess num: 24
+Best key guess score: 196.72461
+Diff between tk and best kg: 0x10000010
+
+Attack index: 381
+Running time: 7.679683685302734 s
+Surviving key guess num: 28
+Best key guess score: 228.84618
+Diff between tk and best kg: 0x10
+
+Attack index: 382
+Running time: 7.732874155044556 s
+Surviving key guess num: 12
+Best key guess score: 165.09721
+Diff between tk and best kg: 0x10
+
+Attack index: 383
+Running time: 8.012916803359985 s
+Surviving key guess num: 16
+Best key guess score: 131.92532
+Diff between tk and best kg: 0x0
+
+Attack index: 384
+Running time: 7.523721218109131 s
+Surviving key guess num: 12
+Best key guess score: 140.51317
+Diff between tk and best kg: 0x10000010
+
+Attack index: 385
+Running time: 7.630091667175293 s
+Surviving key guess num: 20
+Best key guess score: 150.51332
+Diff between tk and best kg: 0x0
+
+Attack index: 386
+Running time: 7.590078830718994 s
+Surviving key guess num: 20
+Best key guess score: 180.9087
+Diff between tk and best kg: 0x0
+
+Attack index: 387
+Running time: 7.548771381378174 s
+Surviving key guess num: 20
+Best key guess score: 168.05005
+Diff between tk and best kg: 0x10000010
+
+Attack index: 388
+Running time: 7.795092821121216 s
+Surviving key guess num: 51
+Best key guess score: 320.2233
+Diff between tk and best kg: 0x10000010
+
+Attack index: 389
+Running time: 7.750699996948242 s
+Surviving key guess num: 16
+Best key guess score: 173.2173
+Diff between tk and best kg: 0x10
+
+Attack index: 390
+Running time: 7.5713818073272705 s
+Surviving key guess num: 16
+Best key guess score: 107.85151
+Diff between tk and best kg: 0x10
+
+Attack index: 391
+Running time: 7.695267915725708 s
+Surviving key guess num: 24
+Best key guess score: 195.75798
+Diff between tk and best kg: 0x10000000
+
+Attack index: 392
+Running time: 7.592298746109009 s
+Surviving key guess num: 12
+Best key guess score: 159.0188
+Diff between tk and best kg: 0x0
+
+Attack index: 393
+Running time: 7.724572658538818 s
+Surviving key guess num: 41
+Best key guess score: 275.28107
+Diff between tk and best kg: 0x10000010
+
+Attack index: 394
+Running time: 7.5486671924591064 s
+Surviving key guess num: 16
+Best key guess score: 149.31374
+Diff between tk and best kg: 0x10
+
+Attack index: 395
+Running time: 7.431369781494141 s
+Surviving key guess num: 12
+Best key guess score: 140.28632
+Diff between tk and best kg: 0x10000000
+
+Attack index: 396
+Running time: 7.547012805938721 s
+Surviving key guess num: 24
+Best key guess score: 213.93289
+Diff between tk and best kg: 0x10000000
+
+Attack index: 397
+Running time: 7.402988433837891 s
+Surviving key guess num: 12
+Best key guess score: 102.905304
+Diff between tk and best kg: 0x10000010
+
+Attack index: 398
+Running time: 7.381479740142822 s
+Surviving key guess num: 60
+Best key guess score: 347.35568
+Diff between tk and best kg: 0x10000000
+
+Attack index: 399
+Running time: 7.6634204387664795 s
+Surviving key guess num: 24
+Best key guess score: 181.04344
+Diff between tk and best kg: 0x0
+
+Attack index: 400
+Running time: 7.469807386398315 s
+Surviving key guess num: 24
+Best key guess score: 213.00455
+Diff between tk and best kg: 0x10
+
+Attack index: 401
+Running time: 7.652156352996826 s
+Surviving key guess num: 39
+Best key guess score: 201.06131
+Diff between tk and best kg: 0x0
+
+Attack index: 402
+Running time: 7.530137300491333 s
+Surviving key guess num: 12
+Best key guess score: 103.90447
+Diff between tk and best kg: 0x10000010
+
+Attack index: 403
+Running time: 7.540108919143677 s
+Surviving key guess num: 26
+Best key guess score: 177.36368
+Diff between tk and best kg: 0x10000010
+
+Attack index: 404
+Running time: 7.672851324081421 s
+Surviving key guess num: 28
+Best key guess score: 174.24678
+Diff between tk and best kg: 0x0
+
+Attack index: 405
+Running time: 7.503872632980347 s
+Surviving key guess num: 27
+Best key guess score: 156.26234
+Diff between tk and best kg: 0x0
+
+Attack index: 406
+Running time: 7.605108022689819 s
+Surviving key guess num: 44
+Best key guess score: 331.9142
+Diff between tk and best kg: 0x10000010
+
+Attack index: 407
+Running time: 7.498966693878174 s
+Surviving key guess num: 24
+Best key guess score: 164.08916
+Diff between tk and best kg: 0x0
+
+Attack index: 408
+Running time: 7.763736009597778 s
+Surviving key guess num: 20
+Best key guess score: 158.56628
+Diff between tk and best kg: 0x10
+
+Attack index: 409
+Running time: 7.452600002288818 s
+Surviving key guess num: 20
+Best key guess score: 168.85852
+Diff between tk and best kg: 0x10000010
+
+Attack index: 410
+Running time: 7.641064167022705 s
+Surviving key guess num: 24
+Best key guess score: 161.87808
+Diff between tk and best kg: 0x0
+
+Attack index: 411
+Running time: 7.497614145278931 s
+Surviving key guess num: 16
+Best key guess score: 158.2677
+Diff between tk and best kg: 0x10
+
+Attack index: 412
+Running time: 7.6502861976623535 s
+Surviving key guess num: 20
+Best key guess score: 154.53432
+Diff between tk and best kg: 0x10000000
+
+Attack index: 413
+Running time: 7.550048589706421 s
+Surviving key guess num: 20
+Best key guess score: 186.89317
+Diff between tk and best kg: 0x0
+
+Attack index: 414
+Running time: 7.6004862785339355 s
+Surviving key guess num: 28
+Best key guess score: 229.80127
+Diff between tk and best kg: 0x10
+
+Attack index: 415
+Running time: 7.641193389892578 s
+Surviving key guess num: 30
+Best key guess score: 208.41644
+Diff between tk and best kg: 0x0
+
+Attack index: 416
+Running time: 7.524714231491089 s
+Surviving key guess num: 40
+Best key guess score: 250.7668
+Diff between tk and best kg: 0x10
+
+Attack index: 417
+Running time: 7.653126001358032 s
+Surviving key guess num: 24
+Best key guess score: 176.21571
+Diff between tk and best kg: 0x10
+
+Attack index: 418
+Running time: 7.572952747344971 s
+Surviving key guess num: 12
+Best key guess score: 111.81502
+Diff between tk and best kg: 0x10
+
+Attack index: 419
+Running time: 7.654597043991089 s
+Surviving key guess num: 28
+Best key guess score: 232.80919
+Diff between tk and best kg: 0x10
+
+Attack index: 420
+Running time: 7.625181436538696 s
+Surviving key guess num: 28
+Best key guess score: 222.48111
+Diff between tk and best kg: 0x0
+
+Attack index: 421
+Running time: 7.741227149963379 s
+Surviving key guess num: 35
+Best key guess score: 231.78711
+Diff between tk and best kg: 0x10
+
+Attack index: 422
+Running time: 7.668590784072876 s
+Surviving key guess num: 12
+Best key guess score: 131.99426
+Diff between tk and best kg: 0x10000010
+
+Attack index: 423
+Running time: 7.523165941238403 s
+Surviving key guess num: 24
+Best key guess score: 204.6509
+Diff between tk and best kg: 0x0
+
+Attack index: 424
+Running time: 7.531201601028442 s
+Surviving key guess num: 16
+Best key guess score: 158.26913
+Diff between tk and best kg: 0x10000010
+
+Attack index: 425
+Running time: 7.530192613601685 s
+Surviving key guess num: 40
+Best key guess score: 306.06543
+Diff between tk and best kg: 0x10000000
+
+Attack index: 426
+Running time: 7.387204170227051 s
+Surviving key guess num: 24
+Best key guess score: 215.25482
+Diff between tk and best kg: 0x10
+
+Attack index: 427
+Running time: 7.3890862464904785 s
+Surviving key guess num: 12
+Best key guess score: 135.52635
+Diff between tk and best kg: 0x10000010
+
+Attack index: 428
+Running time: 7.430444240570068 s
+Surviving key guess num: 72
+Best key guess score: 376.80942
+Diff between tk and best kg: 0x10
+
+Attack index: 429
+Running time: 7.418489456176758 s
+Surviving key guess num: 24
+Best key guess score: 192.4373
+Diff between tk and best kg: 0x10
+
+Attack index: 430
+Running time: 7.774532318115234 s
+Surviving key guess num: 28
+Best key guess score: 226.30948
+Diff between tk and best kg: 0x10000000
+
+Attack index: 431
+Running time: 7.8500096797943115 s
+Surviving key guess num: 12
+Best key guess score: 160.57332
+Diff between tk and best kg: 0x0
+
+Attack index: 432
+Running time: 7.637922525405884 s
+Surviving key guess num: 40
+Best key guess score: 226.55911
+Diff between tk and best kg: 0x10000010
+
+Attack index: 433
+Running time: 7.732861280441284 s
+Surviving key guess num: 20
+Best key guess score: 154.00697
+Diff between tk and best kg: 0x10
+
+Attack index: 434
+Running time: 7.489648342132568 s
+Surviving key guess num: 16
+Best key guess score: 104.816765
+Diff between tk and best kg: 0x0
+
+Attack index: 435
+Running time: 7.578150033950806 s
+Surviving key guess num: 33
+Best key guess score: 260.23166
+Diff between tk and best kg: 0x10000010
+
+Attack index: 436
+Running time: 7.639447927474976 s
+Surviving key guess num: 24
+Best key guess score: 196.66885
+Diff between tk and best kg: 0x0
+
+Attack index: 437
+Running time: 7.77074408531189 s
+Surviving key guess num: 40
+Best key guess score: 286.2507
+Diff between tk and best kg: 0x10
+
+Attack index: 438
+Running time: 7.399050712585449 s
+Surviving key guess num: 16
+Best key guess score: 164.39339
+Diff between tk and best kg: 0x10
+
+Attack index: 439
+Running time: 7.422122001647949 s
+Surviving key guess num: 12
+Best key guess score: 128.77046
+Diff between tk and best kg: 0x10000010
+
+Attack index: 440
+Running time: 7.724334716796875 s
+Surviving key guess num: 14
+Best key guess score: 108.87757
+Diff between tk and best kg: 0x0
+
+Attack index: 441
+Running time: 7.54522705078125 s
+Surviving key guess num: 36
+Best key guess score: 260.85098
+Diff between tk and best kg: 0x10000010
+
+Attack index: 442
+Running time: 7.5836474895477295 s
+Surviving key guess num: 12
+Best key guess score: 159.64972
+Diff between tk and best kg: 0x10000000
+
+Attack index: 443
+Running time: 7.592381715774536 s
+Surviving key guess num: 44
+Best key guess score: 247.02151
+Diff between tk and best kg: 0x0
+
+Attack index: 444
+Running time: 7.464771747589111 s
+Surviving key guess num: 28
+Best key guess score: 242.47122
+Diff between tk and best kg: 0x10000010
+
+Attack index: 445
+Running time: 7.528819799423218 s
+Surviving key guess num: 36
+Best key guess score: 254.47696
+Diff between tk and best kg: 0x10
+
+Attack index: 446
+Running time: 7.608584880828857 s
+Surviving key guess num: 16
+Best key guess score: 115.86231
+Diff between tk and best kg: 0x0
+
+Attack index: 447
+Running time: 7.646229028701782 s
+Surviving key guess num: 16
+Best key guess score: 190.48926
+Diff between tk and best kg: 0x0
+
+Attack index: 448
+Running time: 7.721875429153442 s
+Surviving key guess num: 24
+Best key guess score: 205.55841
+Diff between tk and best kg: 0x10
+
+Attack index: 449
+Running time: 7.515176773071289 s
+Surviving key guess num: 25
+Best key guess score: 195.97162
+Diff between tk and best kg: 0x10000000
+
+Attack index: 450
+Running time: 7.518531084060669 s
+Surviving key guess num: 30
+Best key guess score: 261.6676
+Diff between tk and best kg: 0x0
+
+Attack index: 451
+Running time: 7.499886512756348 s
+Surviving key guess num: 24
+Best key guess score: 192.66425
+Diff between tk and best kg: 0x0
+
+Attack index: 452
+Running time: 7.630319356918335 s
+Surviving key guess num: 20
+Best key guess score: 156.15823
+Diff between tk and best kg: 0x10
+
+Attack index: 453
+Running time: 7.6397223472595215 s
+Surviving key guess num: 8
+Best key guess score: 104.141205
+Diff between tk and best kg: 0x10000000
+
+Attack index: 454
+Running time: 7.575839519500732 s
+Surviving key guess num: 8
+Best key guess score: 74.61846
+Diff between tk and best kg: 0x10000000
+
+Attack index: 455
+Running time: 7.684532165527344 s
+Surviving key guess num: 16
+Best key guess score: 166.86142
+Diff between tk and best kg: 0x10
+
+Attack index: 456
+Running time: 7.718484163284302 s
+Surviving key guess num: 20
+Best key guess score: 126.940994
+Diff between tk and best kg: 0x10
+
+Attack index: 457
+Running time: 7.575113534927368 s
+Surviving key guess num: 12
+Best key guess score: 124.85536
+Diff between tk and best kg: 0x0
+
+Attack index: 458
+Running time: 7.506080150604248 s
+Surviving key guess num: 20
+Best key guess score: 223.53983
+Diff between tk and best kg: 0x10000000
+
+Attack index: 459
+Running time: 7.559262037277222 s
+Surviving key guess num: 31
+Best key guess score: 252.4084
+Diff between tk and best kg: 0x10
+
+Attack index: 460
+Running time: 7.582648277282715 s
+Surviving key guess num: 24
+Best key guess score: 170.4025
+Diff between tk and best kg: 0x10
+
+Attack index: 461
+Running time: 7.5749595165252686 s
+Surviving key guess num: 40
+Best key guess score: 267.349
+Diff between tk and best kg: 0x10000000
+
+Attack index: 462
+Running time: 7.518317699432373 s
+Surviving key guess num: 20
+Best key guess score: 174.41766
+Diff between tk and best kg: 0x10
+
+Attack index: 463
+Running time: 7.517904043197632 s
+Surviving key guess num: 39
+Best key guess score: 241.12718
+Diff between tk and best kg: 0x10000000
+
+Attack index: 464
+Running time: 7.561291217803955 s
+Surviving key guess num: 28
+Best key guess score: 175.03769
+Diff between tk and best kg: 0x10
+
+Attack index: 465
+Running time: 7.753629922866821 s
+Surviving key guess num: 48
+Best key guess score: 330.13727
+Diff between tk and best kg: 0x10000000
+
+Attack index: 466
+Running time: 7.663832187652588 s
+Surviving key guess num: 29
+Best key guess score: 195.30078
+Diff between tk and best kg: 0x0
+
+Attack index: 467
+Running time: 7.703723907470703 s
+Surviving key guess num: 32
+Best key guess score: 246.60306
+Diff between tk and best kg: 0x10
+
+Attack index: 468
+Running time: 7.745987176895142 s
+Surviving key guess num: 24
+Best key guess score: 189.84119
+Diff between tk and best kg: 0x10000000
+
+Attack index: 469
+Running time: 7.592268228530884 s
+Surviving key guess num: 50
+Best key guess score: 265.4102
+Diff between tk and best kg: 0x10000010
+
+Attack index: 470
+Running time: 7.725919008255005 s
+Surviving key guess num: 18
+Best key guess score: 126.71558
+Diff between tk and best kg: 0x10
+
+Attack index: 471
+Running time: 7.503655910491943 s
+Surviving key guess num: 12
+Best key guess score: 99.57869
+Diff between tk and best kg: 0x10
+
+Attack index: 472
+Running time: 7.632989406585693 s
+Surviving key guess num: 12
+Best key guess score: 210.65277
+Diff between tk and best kg: 0x10000000
+
+Attack index: 473
+Running time: 7.704495429992676 s
+Surviving key guess num: 40
+Best key guess score: 256.44876
+Diff between tk and best kg: 0x0
+
+Attack index: 474
+Running time: 7.732896089553833 s
+Surviving key guess num: 12
+Best key guess score: 166.29854
+Diff between tk and best kg: 0x10000000
+
+Attack index: 475
+Running time: 7.62708854675293 s
+Surviving key guess num: 20
+Best key guess score: 220.45198
+Diff between tk and best kg: 0x10
+
+Attack index: 476
+Running time: 7.763402700424194 s
+Surviving key guess num: 24
+Best key guess score: 186.74805
+Diff between tk and best kg: 0x10
+
+Attack index: 477
+Running time: 7.773096561431885 s
+Surviving key guess num: 24
+Best key guess score: 182.97229
+Diff between tk and best kg: 0x10000000
+
+Attack index: 478
+Running time: 7.857225656509399 s
+Surviving key guess num: 12
+Best key guess score: 119.5256
+Diff between tk and best kg: 0x10000000
+
+Attack index: 479
+Running time: 7.453124046325684 s
+Surviving key guess num: 12
+Best key guess score: 189.55849
+Diff between tk and best kg: 0x10000000
+
+Attack index: 480
+Running time: 7.552425384521484 s
+Surviving key guess num: 24
+Best key guess score: 190.33632
+Diff between tk and best kg: 0x0
+
+Attack index: 481
+Running time: 7.425567388534546 s
+Surviving key guess num: 24
+Best key guess score: 185.26768
+Diff between tk and best kg: 0x0
+
+Attack index: 482
+Running time: 7.414412498474121 s
+Surviving key guess num: 40
+Best key guess score: 225.12164
+Diff between tk and best kg: 0x0
+
+Attack index: 483
+Running time: 7.639082908630371 s
+Surviving key guess num: 52
+Best key guess score: 335.14722
+Diff between tk and best kg: 0x0
+
+Attack index: 484
+Running time: 7.603163957595825 s
+Surviving key guess num: 16
+Best key guess score: 142.28716
+Diff between tk and best kg: 0x10
+
+Attack index: 485
+Running time: 7.499028921127319 s
+Surviving key guess num: 36
+Best key guess score: 182.62762
+Diff between tk and best kg: 0x0
+
+Attack index: 486
+Running time: 7.504522800445557 s
+Surviving key guess num: 28
+Best key guess score: 235.248
+Diff between tk and best kg: 0x10000000
+
+Attack index: 487
+Running time: 7.55794095993042 s
+Surviving key guess num: 12
+Best key guess score: 154.55704
+Diff between tk and best kg: 0x10000010
+
+Attack index: 488
+Running time: 7.491746187210083 s
+Surviving key guess num: 24
+Best key guess score: 282.31738
+Diff between tk and best kg: 0x0
+
+Attack index: 489
+Running time: 7.696070432662964 s
+Surviving key guess num: 44
+Best key guess score: 326.49283
+Diff between tk and best kg: 0x10000010
+
+Attack index: 490
+Running time: 7.552072525024414 s
+Surviving key guess num: 16
+Best key guess score: 134.92549
+Diff between tk and best kg: 0x0
+
+Attack index: 491
+Running time: 7.608405828475952 s
+Surviving key guess num: 36
+Best key guess score: 294.64984
+Diff between tk and best kg: 0x0
+
+Attack index: 492
+Running time: 7.71949315071106 s
+Surviving key guess num: 32
+Best key guess score: 294.02594
+Diff between tk and best kg: 0x10000010
+
+Attack index: 493
+Running time: 7.793610095977783 s
+Surviving key guess num: 12
+Best key guess score: 142.79385
+Diff between tk and best kg: 0x10
+
+Attack index: 494
+Running time: 7.5797717571258545 s
+Surviving key guess num: 32
+Best key guess score: 237.43942
+Diff between tk and best kg: 0x10000000
+
+Attack index: 495
+Running time: 7.73912501335144 s
+Surviving key guess num: 24
+Best key guess score: 164.48346
+Diff between tk and best kg: 0x0
+
+Attack index: 496
+Running time: 7.587906360626221 s
+Surviving key guess num: 24
+Best key guess score: 183.94165
+Diff between tk and best kg: 0x0
+
+Attack index: 497
+Running time: 7.656522750854492 s
+Surviving key guess num: 24
+Best key guess score: 187.35184
+Diff between tk and best kg: 0x10000000
+
+Attack index: 498
+Running time: 7.560697793960571 s
+Surviving key guess num: 16
+Best key guess score: 184.98763
+Diff between tk and best kg: 0x10000000
+
+Attack index: 499
+Running time: 7.622164726257324 s
+Surviving key guess num: 16
+Best key guess score: 134.47238
+Diff between tk and best kg: 0x10
+
+Attack index: 500
+Running time: 7.687764406204224 s
+Surviving key guess num: 12
+Best key guess score: 185.23392
+Diff between tk and best kg: 0x10
+
+Attack index: 501
+Running time: 7.648221492767334 s
+Surviving key guess num: 40
+Best key guess score: 258.86377
+Diff between tk and best kg: 0x10000000
+
+Attack index: 502
+Running time: 7.577413320541382 s
+Surviving key guess num: 12
+Best key guess score: 167.09624
+Diff between tk and best kg: 0x10000010
+
+Attack index: 503
+Running time: 7.556750059127808 s
+Surviving key guess num: 28
+Best key guess score: 166.39224
+Diff between tk and best kg: 0x0
+
+Attack index: 504
+Running time: 7.640722751617432 s
+Surviving key guess num: 16
+Best key guess score: 153.21805
+Diff between tk and best kg: 0x10000000
+
+Attack index: 505
+Running time: 7.594207048416138 s
+Surviving key guess num: 28
+Best key guess score: 272.32693
+Diff between tk and best kg: 0x10000010
+
+Attack index: 506
+Running time: 7.662405490875244 s
+Surviving key guess num: 52
+Best key guess score: 336.45572
+Diff between tk and best kg: 0x10000000
+
+Attack index: 507
+Running time: 7.6788649559021 s
+Surviving key guess num: 12
+Best key guess score: 130.86993
+Diff between tk and best kg: 0x10000010
+
+Attack index: 508
+Running time: 7.507568597793579 s
+Surviving key guess num: 58
+Best key guess score: 299.9798
+Diff between tk and best kg: 0x10000000
+
+Attack index: 509
+Running time: 7.550171136856079 s
+Surviving key guess num: 36
+Best key guess score: 147.34377
+Diff between tk and best kg: 0x10000000
+
+Attack index: 510
+Running time: 7.70854926109314 s
+Surviving key guess num: 12
+Best key guess score: 109.51124
+Diff between tk and best kg: 0x0
+
+Attack index: 511
+Running time: 7.706237554550171 s
+Surviving key guess num: 12
+Best key guess score: 82.81689
+Diff between tk and best kg: 0x10
+
+Attack index: 512
+Running time: 7.732961654663086 s
+Surviving key guess num: 17
+Best key guess score: 167.42567
+Diff between tk and best kg: 0x10000000
+
+Attack index: 513
+Running time: 7.788255929946899 s
+Surviving key guess num: 32
+Best key guess score: 234.1744
+Diff between tk and best kg: 0x0
+
+Attack index: 514
+Running time: 7.693847417831421 s
+Surviving key guess num: 24
+Best key guess score: 181.10587
+Diff between tk and best kg: 0x10000000
+
+Attack index: 515
+Running time: 7.764017343521118 s
+Surviving key guess num: 36
+Best key guess score: 297.12122
+Diff between tk and best kg: 0x10000000
+
+Attack index: 516
+Running time: 7.763761758804321 s
+Surviving key guess num: 26
+Best key guess score: 207.20975
+Diff between tk and best kg: 0x10
+
+Attack index: 517
+Running time: 7.737101316452026 s
+Surviving key guess num: 24
+Best key guess score: 218.17673
+Diff between tk and best kg: 0x0
+
+Attack index: 518
+Running time: 7.4524290561676025 s
+Surviving key guess num: 36
+Best key guess score: 191.1006
+Diff between tk and best kg: 0x10000000
+
+Attack index: 519
+Running time: 7.766064167022705 s
+Surviving key guess num: 16
+Best key guess score: 183.98338
+Diff between tk and best kg: 0x10000010
+
+Attack index: 520
+Running time: 7.729771375656128 s
+Surviving key guess num: 12
+Best key guess score: 175.87885
+Diff between tk and best kg: 0x10000010
+
+Attack index: 521
+Running time: 7.896718263626099 s
+Surviving key guess num: 12
+Best key guess score: 110.82613
+Diff between tk and best kg: 0x10000000
+
+Attack index: 522
+Running time: 7.86809229850769 s
+Surviving key guess num: 11
+Best key guess score: 72.97269
+Diff between tk and best kg: 0x10000010
+
+Attack index: 523
+Running time: 7.616021394729614 s
+Surviving key guess num: 35
+Best key guess score: 260.18048
+Diff between tk and best kg: 0x10000000
+
+Attack index: 524
+Running time: 7.7731029987335205 s
+Surviving key guess num: 23
+Best key guess score: 171.82593
+Diff between tk and best kg: 0x0
+
+Attack index: 525
+Running time: 7.727041244506836 s
+Surviving key guess num: 36
+Best key guess score: 207.04471
+Diff between tk and best kg: 0x0
+
+Attack index: 526
+Running time: 7.949412107467651 s
+Surviving key guess num: 36
+Best key guess score: 238.43562
+Diff between tk and best kg: 0x0
+
+Attack index: 527
+Running time: 7.595186471939087 s
+Surviving key guess num: 12
+Best key guess score: 131.82715
+Diff between tk and best kg: 0x10
+
+Attack index: 528
+Running time: 7.5199806690216064 s
+Surviving key guess num: 12
+Best key guess score: 174.95534
+Diff between tk and best kg: 0x0
+
+Attack index: 529
+Running time: 7.526773691177368 s
+Surviving key guess num: 16
+Best key guess score: 143.90605
+Diff between tk and best kg: 0x10
+
+Attack index: 530
+Running time: 7.604983568191528 s
+Surviving key guess num: 24
+Best key guess score: 196.60666
+Diff between tk and best kg: 0x10
+
+Attack index: 531
+Running time: 7.400251626968384 s
+Surviving key guess num: 33
+Best key guess score: 251.62346
+Diff between tk and best kg: 0x0
+
+Attack index: 532
+Running time: 7.412784099578857 s
+Surviving key guess num: 12
+Best key guess score: 124.37873
+Diff between tk and best kg: 0x10
+
+Attack index: 533
+Running time: 7.481248140335083 s
+Surviving key guess num: 20
+Best key guess score: 170.54434
+Diff between tk and best kg: 0x10000000
+
+Attack index: 534
+Running time: 7.450158596038818 s
+Surviving key guess num: 38
+Best key guess score: 245.19463
+Diff between tk and best kg: 0x10
+
+Attack index: 535
+Running time: 7.563583135604858 s
+Surviving key guess num: 11
+Best key guess score: 121.13706
+Diff between tk and best kg: 0x10000000
+
+Attack index: 536
+Running time: 7.500606298446655 s
+Surviving key guess num: 38
+Best key guess score: 284.7142
+Diff between tk and best kg: 0x10000010
+
+Attack index: 537
+Running time: 7.518257141113281 s
+Surviving key guess num: 16
+Best key guess score: 157.64459
+Diff between tk and best kg: 0x0
+
+Attack index: 538
+Running time: 7.517193794250488 s
+Surviving key guess num: 28
+Best key guess score: 218.23083
+Diff between tk and best kg: 0x0
+
+Attack index: 539
+Running time: 7.412158012390137 s
+Surviving key guess num: 28
+Best key guess score: 242.7338
+Diff between tk and best kg: 0x10
+
+Attack index: 540
+Running time: 7.597002267837524 s
+Surviving key guess num: 12
+Best key guess score: 166.99286
+Diff between tk and best kg: 0x10
+
+Attack index: 541
+Running time: 7.726667165756226 s
+Surviving key guess num: 12
+Best key guess score: 102.160324
+Diff between tk and best kg: 0x0
+
+Attack index: 542
+Running time: 7.623932600021362 s
+Surviving key guess num: 24
+Best key guess score: 200.80803
+Diff between tk and best kg: 0x0
+
+Attack index: 543
+Running time: 7.532715320587158 s
+Surviving key guess num: 24
+Best key guess score: 212.62607
+Diff between tk and best kg: 0x10000010
+
+Attack index: 544
+Running time: 7.710825681686401 s
+Surviving key guess num: 52
+Best key guess score: 286.70712
+Diff between tk and best kg: 0x10
+
+Attack index: 545
+Running time: 7.603387355804443 s
+Surviving key guess num: 25
+Best key guess score: 190.90756
+Diff between tk and best kg: 0x10000000
+
+Attack index: 546
+Running time: 7.6902806758880615 s
+Surviving key guess num: 12
+Best key guess score: 144.07635
+Diff between tk and best kg: 0x10000000
+
+Attack index: 547
+Running time: 7.635136365890503 s
+Surviving key guess num: 24
+Best key guess score: 212.85452
+Diff between tk and best kg: 0x10000000
+
+Attack index: 548
+Running time: 7.650769948959351 s
+Surviving key guess num: 24
+Best key guess score: 186.76256
+Diff between tk and best kg: 0x10000010
+
+Attack index: 549
+Running time: 7.6402363777160645 s
+Surviving key guess num: 20
+Best key guess score: 179.55392
+Diff between tk and best kg: 0x10000000
+
+Attack index: 550
+Running time: 7.66003680229187 s
+Surviving key guess num: 36
+Best key guess score: 323.2921
+Diff between tk and best kg: 0x0
+
+Attack index: 551
+Running time: 7.637599468231201 s
+Surviving key guess num: 16
+Best key guess score: 149.2234
+Diff between tk and best kg: 0x10000000
+
+Attack index: 552
+Running time: 7.630427360534668 s
+Surviving key guess num: 12
+Best key guess score: 191.2795
+Diff between tk and best kg: 0x0
+
+Attack index: 553
+Running time: 7.555953025817871 s
+Surviving key guess num: 56
+Best key guess score: 328.5262
+Diff between tk and best kg: 0x0
+
+Attack index: 554
+Running time: 7.562549591064453 s
+Surviving key guess num: 21
+Best key guess score: 165.31691
+Diff between tk and best kg: 0x10
+
+Attack index: 555
+Running time: 7.601340055465698 s
+Surviving key guess num: 20
+Best key guess score: 122.14119
+Diff between tk and best kg: 0x10000010
+
+Attack index: 556
+Running time: 7.592552661895752 s
+Surviving key guess num: 24
+Best key guess score: 201.81013
+Diff between tk and best kg: 0x10000000
+
+Attack index: 557
+Running time: 7.607077121734619 s
+Surviving key guess num: 16
+Best key guess score: 138.61984
+Diff between tk and best kg: 0x10000000
+
+Attack index: 558
+Running time: 7.692065954208374 s
+Surviving key guess num: 33
+Best key guess score: 233.02287
+Diff between tk and best kg: 0x0
+
+Attack index: 559
+Running time: 7.719265460968018 s
+Surviving key guess num: 24
+Best key guess score: 191.85371
+Diff between tk and best kg: 0x10000010
+
+Attack index: 560
+Running time: 7.613718509674072 s
+Surviving key guess num: 28
+Best key guess score: 183.78873
+Diff between tk and best kg: 0x10
+
+Attack index: 561
+Running time: 7.664069175720215 s
+Surviving key guess num: 12
+Best key guess score: 124.709785
+Diff between tk and best kg: 0x10000010
+
+Attack index: 562
+Running time: 7.608150482177734 s
+Surviving key guess num: 24
+Best key guess score: 211.21626
+Diff between tk and best kg: 0x10000000
+
+Attack index: 563
+Running time: 7.825544357299805 s
+Surviving key guess num: 16
+Best key guess score: 156.18199
+Diff between tk and best kg: 0x10000010
+
+Attack index: 564
+Running time: 7.755265474319458 s
+Surviving key guess num: 20
+Best key guess score: 221.72522
+Diff between tk and best kg: 0x10000010
+
+Attack index: 565
+Running time: 7.669872522354126 s
+Surviving key guess num: 24
+Best key guess score: 157.82477
+Diff between tk and best kg: 0x10000000
+
+Attack index: 566
+Running time: 7.713727951049805 s
+Surviving key guess num: 44
+Best key guess score: 231.65594
+Diff between tk and best kg: 0x10000000
+
+Attack index: 567
+Running time: 7.63731575012207 s
+Surviving key guess num: 44
+Best key guess score: 302.89554
+Diff between tk and best kg: 0x10000010
+
+Attack index: 568
+Running time: 7.634236097335815 s
+Surviving key guess num: 8
+Best key guess score: 69.678894
+Diff between tk and best kg: 0x0
+
+Attack index: 569
+Running time: 7.797327041625977 s
+Surviving key guess num: 16
+Best key guess score: 193.4166
+Diff between tk and best kg: 0x10
+
+Attack index: 570
+Running time: 7.540905952453613 s
+Surviving key guess num: 35
+Best key guess score: 241.61803
+Diff between tk and best kg: 0x0
+
+Attack index: 571
+Running time: 7.520115613937378 s
+Surviving key guess num: 24
+Best key guess score: 196.88324
+Diff between tk and best kg: 0x0
+
+Attack index: 572
+Running time: 7.697657823562622 s
+Surviving key guess num: 20
+Best key guess score: 160.42442
+Diff between tk and best kg: 0x10
+
+Attack index: 573
+Running time: 7.658003330230713 s
+Surviving key guess num: 28
+Best key guess score: 251.83879
+Diff between tk and best kg: 0x0
+
+Attack index: 574
+Running time: 7.743284463882446 s
+Surviving key guess num: 16
+Best key guess score: 162.6161
+Diff between tk and best kg: 0x10000010
+
+Attack index: 575
+Running time: 7.56533408164978 s
+Surviving key guess num: 20
+Best key guess score: 150.33043
+Diff between tk and best kg: 0x10
+
+Attack index: 576
+Running time: 7.552268743515015 s
+Surviving key guess num: 44
+Best key guess score: 282.50613
+Diff between tk and best kg: 0x10000000
+
+Attack index: 577
+Running time: 7.660563707351685 s
+Surviving key guess num: 25
+Best key guess score: 236.55688
+Diff between tk and best kg: 0x10
+
+Attack index: 578
+Running time: 7.557300090789795 s
+Surviving key guess num: 24
+Best key guess score: 180.34314
+Diff between tk and best kg: 0x10000010
+
+Attack index: 579
+Running time: 7.725508451461792 s
+Surviving key guess num: 24
+Best key guess score: 165.74297
+Diff between tk and best kg: 0x0
+
+Attack index: 580
+Running time: 7.681313991546631 s
+Surviving key guess num: 24
+Best key guess score: 252.64592
+Diff between tk and best kg: 0x10000000
+
+Attack index: 581
+Running time: 7.47240686416626 s
+Surviving key guess num: 16
+Best key guess score: 192.96219
+Diff between tk and best kg: 0x10000000
+
+Attack index: 582
+Running time: 7.380044937133789 s
+Surviving key guess num: 36
+Best key guess score: 198.14917
+Diff between tk and best kg: 0x10000000
+
+Attack index: 583
+Running time: 7.417306184768677 s
+Surviving key guess num: 32
+Best key guess score: 209.44066
+Diff between tk and best kg: 0x0
+
+Attack index: 584
+Running time: 7.4495344161987305 s
+Surviving key guess num: 12
+Best key guess score: 116.59182
+Diff between tk and best kg: 0x10000010
+
+Attack index: 585
+Running time: 7.499100685119629 s
+Surviving key guess num: 24
+Best key guess score: 196.47733
+Diff between tk and best kg: 0x10
+
+Attack index: 586
+Running time: 7.458198308944702 s
+Surviving key guess num: 12
+Best key guess score: 154.22722
+Diff between tk and best kg: 0x10
+
+Attack index: 587
+Running time: 7.538116216659546 s
+Surviving key guess num: 12
+Best key guess score: 136.17291
+Diff between tk and best kg: 0x10
+
+Attack index: 588
+Running time: 7.531787872314453 s
+Surviving key guess num: 16
+Best key guess score: 127.409904
+Diff between tk and best kg: 0x0
+
+Attack index: 589
+Running time: 7.538507699966431 s
+Surviving key guess num: 20
+Best key guess score: 200.54929
+Diff between tk and best kg: 0x10000010
+
+Attack index: 590
+Running time: 7.5304930210113525 s
+Surviving key guess num: 20
+Best key guess score: 147.46353
+Diff between tk and best kg: 0x10000000
+
+Attack index: 591
+Running time: 7.476905345916748 s
+Surviving key guess num: 24
+Best key guess score: 197.06282
+Diff between tk and best kg: 0x10
+
+Attack index: 592
+Running time: 7.432299613952637 s
+Surviving key guess num: 24
+Best key guess score: 200.72461
+Diff between tk and best kg: 0x0
+
+Attack index: 593
+Running time: 7.4618589878082275 s
+Surviving key guess num: 8
+Best key guess score: 110.232956
+Diff between tk and best kg: 0x0
+
+Attack index: 594
+Running time: 7.458829641342163 s
+Surviving key guess num: 16
+Best key guess score: 161.87584
+Diff between tk and best kg: 0x10000010
+
+Attack index: 595
+Running time: 7.532114744186401 s
+Surviving key guess num: 24
+Best key guess score: 198.5388
+Diff between tk and best kg: 0x10
+
+Attack index: 596
+Running time: 7.499040126800537 s
+Surviving key guess num: 36
+Best key guess score: 226.41347
+Diff between tk and best kg: 0x10000010
+
+Attack index: 597
+Running time: 7.483237028121948 s
+Surviving key guess num: 47
+Best key guess score: 272.31677
+Diff between tk and best kg: 0x10000010
+
+Attack index: 598
+Running time: 7.312645196914673 s
+Surviving key guess num: 28
+Best key guess score: 216.14099
+Diff between tk and best kg: 0x10
+
+Attack index: 599
+Running time: 7.418792009353638 s
+Surviving key guess num: 35
+Best key guess score: 232.87843
+Diff between tk and best kg: 0x10
+
+Attack index: 600
+Running time: 7.610116720199585 s
+Surviving key guess num: 24
+Best key guess score: 211.41884
+Diff between tk and best kg: 0x0
+
+Attack index: 601
+Running time: 7.470675706863403 s
+Surviving key guess num: 69
+Best key guess score: 344.5297
+Diff between tk and best kg: 0x0
+
+Attack index: 602
+Running time: 7.546454906463623 s
+Surviving key guess num: 24
+Best key guess score: 135.09784
+Diff between tk and best kg: 0x10000010
+
+Attack index: 603
+Running time: 7.572604179382324 s
+Surviving key guess num: 28
+Best key guess score: 203.58235
+Diff between tk and best kg: 0x10000000
+
+Attack index: 604
+Running time: 7.492946147918701 s
+Surviving key guess num: 20
+Best key guess score: 183.39961
+Diff between tk and best kg: 0x10000000
+
+Attack index: 605
+Running time: 7.403364896774292 s
+Surviving key guess num: 26
+Best key guess score: 259.9843
+Diff between tk and best kg: 0x10000000
+
+Attack index: 606
+Running time: 7.4526495933532715 s
+Surviving key guess num: 12
+Best key guess score: 147.77196
+Diff between tk and best kg: 0x0
+
+Attack index: 607
+Running time: 7.638731956481934 s
+Surviving key guess num: 24
+Best key guess score: 196.66034
+Diff between tk and best kg: 0x0
+
+Attack index: 608
+Running time: 7.492822170257568 s
+Surviving key guess num: 20
+Best key guess score: 205.46515
+Diff between tk and best kg: 0x0
+
+Attack index: 609
+Running time: 7.472121238708496 s
+Surviving key guess num: 12
+Best key guess score: 140.37656
+Diff between tk and best kg: 0x0
+
+Attack index: 610
+Running time: 7.598633050918579 s
+Surviving key guess num: 16
+Best key guess score: 154.86086
+Diff between tk and best kg: 0x10000010
+
+Attack index: 611
+Running time: 7.617169380187988 s
+Surviving key guess num: 12
+Best key guess score: 129.6674
+Diff between tk and best kg: 0x0
+
+Attack index: 612
+Running time: 7.667590856552124 s
+Surviving key guess num: 32
+Best key guess score: 223.86041
+Diff between tk and best kg: 0x0
+
+Attack index: 613
+Running time: 7.608797788619995 s
+Surviving key guess num: 48
+Best key guess score: 242.59427
+Diff between tk and best kg: 0x10000010
+
+Attack index: 614
+Running time: 7.5154290199279785 s
+Surviving key guess num: 26
+Best key guess score: 244.0883
+Diff between tk and best kg: 0x0
+
+Attack index: 615
+Running time: 7.69166111946106 s
+Surviving key guess num: 16
+Best key guess score: 194.82648
+Diff between tk and best kg: 0x10
+
+Attack index: 616
+Running time: 7.530756950378418 s
+Surviving key guess num: 20
+Best key guess score: 170.70662
+Diff between tk and best kg: 0x10
+
+Attack index: 617
+Running time: 7.715977191925049 s
+Surviving key guess num: 25
+Best key guess score: 166.07474
+Diff between tk and best kg: 0x10000000
+
+Attack index: 618
+Running time: 7.55431056022644 s
+Surviving key guess num: 32
+Best key guess score: 218.14398
+Diff between tk and best kg: 0x10000000
+
+Attack index: 619
+Running time: 7.659196376800537 s
+Surviving key guess num: 36
+Best key guess score: 224.24086
+Diff between tk and best kg: 0x10000000
+
+Attack index: 620
+Running time: 7.702688217163086 s
+Surviving key guess num: 20
+Best key guess score: 173.16539
+Diff between tk and best kg: 0x10000000
+
+Attack index: 621
+Running time: 7.640364408493042 s
+Surviving key guess num: 44
+Best key guess score: 330.38348
+Diff between tk and best kg: 0x0
+
+Attack index: 622
+Running time: 7.7642669677734375 s
+Surviving key guess num: 12
+Best key guess score: 92.360054
+Diff between tk and best kg: 0x10000010
+
+Attack index: 623
+Running time: 7.518528461456299 s
+Surviving key guess num: 16
+Best key guess score: 144.57535
+Diff between tk and best kg: 0x10000010
+
+Attack index: 624
+Running time: 7.582935094833374 s
+Surviving key guess num: 20
+Best key guess score: 170.69151
+Diff between tk and best kg: 0x10000010
+
+Attack index: 625
+Running time: 7.289721250534058 s
+Surviving key guess num: 48
+Best key guess score: 301.80914
+Diff between tk and best kg: 0x10000000
+
+Attack index: 626
+Running time: 7.383238077163696 s
+Surviving key guess num: 15
+Best key guess score: 130.4266
+Diff between tk and best kg: 0x10000000
+
+Attack index: 627
+Running time: 7.588733196258545 s
+Surviving key guess num: 16
+Best key guess score: 187.65724
+Diff between tk and best kg: 0x10
+
+Attack index: 628
+Running time: 7.43044376373291 s
+Surviving key guess num: 16
+Best key guess score: 165.27655
+Diff between tk and best kg: 0x10
+
+Attack index: 629
+Running time: 7.562297344207764 s
+Surviving key guess num: 28
+Best key guess score: 160.7136
+Diff between tk and best kg: 0x0
+
+Attack index: 630
+Running time: 7.604196071624756 s
+Surviving key guess num: 36
+Best key guess score: 184.20284
+Diff between tk and best kg: 0x10
+
+Attack index: 631
+Running time: 7.5100555419921875 s
+Surviving key guess num: 34
+Best key guess score: 219.57797
+Diff between tk and best kg: 0x10000000
+
+Attack index: 632
+Running time: 7.68155574798584 s
+Surviving key guess num: 56
+Best key guess score: 334.27414
+Diff between tk and best kg: 0x10000010
+
+Attack index: 633
+Running time: 7.501849174499512 s
+Surviving key guess num: 32
+Best key guess score: 248.26427
+Diff between tk and best kg: 0x10
+
+Attack index: 634
+Running time: 7.427373170852661 s
+Surviving key guess num: 44
+Best key guess score: 278.20416
+Diff between tk and best kg: 0x10000000
+
+Attack index: 635
+Running time: 7.616709232330322 s
+Surviving key guess num: 36
+Best key guess score: 234.35188
+Diff between tk and best kg: 0x10
+
+Attack index: 636
+Running time: 7.540904998779297 s
+Surviving key guess num: 22
+Best key guess score: 171.87639
+Diff between tk and best kg: 0x10000000
+
+Attack index: 637
+Running time: 7.481534004211426 s
+Surviving key guess num: 47
+Best key guess score: 260.45474
+Diff between tk and best kg: 0x0
+
+Attack index: 638
+Running time: 7.752063751220703 s
+Surviving key guess num: 39
+Best key guess score: 163.31783
+Diff between tk and best kg: 0x10000000
+
+Attack index: 639
+Running time: 8.093241453170776 s
+Surviving key guess num: 24
+Best key guess score: 188.10675
+Diff between tk and best kg: 0x10000000
+
+Attack index: 640
+Running time: 8.005485534667969 s
+Surviving key guess num: 13
+Best key guess score: 170.03792
+Diff between tk and best kg: 0x10000000
+
+Attack index: 641
+Running time: 7.987009048461914 s
+Surviving key guess num: 24
+Best key guess score: 191.69246
+Diff between tk and best kg: 0x10000010
+
+Attack index: 642
+Running time: 7.904345512390137 s
+Surviving key guess num: 27
+Best key guess score: 207.3001
+Diff between tk and best kg: 0x0
+
+Attack index: 643
+Running time: 8.153770685195923 s
+Surviving key guess num: 23
+Best key guess score: 174.72795
+Diff between tk and best kg: 0x10000000
+
+Attack index: 644
+Running time: 7.571322917938232 s
+Surviving key guess num: 15
+Best key guess score: 158.86217
+Diff between tk and best kg: 0x10
+
+Attack index: 645
+Running time: 7.638406276702881 s
+Surviving key guess num: 16
+Best key guess score: 119.03561
+Diff between tk and best kg: 0x10
+
+Attack index: 646
+Running time: 7.7527711391448975 s
+Surviving key guess num: 8
+Best key guess score: 73.2901
+Diff between tk and best kg: 0x10
+
+Attack index: 647
+Running time: 7.73834490776062 s
+Surviving key guess num: 47
+Best key guess score: 293.04678
+Diff between tk and best kg: 0x10
+
+Attack index: 648
+Running time: 7.742182731628418 s
+Surviving key guess num: 12
+Best key guess score: 163.67455
+Diff between tk and best kg: 0x10
+
+Attack index: 649
+Running time: 7.629075050354004 s
+Surviving key guess num: 24
+Best key guess score: 183.36897
+Diff between tk and best kg: 0x10000000
+
+Attack index: 650
+Running time: 7.651917457580566 s
+Surviving key guess num: 36
+Best key guess score: 254.49403
+Diff between tk and best kg: 0x10000000
+
+Attack index: 651
+Running time: 7.451436281204224 s
+Surviving key guess num: 28
+Best key guess score: 193.01505
+Diff between tk and best kg: 0x0
+
+Attack index: 652
+Running time: 7.828161716461182 s
+Surviving key guess num: 16
+Best key guess score: 142.58087
+Diff between tk and best kg: 0x0
+
+Attack index: 653
+Running time: 7.738980293273926 s
+Surviving key guess num: 12
+Best key guess score: 93.3241
+Diff between tk and best kg: 0x10000000
+
+Attack index: 654
+Running time: 7.487602472305298 s
+Surviving key guess num: 24
+Best key guess score: 179.57556
+Diff between tk and best kg: 0x0
+
+Attack index: 655
+Running time: 7.772522687911987 s
+Surviving key guess num: 20
+Best key guess score: 171.97528
+Diff between tk and best kg: 0x0
+
+Attack index: 656
+Running time: 7.621741056442261 s
+Surviving key guess num: 36
+Best key guess score: 234.52959
+Diff between tk and best kg: 0x10000010
+
+Attack index: 657
+Running time: 7.812310695648193 s
+Surviving key guess num: 25
+Best key guess score: 160.799
+Diff between tk and best kg: 0x10000010
+
+Attack index: 658
+Running time: 7.716719388961792 s
+Surviving key guess num: 24
+Best key guess score: 242.59924
+Diff between tk and best kg: 0x10000010
+
+Attack index: 659
+Running time: 7.729808330535889 s
+Surviving key guess num: 16
+Best key guess score: 164.91727
+Diff between tk and best kg: 0x10000010
+
+Attack index: 660
+Running time: 7.6183977127075195 s
+Surviving key guess num: 21
+Best key guess score: 239.41263
+Diff between tk and best kg: 0x10000010
+
+Attack index: 661
+Running time: 7.602877378463745 s
+Surviving key guess num: 12
+Best key guess score: 110.20464
+Diff between tk and best kg: 0x10000000
+
+Attack index: 662
+Running time: 7.854743480682373 s
+Surviving key guess num: 16
+Best key guess score: 142.76788
+Diff between tk and best kg: 0x10
+
+Attack index: 663
+Running time: 7.552353143692017 s
+Surviving key guess num: 8
+Best key guess score: 90.39806
+Diff between tk and best kg: 0x10000000
+
+Attack index: 664
+Running time: 7.84821343421936 s
+Surviving key guess num: 12
+Best key guess score: 106.382065
+Diff between tk and best kg: 0x10000000
+
+Attack index: 665
+Running time: 7.899274587631226 s
+Surviving key guess num: 16
+Best key guess score: 176.88199
+Diff between tk and best kg: 0x10000010
+
+Attack index: 666
+Running time: 7.865889549255371 s
+Surviving key guess num: 32
+Best key guess score: 248.8022
+Diff between tk and best kg: 0x10000000
+
+Attack index: 667
+Running time: 7.914096355438232 s
+Surviving key guess num: 12
+Best key guess score: 96.3155
+Diff between tk and best kg: 0x10
+
+Attack index: 668
+Running time: 7.597264528274536 s
+Surviving key guess num: 72
+Best key guess score: 339.85483
+Diff between tk and best kg: 0x10
+
+Attack index: 669
+Running time: 7.9680421352386475 s
+Surviving key guess num: 16
+Best key guess score: 170.20628
+Diff between tk and best kg: 0x10000010
+
+Attack index: 670
+Running time: 7.626121997833252 s
+Surviving key guess num: 16
+Best key guess score: 164.09418
+Diff between tk and best kg: 0x10000000
+
+Attack index: 671
+Running time: 7.651684284210205 s
+Surviving key guess num: 45
+Best key guess score: 255.2217
+Diff between tk and best kg: 0x0
+
+Attack index: 672
+Running time: 7.520661115646362 s
+Surviving key guess num: 8
+Best key guess score: 90.88733
+Diff between tk and best kg: 0x10
+
+Attack index: 673
+Running time: 7.668952941894531 s
+Surviving key guess num: 14
+Best key guess score: 178.12886
+Diff between tk and best kg: 0x10
+
+Attack index: 674
+Running time: 7.534990549087524 s
+Surviving key guess num: 20
+Best key guess score: 164.71788
+Diff between tk and best kg: 0x10000010
+
+Attack index: 675
+Running time: 7.7448201179504395 s
+Surviving key guess num: 32
+Best key guess score: 261.7164
+Diff between tk and best kg: 0x10
+
+Attack index: 676
+Running time: 7.626840353012085 s
+Surviving key guess num: 44
+Best key guess score: 279.69104
+Diff between tk and best kg: 0x10000000
+
+Attack index: 677
+Running time: 7.639558792114258 s
+Surviving key guess num: 22
+Best key guess score: 188.17998
+Diff between tk and best kg: 0x0
+
+Attack index: 678
+Running time: 7.787708282470703 s
+Surviving key guess num: 12
+Best key guess score: 125.38377
+Diff between tk and best kg: 0x10
+
+Attack index: 679
+Running time: 7.837863206863403 s
+Surviving key guess num: 8
+Best key guess score: 58.909306
+Diff between tk and best kg: 0x10000010
+
+Attack index: 680
+Running time: 7.694050550460815 s
+Surviving key guess num: 24
+Best key guess score: 218.55737
+Diff between tk and best kg: 0x10000000
+
+Attack index: 681
+Running time: 7.692852258682251 s
+Surviving key guess num: 25
+Best key guess score: 195.59958
+Diff between tk and best kg: 0x0
+
+Attack index: 682
+Running time: 7.544067621231079 s
+Surviving key guess num: 23
+Best key guess score: 197.96877
+Diff between tk and best kg: 0x10000000
+
+Attack index: 683
+Running time: 7.5734758377075195 s
+Surviving key guess num: 25
+Best key guess score: 161.1527
+Diff between tk and best kg: 0x0
+
+Attack index: 684
+Running time: 7.495723485946655 s
+Surviving key guess num: 24
+Best key guess score: 170.69824
+Diff between tk and best kg: 0x0
+
+Attack index: 685
+Running time: 7.482219934463501 s
+Surviving key guess num: 16
+Best key guess score: 122.76982
+Diff between tk and best kg: 0x10000010
+
+Attack index: 686
+Running time: 7.527313470840454 s
+Surviving key guess num: 20
+Best key guess score: 254.44919
+Diff between tk and best kg: 0x10000000
+
+Attack index: 687
+Running time: 7.73045015335083 s
+Surviving key guess num: 12
+Best key guess score: 138.81297
+Diff between tk and best kg: 0x10000000
+
+Attack index: 688
+Running time: 7.731752634048462 s
+Surviving key guess num: 20
+Best key guess score: 190.25998
+Diff between tk and best kg: 0x10000000
+
+Attack index: 689
+Running time: 7.675418376922607 s
+Surviving key guess num: 16
+Best key guess score: 193.33412
+Diff between tk and best kg: 0x10
+
+Attack index: 690
+Running time: 7.740769386291504 s
+Surviving key guess num: 16
+Best key guess score: 210.82817
+Diff between tk and best kg: 0x10
+
+Attack index: 691
+Running time: 7.902751445770264 s
+Surviving key guess num: 12
+Best key guess score: 136.54762
+Diff between tk and best kg: 0x10
+
+Attack index: 692
+Running time: 7.6563880443573 s
+Surviving key guess num: 16
+Best key guess score: 156.51088
+Diff between tk and best kg: 0x10
+
+Attack index: 693
+Running time: 7.765496492385864 s
+Surviving key guess num: 12
+Best key guess score: 125.85521
+Diff between tk and best kg: 0x0
+
+Attack index: 694
+Running time: 7.875692844390869 s
+Surviving key guess num: 37
+Best key guess score: 251.18723
+Diff between tk and best kg: 0x0
+
+Attack index: 695
+Running time: 7.905397653579712 s
+Surviving key guess num: 40
+Best key guess score: 261.32233
+Diff between tk and best kg: 0x0
+
+Attack index: 696
+Running time: 7.818228483200073 s
+Surviving key guess num: 27
+Best key guess score: 219.38364
+Diff between tk and best kg: 0x0
+
+Attack index: 697
+Running time: 7.67555832862854 s
+Surviving key guess num: 20
+Best key guess score: 174.60863
+Diff between tk and best kg: 0x10000010
+
+Attack index: 698
+Running time: 7.624856233596802 s
+Surviving key guess num: 20
+Best key guess score: 150.97958
+Diff between tk and best kg: 0x0
+
+Attack index: 699
+Running time: 7.966517686843872 s
+Surviving key guess num: 24
+Best key guess score: 207.31015
+Diff between tk and best kg: 0x0
+
+Attack index: 700
+Running time: 7.545783042907715 s
+Surviving key guess num: 20
+Best key guess score: 167.68007
+Diff between tk and best kg: 0x10000000
+
+Attack index: 701
+Running time: 7.59461522102356 s
+Surviving key guess num: 24
+Best key guess score: 201.74716
+Diff between tk and best kg: 0x10000000
+
+Attack index: 702
+Running time: 7.801929473876953 s
+Surviving key guess num: 36
+Best key guess score: 233.07204
+Diff between tk and best kg: 0x10
+
+Attack index: 703
+Running time: 7.6248815059661865 s
+Surviving key guess num: 24
+Best key guess score: 208.90378
+Diff between tk and best kg: 0x10000000
+
+Attack index: 704
+Running time: 7.589354991912842 s
+Surviving key guess num: 24
+Best key guess score: 224.89253
+Diff between tk and best kg: 0x10000010
+
+Attack index: 705
+Running time: 7.89707350730896 s
+Surviving key guess num: 28
+Best key guess score: 187.69078
+Diff between tk and best kg: 0x0
+
+Attack index: 706
+Running time: 7.503350496292114 s
+Surviving key guess num: 12
+Best key guess score: 129.83025
+Diff between tk and best kg: 0x10
+
+Attack index: 707
+Running time: 7.6049559116363525 s
+Surviving key guess num: 28
+Best key guess score: 175.17267
+Diff between tk and best kg: 0x10000010
+
+Attack index: 708
+Running time: 7.694024324417114 s
+Surviving key guess num: 12
+Best key guess score: 155.16698
+Diff between tk and best kg: 0x10000010
+
+Attack index: 709
+Running time: 7.749819040298462 s
+Surviving key guess num: 24
+Best key guess score: 225.44513
+Diff between tk and best kg: 0x10000000
+
+Attack index: 710
+Running time: 7.873246669769287 s
+Surviving key guess num: 8
+Best key guess score: 94.29811
+Diff between tk and best kg: 0x10000010
+
+Attack index: 711
+Running time: 7.774006605148315 s
+Surviving key guess num: 28
+Best key guess score: 236.3492
+Diff between tk and best kg: 0x10
+
+Attack index: 712
+Running time: 7.894201755523682 s
+Surviving key guess num: 32
+Best key guess score: 238.10718
+Diff between tk and best kg: 0x10
+
+Attack index: 713
+Running time: 7.745982885360718 s
+Surviving key guess num: 40
+Best key guess score: 269.77475
+Diff between tk and best kg: 0x0
+
+Attack index: 714
+Running time: 7.774206161499023 s
+Surviving key guess num: 28
+Best key guess score: 171.07674
+Diff between tk and best kg: 0x10000010
+
+Attack index: 715
+Running time: 7.858219146728516 s
+Surviving key guess num: 32
+Best key guess score: 233.52875
+Diff between tk and best kg: 0x10000000
+
+Attack index: 716
+Running time: 7.801613092422485 s
+Surviving key guess num: 24
+Best key guess score: 224.77318
+Diff between tk and best kg: 0x0
+
+Attack index: 717
+Running time: 8.096646785736084 s
+Surviving key guess num: 12
+Best key guess score: 106.25546
+Diff between tk and best kg: 0x10000000
+
+Attack index: 718
+Running time: 7.716194152832031 s
+Surviving key guess num: 20
+Best key guess score: 123.138824
+Diff between tk and best kg: 0x10
+
+Attack index: 719
+Running time: 7.736089468002319 s
+Surviving key guess num: 16
+Best key guess score: 175.07079
+Diff between tk and best kg: 0x10000000
+
+Attack index: 720
+Running time: 7.735544443130493 s
+Surviving key guess num: 40
+Best key guess score: 321.64365
+Diff between tk and best kg: 0x0
+
+Attack index: 721
+Running time: 7.823093891143799 s
+Surviving key guess num: 8
+Best key guess score: 132.0187
+Diff between tk and best kg: 0x10
+
+Attack index: 722
+Running time: 7.663184881210327 s
+Surviving key guess num: 16
+Best key guess score: 210.83392
+Diff between tk and best kg: 0x0
+
+Attack index: 723
+Running time: 7.648638963699341 s
+Surviving key guess num: 12
+Best key guess score: 155.08252
+Diff between tk and best kg: 0x10
+
+Attack index: 724
+Running time: 7.8186774253845215 s
+Surviving key guess num: 12
+Best key guess score: 138.46022
+Diff between tk and best kg: 0x10
+
+Attack index: 725
+Running time: 7.641056776046753 s
+Surviving key guess num: 20
+Best key guess score: 165.14537
+Diff between tk and best kg: 0x10
+
+Attack index: 726
+Running time: 7.614730596542358 s
+Surviving key guess num: 24
+Best key guess score: 237.73279
+Diff between tk and best kg: 0x10
+
+Attack index: 727
+Running time: 7.5784382820129395 s
+Surviving key guess num: 24
+Best key guess score: 187.92102
+Diff between tk and best kg: 0x0
+
+Attack index: 728
+Running time: 7.805895566940308 s
+Surviving key guess num: 28
+Best key guess score: 196.47061
+Diff between tk and best kg: 0x10000010
+
+Attack index: 729
+Running time: 7.7530927658081055 s
+Surviving key guess num: 16
+Best key guess score: 176.58408
+Diff between tk and best kg: 0x0
+
+Attack index: 730
+Running time: 7.722931146621704 s
+Surviving key guess num: 16
+Best key guess score: 181.03746
+Diff between tk and best kg: 0x0
+
+Attack index: 731
+Running time: 7.790836572647095 s
+Surviving key guess num: 17
+Best key guess score: 166.24248
+Diff between tk and best kg: 0x0
+
+Attack index: 732
+Running time: 7.796785831451416 s
+Surviving key guess num: 20
+Best key guess score: 224.75694
+Diff between tk and best kg: 0x10000000
+
+Attack index: 733
+Running time: 7.770315885543823 s
+Surviving key guess num: 23
+Best key guess score: 215.50504
+Diff between tk and best kg: 0x10000010
+
+Attack index: 734
+Running time: 7.83636736869812 s
+Surviving key guess num: 52
+Best key guess score: 314.04584
+Diff between tk and best kg: 0x10
+
+Attack index: 735
+Running time: 7.776857852935791 s
+Surviving key guess num: 32
+Best key guess score: 273.53458
+Diff between tk and best kg: 0x0
+
+Attack index: 736
+Running time: 7.907982349395752 s
+Surviving key guess num: 18
+Best key guess score: 240.60788
+Diff between tk and best kg: 0x10000000
+
+Attack index: 737
+Running time: 7.756438970565796 s
+Surviving key guess num: 32
+Best key guess score: 206.5815
+Diff between tk and best kg: 0x10000000
+
+Attack index: 738
+Running time: 7.961098909378052 s
+Surviving key guess num: 72
+Best key guess score: 355.07425
+Diff between tk and best kg: 0x10000010
+
+Attack index: 739
+Running time: 7.904428005218506 s
+Surviving key guess num: 24
+Best key guess score: 163.42842
+Diff between tk and best kg: 0x10000010
+
+Attack index: 740
+Running time: 8.061183452606201 s
+Surviving key guess num: 12
+Best key guess score: 140.22273
+Diff between tk and best kg: 0x10000000
+
+Attack index: 741
+Running time: 7.722012281417847 s
+Surviving key guess num: 56
+Best key guess score: 303.29608
+Diff between tk and best kg: 0x10000010
+
+Attack index: 742
+Running time: 7.872338056564331 s
+Surviving key guess num: 30
+Best key guess score: 169.13123
+Diff between tk and best kg: 0x10
+
+Attack index: 743
+Running time: 7.764114618301392 s
+Surviving key guess num: 29
+Best key guess score: 173.91548
+Diff between tk and best kg: 0x10000000
+
+Attack index: 744
+Running time: 7.734869480133057 s
+Surviving key guess num: 15
+Best key guess score: 136.74422
+Diff between tk and best kg: 0x10
+
+Attack index: 745
+Running time: 7.914990663528442 s
+Surviving key guess num: 20
+Best key guess score: 182.14854
+Diff between tk and best kg: 0x10000010
+
+Attack index: 746
+Running time: 7.998113632202148 s
+Surviving key guess num: 52
+Best key guess score: 272.25098
+Diff between tk and best kg: 0x10000000
+
+Attack index: 747
+Running time: 7.942448616027832 s
+Surviving key guess num: 12
+Best key guess score: 95.21727
+Diff between tk and best kg: 0x10
+
+Attack index: 748
+Running time: 7.966200351715088 s
+Surviving key guess num: 24
+Best key guess score: 192.38556
+Diff between tk and best kg: 0x10000010
+
+Attack index: 749
+Running time: 8.093290328979492 s
+Surviving key guess num: 34
+Best key guess score: 284.4873
+Diff between tk and best kg: 0x10000000
+
+Attack index: 750
+Running time: 7.821678638458252 s
+Surviving key guess num: 32
+Best key guess score: 213.15237
+Diff between tk and best kg: 0x10000000
+
+Attack index: 751
+Running time: 7.841390132904053 s
+Surviving key guess num: 12
+Best key guess score: 140.73909
+Diff between tk and best kg: 0x10000000
+
+Attack index: 752
+Running time: 7.7454612255096436 s
+Surviving key guess num: 24
+Best key guess score: 190.45467
+Diff between tk and best kg: 0x10
+
+Attack index: 753
+Running time: 7.628384351730347 s
+Surviving key guess num: 15
+Best key guess score: 94.28673
+Diff between tk and best kg: 0x10000000
+
+Attack index: 754
+Running time: 7.859543323516846 s
+Surviving key guess num: 16
+Best key guess score: 162.0713
+Diff between tk and best kg: 0x10000000
+
+Attack index: 755
+Running time: 7.971695423126221 s
+Surviving key guess num: 47
+Best key guess score: 252.27794
+Diff between tk and best kg: 0x0
+
+Attack index: 756
+Running time: 7.957914113998413 s
+Surviving key guess num: 12
+Best key guess score: 165.74985
+Diff between tk and best kg: 0x10000010
+
+Attack index: 757
+Running time: 7.873165607452393 s
+Surviving key guess num: 46
+Best key guess score: 269.22006
+Diff between tk and best kg: 0x0
+
+Attack index: 758
+Running time: 7.85417366027832 s
+Surviving key guess num: 28
+Best key guess score: 210.71725
+Diff between tk and best kg: 0x10
+
+Attack index: 759
+Running time: 7.941365480422974 s
+Surviving key guess num: 36
+Best key guess score: 259.06717
+Diff between tk and best kg: 0x10000010
+
+Attack index: 760
+Running time: 7.970609188079834 s
+Surviving key guess num: 92
+Best key guess score: 401.95282
+Diff between tk and best kg: 0x10000000
+
+Attack index: 761
+Running time: 7.758465766906738 s
+Surviving key guess num: 16
+Best key guess score: 150.79082
+Diff between tk and best kg: 0x0
+
+Attack index: 762
+Running time: 7.7125468254089355 s
+Surviving key guess num: 17
+Best key guess score: 164.55762
+Diff between tk and best kg: 0x10000010
+
+Attack index: 763
+Running time: 8.005163431167603 s
+Surviving key guess num: 32
+Best key guess score: 220.45732
+Diff between tk and best kg: 0x10000000
+
+Attack index: 764
+Running time: 7.909717559814453 s
+Surviving key guess num: 32
+Best key guess score: 210.6582
+Diff between tk and best kg: 0x0
+
+Attack index: 765
+Running time: 7.986999273300171 s
+Surviving key guess num: 39
+Best key guess score: 232.33669
+Diff between tk and best kg: 0x10
+
+Attack index: 766
+Running time: 7.6340742111206055 s
+Surviving key guess num: 12
+Best key guess score: 183.72757
+Diff between tk and best kg: 0x10000000
+
+Attack index: 767
+Running time: 7.501511573791504 s
+Surviving key guess num: 28
+Best key guess score: 276.14978
+Diff between tk and best kg: 0x10000010
+
+Attack index: 768
+Running time: 7.633186340332031 s
+Surviving key guess num: 16
+Best key guess score: 210.81166
+Diff between tk and best kg: 0x10
+
+Attack index: 769
+Running time: 7.799283266067505 s
+Surviving key guess num: 48
+Best key guess score: 316.959
+Diff between tk and best kg: 0x0
+
+Attack index: 770
+Running time: 7.72757363319397 s
+Surviving key guess num: 48
+Best key guess score: 278.2016
+Diff between tk and best kg: 0x10000010
+
+Attack index: 771
+Running time: 7.733806848526001 s
+Surviving key guess num: 12
+Best key guess score: 141.59773
+Diff between tk and best kg: 0x0
+
+Attack index: 772
+Running time: 7.562153100967407 s
+Surviving key guess num: 12
+Best key guess score: 164.56512
+Diff between tk and best kg: 0x10
+
+Attack index: 773
+Running time: 7.802173137664795 s
+Surviving key guess num: 28
+Best key guess score: 194.79146
+Diff between tk and best kg: 0x10000010
+
+Attack index: 774
+Running time: 7.942574977874756 s
+Surviving key guess num: 32
+Best key guess score: 203.29987
+Diff between tk and best kg: 0x10
+
+Attack index: 775
+Running time: 7.703606367111206 s
+Surviving key guess num: 20
+Best key guess score: 156.89877
+Diff between tk and best kg: 0x0
+
+Attack index: 776
+Running time: 7.668368577957153 s
+Surviving key guess num: 27
+Best key guess score: 193.57916
+Diff between tk and best kg: 0x10000010
+
+Attack index: 777
+Running time: 7.59562873840332 s
+Surviving key guess num: 24
+Best key guess score: 173.3882
+Diff between tk and best kg: 0x10000010
+
+Attack index: 778
+Running time: 7.67613959312439 s
+Surviving key guess num: 28
+Best key guess score: 232.84819
+Diff between tk and best kg: 0x10
+
+Attack index: 779
+Running time: 7.622040271759033 s
+Surviving key guess num: 24
+Best key guess score: 156.38332
+Diff between tk and best kg: 0x10000010
+
+Attack index: 780
+Running time: 7.734498739242554 s
+Surviving key guess num: 40
+Best key guess score: 298.61673
+Diff between tk and best kg: 0x10000010
+
+Attack index: 781
+Running time: 7.662587881088257 s
+Surviving key guess num: 16
+Best key guess score: 135.02888
+Diff between tk and best kg: 0x10
+
+Attack index: 782
+Running time: 7.83432936668396 s
+Surviving key guess num: 35
+Best key guess score: 228.76236
+Diff between tk and best kg: 0x10000010
+
+Attack index: 783
+Running time: 7.88225531578064 s
+Surviving key guess num: 36
+Best key guess score: 267.62256
+Diff between tk and best kg: 0x10
+
+Attack index: 784
+Running time: 7.729618549346924 s
+Surviving key guess num: 24
+Best key guess score: 213.04562
+Diff between tk and best kg: 0x10000000
+
+Attack index: 785
+Running time: 7.864431619644165 s
+Surviving key guess num: 28
+Best key guess score: 232.86255
+Diff between tk and best kg: 0x0
+
+Attack index: 786
+Running time: 7.917799711227417 s
+Surviving key guess num: 20
+Best key guess score: 162.08879
+Diff between tk and best kg: 0x0
+
+Attack index: 787
+Running time: 7.9078369140625 s
+Surviving key guess num: 24
+Best key guess score: 198.3939
+Diff between tk and best kg: 0x0
+
+Attack index: 788
+Running time: 7.598013162612915 s
+Surviving key guess num: 28
+Best key guess score: 217.82333
+Diff between tk and best kg: 0x10000010
+
+Attack index: 789
+Running time: 7.858811378479004 s
+Surviving key guess num: 24
+Best key guess score: 233.98631
+Diff between tk and best kg: 0x10
+
+Attack index: 790
+Running time: 7.972822189331055 s
+Surviving key guess num: 12
+Best key guess score: 159.17424
+Diff between tk and best kg: 0x0
+
+Attack index: 791
+Running time: 7.783153057098389 s
+Surviving key guess num: 8
+Best key guess score: 103.57749
+Diff between tk and best kg: 0x0
+
+Attack index: 792
+Running time: 7.718319416046143 s
+Surviving key guess num: 36
+Best key guess score: 227.93597
+Diff between tk and best kg: 0x10000000
+
+Attack index: 793
+Running time: 8.025522232055664 s
+Surviving key guess num: 20
+Best key guess score: 218.96013
+Diff between tk and best kg: 0x0
+
+Attack index: 794
+Running time: 8.295657634735107 s
+Surviving key guess num: 16
+Best key guess score: 157.90604
+Diff between tk and best kg: 0x10000000
+
+Attack index: 795
+Running time: 7.776889801025391 s
+Surviving key guess num: 12
+Best key guess score: 168.842
+Diff between tk and best kg: 0x10000000
+
+Attack index: 796
+Running time: 7.989290237426758 s
+Surviving key guess num: 47
+Best key guess score: 247.27615
+Diff between tk and best kg: 0x10000010
+
+Attack index: 797
+Running time: 8.069746255874634 s
+Surviving key guess num: 16
+Best key guess score: 156.73367
+Diff between tk and best kg: 0x10000000
+
+Attack index: 798
+Running time: 7.888855934143066 s
+Surviving key guess num: 32
+Best key guess score: 245.76115
+Diff between tk and best kg: 0x0
+
+Attack index: 799
+Running time: 7.64306902885437 s
+Surviving key guess num: 31
+Best key guess score: 210.36418
+Diff between tk and best kg: 0x10000010
+
+Attack index: 800
+Running time: 7.7798309326171875 s
+Surviving key guess num: 20
+Best key guess score: 148.21568
+Diff between tk and best kg: 0x0
+
+Attack index: 801
+Running time: 7.810655117034912 s
+Surviving key guess num: 16
+Best key guess score: 142.26979
+Diff between tk and best kg: 0x10
+
+Attack index: 802
+Running time: 7.848387956619263 s
+Surviving key guess num: 14
+Best key guess score: 107.51873
+Diff between tk and best kg: 0x0
+
+Attack index: 803
+Running time: 7.657708168029785 s
+Surviving key guess num: 23
+Best key guess score: 185.10127
+Diff between tk and best kg: 0x0
+
+Attack index: 804
+Running time: 7.7276084423065186 s
+Surviving key guess num: 32
+Best key guess score: 230.88284
+Diff between tk and best kg: 0x10000010
+
+Attack index: 805
+Running time: 7.730140209197998 s
+Surviving key guess num: 21
+Best key guess score: 204.46425
+Diff between tk and best kg: 0x0
+
+Attack index: 806
+Running time: 7.781210660934448 s
+Surviving key guess num: 12
+Best key guess score: 123.10922
+Diff between tk and best kg: 0x0
+
+Attack index: 807
+Running time: 7.94012975692749 s
+Surviving key guess num: 26
+Best key guess score: 228.64374
+Diff between tk and best kg: 0x10000000
+
+Attack index: 808
+Running time: 7.630889415740967 s
+Surviving key guess num: 38
+Best key guess score: 304.84442
+Diff between tk and best kg: 0x10
+
+Attack index: 809
+Running time: 7.592527151107788 s
+Surviving key guess num: 21
+Best key guess score: 175.4912
+Diff between tk and best kg: 0x10000010
+
+Attack index: 810
+Running time: 7.836418867111206 s
+Surviving key guess num: 28
+Best key guess score: 208.7299
+Diff between tk and best kg: 0x10
+
+Attack index: 811
+Running time: 7.990241289138794 s
+Surviving key guess num: 16
+Best key guess score: 188.56644
+Diff between tk and best kg: 0x0
+
+Attack index: 812
+Running time: 8.199405908584595 s
+Surviving key guess num: 28
+Best key guess score: 222.68193
+Diff between tk and best kg: 0x0
+
+Attack index: 813
+Running time: 7.680917978286743 s
+Surviving key guess num: 20
+Best key guess score: 202.45418
+Diff between tk and best kg: 0x10
+
+Attack index: 814
+Running time: 7.703123092651367 s
+Surviving key guess num: 20
+Best key guess score: 168.75525
+Diff between tk and best kg: 0x10000010
+
+Attack index: 815
+Running time: 7.874347686767578 s
+Surviving key guess num: 28
+Best key guess score: 199.52686
+Diff between tk and best kg: 0x10000010
+
+Attack index: 816
+Running time: 7.7637245655059814 s
+Surviving key guess num: 28
+Best key guess score: 237.58961
+Diff between tk and best kg: 0x10
+
+Attack index: 817
+Running time: 7.654409885406494 s
+Surviving key guess num: 27
+Best key guess score: 210.32365
+Diff between tk and best kg: 0x10000010
+
+Attack index: 818
+Running time: 7.6883673667907715 s
+Surviving key guess num: 16
+Best key guess score: 177.96326
+Diff between tk and best kg: 0x10000000
+
+Attack index: 819
+Running time: 7.622982978820801 s
+Surviving key guess num: 40
+Best key guess score: 239.26535
+Diff between tk and best kg: 0x10
+
+Attack index: 820
+Running time: 7.6636598110198975 s
+Surviving key guess num: 62
+Best key guess score: 338.93414
+Diff between tk and best kg: 0x10000000
+
+Attack index: 821
+Running time: 7.714574337005615 s
+Surviving key guess num: 24
+Best key guess score: 148.23283
+Diff between tk and best kg: 0x10000000
+
+Attack index: 822
+Running time: 7.640745401382446 s
+Surviving key guess num: 16
+Best key guess score: 143.53333
+Diff between tk and best kg: 0x10000010
+
+Attack index: 823
+Running time: 7.64179539680481 s
+Surviving key guess num: 31
+Best key guess score: 236.60048
+Diff between tk and best kg: 0x10
+
+Attack index: 824
+Running time: 7.73338770866394 s
+Surviving key guess num: 32
+Best key guess score: 190.48619
+Diff between tk and best kg: 0x10000000
+
+Attack index: 825
+Running time: 7.637392520904541 s
+Surviving key guess num: 24
+Best key guess score: 152.34926
+Diff between tk and best kg: 0x10
+
+Attack index: 826
+Running time: 7.610890865325928 s
+Surviving key guess num: 28
+Best key guess score: 249.241
+Diff between tk and best kg: 0x10000000
+
+Attack index: 827
+Running time: 7.669657945632935 s
+Surviving key guess num: 12
+Best key guess score: 145.30717
+Diff between tk and best kg: 0x10000010
+
+Attack index: 828
+Running time: 7.623061180114746 s
+Surviving key guess num: 12
+Best key guess score: 108.24417
+Diff between tk and best kg: 0x10
+
+Attack index: 829
+Running time: 7.642327547073364 s
+Surviving key guess num: 16
+Best key guess score: 175.49196
+Diff between tk and best kg: 0x10
+
+Attack index: 830
+Running time: 7.628838539123535 s
+Surviving key guess num: 40
+Best key guess score: 302.45502
+Diff between tk and best kg: 0x10
+
+Attack index: 831
+Running time: 7.77553915977478 s
+Surviving key guess num: 20
+Best key guess score: 190.57034
+Diff between tk and best kg: 0x10000000
+
+Attack index: 832
+Running time: 7.6925036907196045 s
+Surviving key guess num: 12
+Best key guess score: 124.5202
+Diff between tk and best kg: 0x0
+
+Attack index: 833
+Running time: 7.756552457809448 s
+Surviving key guess num: 42
+Best key guess score: 281.98087
+Diff between tk and best kg: 0x10000000
+
+Attack index: 834
+Running time: 7.800273418426514 s
+Surviving key guess num: 28
+Best key guess score: 244.31847
+Diff between tk and best kg: 0x10000000
+
+Attack index: 835
+Running time: 7.585038900375366 s
+Surviving key guess num: 12
+Best key guess score: 117.11325
+Diff between tk and best kg: 0x10
+
+Attack index: 836
+Running time: 7.7356276512146 s
+Surviving key guess num: 21
+Best key guess score: 199.24556
+Diff between tk and best kg: 0x10
+
+Attack index: 837
+Running time: 7.58988618850708 s
+Surviving key guess num: 28
+Best key guess score: 283.64938
+Diff between tk and best kg: 0x10000000
+
+Attack index: 838
+Running time: 7.727924585342407 s
+Surviving key guess num: 28
+Best key guess score: 175.12329
+Diff between tk and best kg: 0x10
+
+Attack index: 839
+Running time: 7.993034601211548 s
+Surviving key guess num: 16
+Best key guess score: 156.69278
+Diff between tk and best kg: 0x10000010
+
+Attack index: 840
+Running time: 7.9140706062316895 s
+Surviving key guess num: 28
+Best key guess score: 197.48721
+Diff between tk and best kg: 0x10000000
+
+Attack index: 841
+Running time: 7.8217620849609375 s
+Surviving key guess num: 40
+Best key guess score: 311.43805
+Diff between tk and best kg: 0x10000010
+
+Attack index: 842
+Running time: 8.014864206314087 s
+Surviving key guess num: 24
+Best key guess score: 224.9983
+Diff between tk and best kg: 0x10000000
+
+Attack index: 843
+Running time: 7.471673488616943 s
+Surviving key guess num: 24
+Best key guess score: 217.54453
+Diff between tk and best kg: 0x10000010
+
+Attack index: 844
+Running time: 7.6878979206085205 s
+Surviving key guess num: 12
+Best key guess score: 132.29933
+Diff between tk and best kg: 0x10000010
+
+Attack index: 845
+Running time: 7.696972846984863 s
+Surviving key guess num: 12
+Best key guess score: 163.58614
+Diff between tk and best kg: 0x10000000
+
+Attack index: 846
+Running time: 7.818007946014404 s
+Surviving key guess num: 12
+Best key guess score: 158.75374
+Diff between tk and best kg: 0x10000000
+
+Attack index: 847
+Running time: 7.591712474822998 s
+Surviving key guess num: 36
+Best key guess score: 270.32626
+Diff between tk and best kg: 0x10000000
+
+Attack index: 848
+Running time: 7.856887578964233 s
+Surviving key guess num: 26
+Best key guess score: 223.54637
+Diff between tk and best kg: 0x10000000
+
+Attack index: 849
+Running time: 7.91447114944458 s
+Surviving key guess num: 24
+Best key guess score: 212.23303
+Diff between tk and best kg: 0x0
+
+Attack index: 850
+Running time: 7.815020799636841 s
+Surviving key guess num: 20
+Best key guess score: 186.1985
+Diff between tk and best kg: 0x10000010
+
+Attack index: 851
+Running time: 7.774319410324097 s
+Surviving key guess num: 28
+Best key guess score: 207.1216
+Diff between tk and best kg: 0x10000000
+
+Attack index: 852
+Running time: 7.807992458343506 s
+Surviving key guess num: 25
+Best key guess score: 201.54092
+Diff between tk and best kg: 0x0
+
+Attack index: 853
+Running time: 7.703458309173584 s
+Surviving key guess num: 20
+Best key guess score: 208.08301
+Diff between tk and best kg: 0x10
+
+Attack index: 854
+Running time: 7.689779043197632 s
+Surviving key guess num: 25
+Best key guess score: 199.72249
+Diff between tk and best kg: 0x10000000
+
+Attack index: 855
+Running time: 7.802479982376099 s
+Surviving key guess num: 16
+Best key guess score: 170.52173
+Diff between tk and best kg: 0x10
+
+Attack index: 856
+Running time: 7.809614419937134 s
+Surviving key guess num: 11
+Best key guess score: 110.2453
+Diff between tk and best kg: 0x10000000
+
+Attack index: 857
+Running time: 7.50354528427124 s
+Surviving key guess num: 20
+Best key guess score: 153.72144
+Diff between tk and best kg: 0x10000000
+
+Attack index: 858
+Running time: 7.717492341995239 s
+Surviving key guess num: 20
+Best key guess score: 214.03249
+Diff between tk and best kg: 0x0
+
+Attack index: 859
+Running time: 7.697138071060181 s
+Surviving key guess num: 8
+Best key guess score: 88.32405
+Diff between tk and best kg: 0x10000010
+
+Attack index: 860
+Running time: 8.025164127349854 s
+Surviving key guess num: 16
+Best key guess score: 162.67986
+Diff between tk and best kg: 0x10000000
+
+Attack index: 861
+Running time: 7.4455482959747314 s
+Surviving key guess num: 28
+Best key guess score: 181.21843
+Diff between tk and best kg: 0x0
+
+Attack index: 862
+Running time: 7.6789960861206055 s
+Surviving key guess num: 16
+Best key guess score: 134.03307
+Diff between tk and best kg: 0x10000000
+
+Attack index: 863
+Running time: 7.674731731414795 s
+Surviving key guess num: 48
+Best key guess score: 330.51764
+Diff between tk and best kg: 0x0
+
+Attack index: 864
+Running time: 7.664136648178101 s
+Surviving key guess num: 20
+Best key guess score: 202.99004
+Diff between tk and best kg: 0x0
+
+Attack index: 865
+Running time: 7.464911937713623 s
+Surviving key guess num: 23
+Best key guess score: 202.73206
+Diff between tk and best kg: 0x10000000
+
+Attack index: 866
+Running time: 7.562288284301758 s
+Surviving key guess num: 18
+Best key guess score: 147.82237
+Diff between tk and best kg: 0x10
+
+Attack index: 867
+Running time: 7.592078685760498 s
+Surviving key guess num: 16
+Best key guess score: 118.56663
+Diff between tk and best kg: 0x10
+
+Attack index: 868
+Running time: 7.508517742156982 s
+Surviving key guess num: 24
+Best key guess score: 217.59137
+Diff between tk and best kg: 0x10
+
+Attack index: 869
+Running time: 7.776962041854858 s
+Surviving key guess num: 16
+Best key guess score: 150.58083
+Diff between tk and best kg: 0x10
+
+Attack index: 870
+Running time: 7.563367128372192 s
+Surviving key guess num: 8
+Best key guess score: 132.17729
+Diff between tk and best kg: 0x0
+
+Attack index: 871
+Running time: 7.7030863761901855 s
+Surviving key guess num: 44
+Best key guess score: 315.91608
+Diff between tk and best kg: 0x10000000
+
+Attack index: 872
+Running time: 7.660092115402222 s
+Surviving key guess num: 24
+Best key guess score: 214.35927
+Diff between tk and best kg: 0x0
+
+Attack index: 873
+Running time: 7.744803190231323 s
+Surviving key guess num: 19
+Best key guess score: 155.68282
+Diff between tk and best kg: 0x10
+
+Attack index: 874
+Running time: 7.809252738952637 s
+Surviving key guess num: 16
+Best key guess score: 155.36525
+Diff between tk and best kg: 0x10
+
+Attack index: 875
+Running time: 7.5415544509887695 s
+Surviving key guess num: 24
+Best key guess score: 184.78804
+Diff between tk and best kg: 0x10
+
+Attack index: 876
+Running time: 7.872366428375244 s
+Surviving key guess num: 64
+Best key guess score: 351.4343
+Diff between tk and best kg: 0x10
+
+Attack index: 877
+Running time: 7.811198949813843 s
+Surviving key guess num: 52
+Best key guess score: 353.72702
+Diff between tk and best kg: 0x10000000
+
+Attack index: 878
+Running time: 7.637601852416992 s
+Surviving key guess num: 28
+Best key guess score: 177.92545
+Diff between tk and best kg: 0x10000010
+
+Attack index: 879
+Running time: 7.743353843688965 s
+Surviving key guess num: 36
+Best key guess score: 233.01877
+Diff between tk and best kg: 0x10000000
+
+Attack index: 880
+Running time: 7.671540975570679 s
+Surviving key guess num: 16
+Best key guess score: 172.55698
+Diff between tk and best kg: 0x0
+
+Attack index: 881
+Running time: 7.846728563308716 s
+Surviving key guess num: 20
+Best key guess score: 200.37296
+Diff between tk and best kg: 0x10000010
+
+Attack index: 882
+Running time: 7.742286682128906 s
+Surviving key guess num: 16
+Best key guess score: 184.00894
+Diff between tk and best kg: 0x0
+
+Attack index: 883
+Running time: 7.762659549713135 s
+Surviving key guess num: 26
+Best key guess score: 208.9108
+Diff between tk and best kg: 0x10000000
+
+Attack index: 884
+Running time: 7.9014573097229 s
+Surviving key guess num: 16
+Best key guess score: 134.05986
+Diff between tk and best kg: 0x10000010
+
+Attack index: 885
+Running time: 7.554812431335449 s
+Surviving key guess num: 36
+Best key guess score: 261.1457
+Diff between tk and best kg: 0x0
+
+Attack index: 886
+Running time: 7.879877805709839 s
+Surviving key guess num: 22
+Best key guess score: 246.4233
+Diff between tk and best kg: 0x10
+
+Attack index: 887
+Running time: 7.597328424453735 s
+Surviving key guess num: 24
+Best key guess score: 211.80725
+Diff between tk and best kg: 0x10000000
+
+Attack index: 888
+Running time: 7.675768136978149 s
+Surviving key guess num: 16
+Best key guess score: 144.49712
+Diff between tk and best kg: 0x0
+
+Attack index: 889
+Running time: 7.828308820724487 s
+Surviving key guess num: 17
+Best key guess score: 131.25388
+Diff between tk and best kg: 0x10000010
+
+Attack index: 890
+Running time: 8.026149988174438 s
+Surviving key guess num: 24
+Best key guess score: 222.83975
+Diff between tk and best kg: 0x10000000
+
+Attack index: 891
+Running time: 8.051573753356934 s
+Surviving key guess num: 12
+Best key guess score: 112.64612
+Diff between tk and best kg: 0x10000010
+
+Attack index: 892
+Running time: 7.956402778625488 s
+Surviving key guess num: 12
+Best key guess score: 142.09589
+Diff between tk and best kg: 0x0
+
+Attack index: 893
+Running time: 8.053438663482666 s
+Surviving key guess num: 24
+Best key guess score: 198.80898
+Diff between tk and best kg: 0x10
+
+Attack index: 894
+Running time: 7.844664096832275 s
+Surviving key guess num: 16
+Best key guess score: 134.6216
+Diff between tk and best kg: 0x10000000
+
+Attack index: 895
+Running time: 7.812643051147461 s
+Surviving key guess num: 23
+Best key guess score: 132.1116
+Diff between tk and best kg: 0x10
+
+Attack index: 896
+Running time: 7.807489395141602 s
+Surviving key guess num: 20
+Best key guess score: 164.92744
+Diff between tk and best kg: 0x10
+
+Attack index: 897
+Running time: 7.771803617477417 s
+Surviving key guess num: 35
+Best key guess score: 266.87634
+Diff between tk and best kg: 0x0
+
+Attack index: 898
+Running time: 7.621337175369263 s
+Surviving key guess num: 16
+Best key guess score: 149.09009
+Diff between tk and best kg: 0x10
+
+Attack index: 899
+Running time: 8.085724353790283 s
+Surviving key guess num: 44
+Best key guess score: 320.9532
+Diff between tk and best kg: 0x10000000
+
+Attack index: 900
+Running time: 7.912110328674316 s
+Surviving key guess num: 16
+Best key guess score: 191.48311
+Diff between tk and best kg: 0x10000010
+
+Attack index: 901
+Running time: 7.715359926223755 s
+Surviving key guess num: 24
+Best key guess score: 181.0154
+Diff between tk and best kg: 0x10
+
+Attack index: 902
+Running time: 7.8736677169799805 s
+Surviving key guess num: 28
+Best key guess score: 228.93259
+Diff between tk and best kg: 0x0
+
+Attack index: 903
+Running time: 7.9995903968811035 s
+Surviving key guess num: 20
+Best key guess score: 108.69711
+Diff between tk and best kg: 0x10000000
+
+Attack index: 904
+Running time: 7.741395473480225 s
+Surviving key guess num: 40
+Best key guess score: 246.4291
+Diff between tk and best kg: 0x10000010
+
+Attack index: 905
+Running time: 7.733907699584961 s
+Surviving key guess num: 32
+Best key guess score: 225.48914
+Diff between tk and best kg: 0x0
+
+Attack index: 906
+Running time: 7.830199480056763 s
+Surviving key guess num: 8
+Best key guess score: 139.11018
+Diff between tk and best kg: 0x10000010
+
+Attack index: 907
+Running time: 7.977392911911011 s
+Surviving key guess num: 12
+Best key guess score: 126.33623
+Diff between tk and best kg: 0x10
+
+Attack index: 908
+Running time: 7.951207876205444 s
+Surviving key guess num: 36
+Best key guess score: 306.6037
+Diff between tk and best kg: 0x10000000
+
+Attack index: 909
+Running time: 7.74420952796936 s
+Surviving key guess num: 32
+Best key guess score: 225.62515
+Diff between tk and best kg: 0x10
+
+Attack index: 910
+Running time: 7.827502727508545 s
+Surviving key guess num: 32
+Best key guess score: 247.20876
+Diff between tk and best kg: 0x10
+
+Attack index: 911
+Running time: 7.783849477767944 s
+Surviving key guess num: 24
+Best key guess score: 229.5778
+Diff between tk and best kg: 0x10000000
+
+Attack index: 912
+Running time: 7.840340614318848 s
+Surviving key guess num: 20
+Best key guess score: 171.92792
+Diff between tk and best kg: 0x10
+
+Attack index: 913
+Running time: 7.826234579086304 s
+Surviving key guess num: 26
+Best key guess score: 212.71085
+Diff between tk and best kg: 0x10
+
+Attack index: 914
+Running time: 7.822970867156982 s
+Surviving key guess num: 8
+Best key guess score: 82.33633
+Diff between tk and best kg: 0x0
+
+Attack index: 915
+Running time: 7.686055421829224 s
+Surviving key guess num: 32
+Best key guess score: 281.28726
+Diff between tk and best kg: 0x0
+
+Attack index: 916
+Running time: 7.732671022415161 s
+Surviving key guess num: 16
+Best key guess score: 150.86757
+Diff between tk and best kg: 0x10000010
+
+Attack index: 917
+Running time: 7.728583574295044 s
+Surviving key guess num: 16
+Best key guess score: 126.31911
+Diff between tk and best kg: 0x10000010
+
+Attack index: 918
+Running time: 7.710065126419067 s
+Surviving key guess num: 16
+Best key guess score: 117.98522
+Diff between tk and best kg: 0x10000000
+
+Attack index: 919
+Running time: 7.607609748840332 s
+Surviving key guess num: 13
+Best key guess score: 141.29922
+Diff between tk and best kg: 0x0
+
+Attack index: 920
+Running time: 7.849231004714966 s
+Surviving key guess num: 24
+Best key guess score: 199.11993
+Diff between tk and best kg: 0x10
+
+Attack index: 921
+Running time: 7.846029281616211 s
+Surviving key guess num: 56
+Best key guess score: 357.55875
+Diff between tk and best kg: 0x10
+
+Attack index: 922
+Running time: 7.768530368804932 s
+Surviving key guess num: 16
+Best key guess score: 120.455574
+Diff between tk and best kg: 0x10000000
+
+Attack index: 923
+Running time: 7.862886667251587 s
+Surviving key guess num: 16
+Best key guess score: 175.14343
+Diff between tk and best kg: 0x10000000
+
+Attack index: 924
+Running time: 7.8730292320251465 s
+Surviving key guess num: 23
+Best key guess score: 228.16216
+Diff between tk and best kg: 0x10
+
+Attack index: 925
+Running time: 7.9287707805633545 s
+Surviving key guess num: 28
+Best key guess score: 149.86201
+Diff between tk and best kg: 0x0
+
+Attack index: 926
+Running time: 7.958741664886475 s
+Surviving key guess num: 32
+Best key guess score: 258.3635
+Diff between tk and best kg: 0x10000000
+
+Attack index: 927
+Running time: 7.855766773223877 s
+Surviving key guess num: 20
+Best key guess score: 180.35918
+Diff between tk and best kg: 0x0
+
+Attack index: 928
+Running time: 8.00716757774353 s
+Surviving key guess num: 32
+Best key guess score: 216.42647
+Diff between tk and best kg: 0x10000010
+
+Attack index: 929
+Running time: 8.125627756118774 s
+Surviving key guess num: 25
+Best key guess score: 251.26938
+Diff between tk and best kg: 0x10000010
+
+Attack index: 930
+Running time: 7.878614187240601 s
+Surviving key guess num: 40
+Best key guess score: 230.85043
+Diff between tk and best kg: 0x10000010
+
+Attack index: 931
+Running time: 8.019242525100708 s
+Surviving key guess num: 32
+Best key guess score: 211.5957
+Diff between tk and best kg: 0x10
+
+Attack index: 932
+Running time: 7.90755295753479 s
+Surviving key guess num: 45
+Best key guess score: 251.58669
+Diff between tk and best kg: 0x10
+
+Attack index: 933
+Running time: 7.909273862838745 s
+Surviving key guess num: 39
+Best key guess score: 234.88414
+Diff between tk and best kg: 0x10000010
+
+Attack index: 934
+Running time: 7.945697546005249 s
+Surviving key guess num: 24
+Best key guess score: 260.65598
+Diff between tk and best kg: 0x10
+
+Attack index: 935
+Running time: 7.821267127990723 s
+Surviving key guess num: 32
+Best key guess score: 220.512
+Diff between tk and best kg: 0x0
+
+Attack index: 936
+Running time: 7.632995128631592 s
+Surviving key guess num: 28
+Best key guess score: 207.6554
+Diff between tk and best kg: 0x10
+
+Attack index: 937
+Running time: 7.7190611362457275 s
+Surviving key guess num: 15
+Best key guess score: 129.59523
+Diff between tk and best kg: 0x10000010
+
+Attack index: 938
+Running time: 8.043815851211548 s
+Surviving key guess num: 23
+Best key guess score: 225.95305
+Diff between tk and best kg: 0x0
+
+Attack index: 939
+Running time: 8.030927181243896 s
+Surviving key guess num: 28
+Best key guess score: 201.2887
+Diff between tk and best kg: 0x10000000
+
+Attack index: 940
+Running time: 8.04497218132019 s
+Surviving key guess num: 20
+Best key guess score: 121.371666
+Diff between tk and best kg: 0x10
+
+Attack index: 941
+Running time: 7.998995780944824 s
+Surviving key guess num: 12
+Best key guess score: 181.51466
+Diff between tk and best kg: 0x10
+
+Attack index: 942
+Running time: 7.980612277984619 s
+Surviving key guess num: 16
+Best key guess score: 168.38112
+Diff between tk and best kg: 0x10000000
+
+Attack index: 943
+Running time: 8.0349440574646 s
+Surviving key guess num: 12
+Best key guess score: 138.50621
+Diff between tk and best kg: 0x10
+
+Attack index: 944
+Running time: 7.898803949356079 s
+Surviving key guess num: 36
+Best key guess score: 288.51315
+Diff between tk and best kg: 0x10000000
+
+Attack index: 945
+Running time: 7.820440053939819 s
+Surviving key guess num: 48
+Best key guess score: 287.8631
+Diff between tk and best kg: 0x10000010
+
+Attack index: 946
+Running time: 7.647500276565552 s
+Surviving key guess num: 12
+Best key guess score: 109.731674
+Diff between tk and best kg: 0x10000000
+
+Attack index: 947
+Running time: 7.943163871765137 s
+Surviving key guess num: 44
+Best key guess score: 315.1335
+Diff between tk and best kg: 0x10000000
+
+Attack index: 948
+Running time: 7.877298355102539 s
+Surviving key guess num: 40
+Best key guess score: 266.10925
+Diff between tk and best kg: 0x10
+
+Attack index: 949
+Running time: 7.833732843399048 s
+Surviving key guess num: 44
+Best key guess score: 280.58005
+Diff between tk and best kg: 0x0
+
+Attack index: 950
+Running time: 7.833682537078857 s
+Surviving key guess num: 32
+Best key guess score: 223.61006
+Diff between tk and best kg: 0x0
+
+Attack index: 951
+Running time: 7.855658769607544 s
+Surviving key guess num: 24
+Best key guess score: 186.5936
+Diff between tk and best kg: 0x10
+
+Attack index: 952
+Running time: 7.8519415855407715 s
+Surviving key guess num: 16
+Best key guess score: 224.56981
+Diff between tk and best kg: 0x10
+
+Attack index: 953
+Running time: 7.893303394317627 s
+Surviving key guess num: 35
+Best key guess score: 273.66876
+Diff between tk and best kg: 0x10
+
+Attack index: 954
+Running time: 7.861109972000122 s
+Surviving key guess num: 28
+Best key guess score: 215.71138
+Diff between tk and best kg: 0x10
+
+Attack index: 955
+Running time: 7.715160131454468 s
+Surviving key guess num: 32
+Best key guess score: 163.5679
+Diff between tk and best kg: 0x10000000
+
+Attack index: 956
+Running time: 7.6927289962768555 s
+Surviving key guess num: 28
+Best key guess score: 220.02237
+Diff between tk and best kg: 0x10
+
+Attack index: 957
+Running time: 7.860666036605835 s
+Surviving key guess num: 9
+Best key guess score: 63.440266
+Diff between tk and best kg: 0x10
+
+Attack index: 958
+Running time: 7.784926652908325 s
+Surviving key guess num: 12
+Best key guess score: 175.07507
+Diff between tk and best kg: 0x0
+
+Attack index: 959
+Running time: 7.815656900405884 s
+Surviving key guess num: 16
+Best key guess score: 167.00076
+Diff between tk and best kg: 0x10000000
+
+Attack index: 960
+Running time: 7.919736385345459 s
+Surviving key guess num: 28
+Best key guess score: 221.18887
+Diff between tk and best kg: 0x0
+
+Attack index: 961
+Running time: 7.654220104217529 s
+Surviving key guess num: 16
+Best key guess score: 142.21402
+Diff between tk and best kg: 0x10
+
+Attack index: 962
+Running time: 7.816514492034912 s
+Surviving key guess num: 12
+Best key guess score: 130.25671
+Diff between tk and best kg: 0x0
+
+Attack index: 963
+Running time: 7.787031650543213 s
+Surviving key guess num: 16
+Best key guess score: 158.58528
+Diff between tk and best kg: 0x10000000
+
+Attack index: 964
+Running time: 7.805537700653076 s
+Surviving key guess num: 12
+Best key guess score: 153.91786
+Diff between tk and best kg: 0x10
+
+Attack index: 965
+Running time: 7.724577188491821 s
+Surviving key guess num: 32
+Best key guess score: 236.39897
+Diff between tk and best kg: 0x10
+
+Attack index: 966
+Running time: 7.628782272338867 s
+Surviving key guess num: 29
+Best key guess score: 328.217
+Diff between tk and best kg: 0x0
+
+Attack index: 967
+Running time: 7.685131072998047 s
+Surviving key guess num: 20
+Best key guess score: 197.81804
+Diff between tk and best kg: 0x10
+
+Attack index: 968
+Running time: 7.714530944824219 s
+Surviving key guess num: 20
+Best key guess score: 162.30223
+Diff between tk and best kg: 0x10000000
+
+Attack index: 969
+Running time: 7.642232656478882 s
+Surviving key guess num: 36
+Best key guess score: 227.5203
+Diff between tk and best kg: 0x10
+
+Attack index: 970
+Running time: 7.809458255767822 s
+Surviving key guess num: 42
+Best key guess score: 281.1388
+Diff between tk and best kg: 0x10
+
+Attack index: 971
+Running time: 7.789111137390137 s
+Surviving key guess num: 20
+Best key guess score: 173.7139
+Diff between tk and best kg: 0x10000000
+
+Attack index: 972
+Running time: 7.869462251663208 s
+Surviving key guess num: 24
+Best key guess score: 231.26923
+Diff between tk and best kg: 0x10
+
+Attack index: 973
+Running time: 7.77760910987854 s
+Surviving key guess num: 20
+Best key guess score: 135.01703
+Diff between tk and best kg: 0x0
+
+Attack index: 974
+Running time: 7.856788158416748 s
+Surviving key guess num: 24
+Best key guess score: 163.93736
+Diff between tk and best kg: 0x10000010
+
+Attack index: 975
+Running time: 7.681500196456909 s
+Surviving key guess num: 28
+Best key guess score: 145.35432
+Diff between tk and best kg: 0x0
+
+Attack index: 976
+Running time: 7.83539080619812 s
+Surviving key guess num: 40
+Best key guess score: 270.17007
+Diff between tk and best kg: 0x0
+
+Attack index: 977
+Running time: 7.8890252113342285 s
+Surviving key guess num: 16
+Best key guess score: 136.2318
+Diff between tk and best kg: 0x0
+
+Attack index: 978
+Running time: 7.9558024406433105 s
+Surviving key guess num: 31
+Best key guess score: 283.8997
+Diff between tk and best kg: 0x10000000
+
+Attack index: 979
+Running time: 7.929362773895264 s
+Surviving key guess num: 31
+Best key guess score: 241.48157
+Diff between tk and best kg: 0x10000010
+
+Attack index: 980
+Running time: 7.9898834228515625 s
+Surviving key guess num: 16
+Best key guess score: 132.5382
+Diff between tk and best kg: 0x10
+
+Attack index: 981
+Running time: 7.882818698883057 s
+Surviving key guess num: 16
+Best key guess score: 118.417145
+Diff between tk and best kg: 0x10
+
+Attack index: 982
+Running time: 7.895906925201416 s
+Surviving key guess num: 18
+Best key guess score: 149.58186
+Diff between tk and best kg: 0x10000000
+
+Attack index: 983
+Running time: 7.915132999420166 s
+Surviving key guess num: 16
+Best key guess score: 121.9574
+Diff between tk and best kg: 0x0
+
+Attack index: 984
+Running time: 7.818934202194214 s
+Surviving key guess num: 20
+Best key guess score: 193.21106
+Diff between tk and best kg: 0x10000000
+
+Attack index: 985
+Running time: 7.82672905921936 s
+Surviving key guess num: 24
+Best key guess score: 189.01012
+Diff between tk and best kg: 0x10000000
+
+Attack index: 986
+Running time: 7.8439507484436035 s
+Surviving key guess num: 24
+Best key guess score: 185.91426
+Diff between tk and best kg: 0x10000010
+
+Attack index: 987
+Running time: 7.910892009735107 s
+Surviving key guess num: 33
+Best key guess score: 278.8921
+Diff between tk and best kg: 0x10
+
+Attack index: 988
+Running time: 7.925955295562744 s
+Surviving key guess num: 22
+Best key guess score: 158.61417
+Diff between tk and best kg: 0x10
+
+Attack index: 989
+Running time: 7.894001483917236 s
+Surviving key guess num: 52
+Best key guess score: 265.98428
+Diff between tk and best kg: 0x0
+
+Attack index: 990
+Running time: 7.808478593826294 s
+Surviving key guess num: 13
+Best key guess score: 139.91513
+Diff between tk and best kg: 0x10000000
+
+Attack index: 991
+Running time: 7.962869882583618 s
+Surviving key guess num: 40
+Best key guess score: 263.61304
+Diff between tk and best kg: 0x10000000
+
+Attack index: 992
+Running time: 7.999511480331421 s
+Surviving key guess num: 20
+Best key guess score: 192.88739
+Diff between tk and best kg: 0x0
+
+Attack index: 993
+Running time: 7.867147922515869 s
+Surviving key guess num: 10
+Best key guess score: 132.809
+Diff between tk and best kg: 0x0
+
+Attack index: 994
+Running time: 7.8890204429626465 s
+Surviving key guess num: 40
+Best key guess score: 266.05914
+Diff between tk and best kg: 0x0
+
+Attack index: 995
+Running time: 7.681883096694946 s
+Surviving key guess num: 28
+Best key guess score: 261.09973
+Diff between tk and best kg: 0x10000000
+
+Attack index: 996
+Running time: 7.948783874511719 s
+Surviving key guess num: 14
+Best key guess score: 182.71529
+Diff between tk and best kg: 0x10000000
+
+Attack index: 997
+Running time: 8.059112310409546 s
+Surviving key guess num: 48
+Best key guess score: 250.75638
+Diff between tk and best kg: 0x0
+
+Attack index: 998
+Running time: 7.980828523635864 s
+Surviving key guess num: 48
+Best key guess score: 339.98474
+Diff between tk and best kg: 0x10
+
+Attack index: 999
+Running time: 8.055736780166626 s
+Surviving key guess num: 24
+Best key guess score: 216.74919
+Diff between tk and best kg: 0x10000000
+
+Avergae valid pr for right kg: 0.765431640625
+Avergae valid pr for wrong kg: 0.7656996372767857
+For right kg: average score is 195.56329345703125, max score is 401.5101318359375, min score is 53.84333419799805
+For right kg: average key rank is 1.439, median key rank is 1.0
+For wrong kg: average score is -176.11985501587563, max score is 401.95281982421875, min score is -312.3912658691406
+Max succeed kg diff hw matric: 2
+Key surviving time: 1000
+Attack success time: 1000
+Average attack time: 7.682043449878693 s
+Average surviving key guess number: 24.96
+Average diff hw between true key and best key guess: 0.948
+Best kg diff hw show time: [270 512 218   0   0   0   0   0   0   0   0   0   0   0]

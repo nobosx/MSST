@@ -1,0 +1,4010 @@
+Testvector of speck64/96 verified.
+Testvector of speck64/128 verified.
+Attack index: 0
+Running time: 11.213674068450928 s
+No surviving key guess
+
+Attack index: 1
+Running time: 7.958199501037598 s
+No surviving key guess
+
+Attack index: 2
+Running time: 7.929318189620972 s
+No surviving key guess
+
+Attack index: 3
+Running time: 7.9389636516571045 s
+No surviving key guess
+
+Attack index: 4
+Running time: 7.952587604522705 s
+No surviving key guess
+
+Attack index: 5
+Running time: 7.889280796051025 s
+No surviving key guess
+
+Attack index: 6
+Running time: 7.990926265716553 s
+No surviving key guess
+
+Attack index: 7
+Running time: 7.9547038078308105 s
+No surviving key guess
+
+Attack index: 8
+Running time: 8.065430879592896 s
+No surviving key guess
+
+Attack index: 9
+Running time: 7.984948635101318 s
+No surviving key guess
+
+Attack index: 10
+Running time: 7.87595534324646 s
+No surviving key guess
+
+Attack index: 11
+Running time: 8.044426202774048 s
+No surviving key guess
+
+Attack index: 12
+Running time: 8.04440712928772 s
+No surviving key guess
+
+Attack index: 13
+Running time: 8.011209964752197 s
+No surviving key guess
+
+Attack index: 14
+Running time: 8.023414134979248 s
+No surviving key guess
+
+Attack index: 15
+Running time: 8.016540765762329 s
+No surviving key guess
+
+Attack index: 16
+Running time: 7.974041700363159 s
+No surviving key guess
+
+Attack index: 17
+Running time: 7.963538885116577 s
+No surviving key guess
+
+Attack index: 18
+Running time: 8.008663177490234 s
+No surviving key guess
+
+Attack index: 19
+Running time: 7.96057915687561 s
+No surviving key guess
+
+Attack index: 20
+Running time: 8.023211240768433 s
+No surviving key guess
+
+Attack index: 21
+Running time: 7.970679759979248 s
+No surviving key guess
+
+Attack index: 22
+Running time: 7.996863842010498 s
+No surviving key guess
+
+Attack index: 23
+Running time: 7.933899641036987 s
+No surviving key guess
+
+Attack index: 24
+Running time: 7.945574998855591 s
+No surviving key guess
+
+Attack index: 25
+Running time: 8.071416139602661 s
+No surviving key guess
+
+Attack index: 26
+Running time: 8.014330863952637 s
+No surviving key guess
+
+Attack index: 27
+Running time: 8.036603927612305 s
+No surviving key guess
+
+Attack index: 28
+Running time: 7.972776412963867 s
+No surviving key guess
+
+Attack index: 29
+Running time: 7.913290977478027 s
+No surviving key guess
+
+Attack index: 30
+Running time: 7.861305236816406 s
+No surviving key guess
+
+Attack index: 31
+Running time: 7.898110866546631 s
+No surviving key guess
+
+Attack index: 32
+Running time: 7.775118350982666 s
+No surviving key guess
+
+Attack index: 33
+Running time: 7.835405588150024 s
+No surviving key guess
+
+Attack index: 34
+Running time: 7.88482928276062 s
+No surviving key guess
+
+Attack index: 35
+Running time: 7.899576663970947 s
+No surviving key guess
+
+Attack index: 36
+Running time: 7.922539710998535 s
+No surviving key guess
+
+Attack index: 37
+Running time: 8.016222715377808 s
+No surviving key guess
+
+Attack index: 38
+Running time: 7.964550971984863 s
+No surviving key guess
+
+Attack index: 39
+Running time: 7.897582292556763 s
+No surviving key guess
+
+Attack index: 40
+Running time: 7.79082727432251 s
+No surviving key guess
+
+Attack index: 41
+Running time: 7.740052938461304 s
+No surviving key guess
+
+Attack index: 42
+Running time: 7.848933219909668 s
+No surviving key guess
+
+Attack index: 43
+Running time: 7.880874395370483 s
+No surviving key guess
+
+Attack index: 44
+Running time: 7.8628480434417725 s
+No surviving key guess
+
+Attack index: 45
+Running time: 8.08514928817749 s
+No surviving key guess
+
+Attack index: 46
+Running time: 7.940589189529419 s
+No surviving key guess
+
+Attack index: 47
+Running time: 7.917008876800537 s
+No surviving key guess
+
+Attack index: 48
+Running time: 7.9852070808410645 s
+No surviving key guess
+
+Attack index: 49
+Running time: 8.132479429244995 s
+No surviving key guess
+
+Attack index: 50
+Running time: 8.030337810516357 s
+No surviving key guess
+
+Attack index: 51
+Running time: 7.868677616119385 s
+No surviving key guess
+
+Attack index: 52
+Running time: 8.196831941604614 s
+No surviving key guess
+
+Attack index: 53
+Running time: 7.899884462356567 s
+No surviving key guess
+
+Attack index: 54
+Running time: 8.073685646057129 s
+No surviving key guess
+
+Attack index: 55
+Running time: 8.0048508644104 s
+No surviving key guess
+
+Attack index: 56
+Running time: 7.8817243576049805 s
+No surviving key guess
+
+Attack index: 57
+Running time: 8.053784132003784 s
+No surviving key guess
+
+Attack index: 58
+Running time: 8.005793333053589 s
+No surviving key guess
+
+Attack index: 59
+Running time: 8.019665956497192 s
+No surviving key guess
+
+Attack index: 60
+Running time: 7.895821809768677 s
+No surviving key guess
+
+Attack index: 61
+Running time: 8.112303495407104 s
+No surviving key guess
+
+Attack index: 62
+Running time: 7.9137794971466064 s
+No surviving key guess
+
+Attack index: 63
+Running time: 8.0512375831604 s
+No surviving key guess
+
+Attack index: 64
+Running time: 7.922951698303223 s
+No surviving key guess
+
+Attack index: 65
+Running time: 8.129090309143066 s
+No surviving key guess
+
+Attack index: 66
+Running time: 8.04404067993164 s
+No surviving key guess
+
+Attack index: 67
+Running time: 7.969500303268433 s
+No surviving key guess
+
+Attack index: 68
+Running time: 8.009119510650635 s
+No surviving key guess
+
+Attack index: 69
+Running time: 8.01535177230835 s
+No surviving key guess
+
+Attack index: 70
+Running time: 7.947734117507935 s
+No surviving key guess
+
+Attack index: 71
+Running time: 8.131772756576538 s
+No surviving key guess
+
+Attack index: 72
+Running time: 7.9043755531311035 s
+No surviving key guess
+
+Attack index: 73
+Running time: 7.834271669387817 s
+No surviving key guess
+
+Attack index: 74
+Running time: 8.06931734085083 s
+No surviving key guess
+
+Attack index: 75
+Running time: 8.094933271408081 s
+No surviving key guess
+
+Attack index: 76
+Running time: 7.949338436126709 s
+No surviving key guess
+
+Attack index: 77
+Running time: 8.061525344848633 s
+No surviving key guess
+
+Attack index: 78
+Running time: 7.968783617019653 s
+No surviving key guess
+
+Attack index: 79
+Running time: 7.991820812225342 s
+No surviving key guess
+
+Attack index: 80
+Running time: 8.126921653747559 s
+No surviving key guess
+
+Attack index: 81
+Running time: 7.761568307876587 s
+No surviving key guess
+
+Attack index: 82
+Running time: 7.813827037811279 s
+No surviving key guess
+
+Attack index: 83
+Running time: 7.552485704421997 s
+No surviving key guess
+
+Attack index: 84
+Running time: 7.773966073989868 s
+No surviving key guess
+
+Attack index: 85
+Running time: 7.789866209030151 s
+No surviving key guess
+
+Attack index: 86
+Running time: 7.478067398071289 s
+No surviving key guess
+
+Attack index: 87
+Running time: 7.851020336151123 s
+No surviving key guess
+
+Attack index: 88
+Running time: 7.871821880340576 s
+No surviving key guess
+
+Attack index: 89
+Running time: 7.805728912353516 s
+No surviving key guess
+
+Attack index: 90
+Running time: 7.969145059585571 s
+No surviving key guess
+
+Attack index: 91
+Running time: 7.690661430358887 s
+No surviving key guess
+
+Attack index: 92
+Running time: 7.714242458343506 s
+No surviving key guess
+
+Attack index: 93
+Running time: 7.837143659591675 s
+No surviving key guess
+
+Attack index: 94
+Running time: 8.015718221664429 s
+No surviving key guess
+
+Attack index: 95
+Running time: 7.97082257270813 s
+No surviving key guess
+
+Attack index: 96
+Running time: 8.037825345993042 s
+No surviving key guess
+
+Attack index: 97
+Running time: 8.16689682006836 s
+No surviving key guess
+
+Attack index: 98
+Running time: 7.974417209625244 s
+No surviving key guess
+
+Attack index: 99
+Running time: 7.940969467163086 s
+No surviving key guess
+
+Attack index: 100
+Running time: 7.863530397415161 s
+No surviving key guess
+
+Attack index: 101
+Running time: 7.839433431625366 s
+No surviving key guess
+
+Attack index: 102
+Running time: 7.701764822006226 s
+No surviving key guess
+
+Attack index: 103
+Running time: 7.623053789138794 s
+No surviving key guess
+
+Attack index: 104
+Running time: 7.792445659637451 s
+No surviving key guess
+
+Attack index: 105
+Running time: 7.868823766708374 s
+No surviving key guess
+
+Attack index: 106
+Running time: 7.887263298034668 s
+No surviving key guess
+
+Attack index: 107
+Running time: 7.986298322677612 s
+No surviving key guess
+
+Attack index: 108
+Running time: 7.993513345718384 s
+No surviving key guess
+
+Attack index: 109
+Running time: 7.705420970916748 s
+No surviving key guess
+
+Attack index: 110
+Running time: 7.681256294250488 s
+No surviving key guess
+
+Attack index: 111
+Running time: 7.926558971405029 s
+No surviving key guess
+
+Attack index: 112
+Running time: 7.93371844291687 s
+No surviving key guess
+
+Attack index: 113
+Running time: 7.924142122268677 s
+No surviving key guess
+
+Attack index: 114
+Running time: 7.595352411270142 s
+No surviving key guess
+
+Attack index: 115
+Running time: 7.540505409240723 s
+No surviving key guess
+
+Attack index: 116
+Running time: 8.005522966384888 s
+No surviving key guess
+
+Attack index: 117
+Running time: 8.015945434570312 s
+No surviving key guess
+
+Attack index: 118
+Running time: 7.568551778793335 s
+No surviving key guess
+
+Attack index: 119
+Running time: 7.6198649406433105 s
+No surviving key guess
+
+Attack index: 120
+Running time: 7.882953405380249 s
+No surviving key guess
+
+Attack index: 121
+Running time: 7.928339719772339 s
+No surviving key guess
+
+Attack index: 122
+Running time: 7.722677946090698 s
+No surviving key guess
+
+Attack index: 123
+Running time: 7.782357692718506 s
+No surviving key guess
+
+Attack index: 124
+Running time: 7.761577844619751 s
+No surviving key guess
+
+Attack index: 125
+Running time: 7.521286964416504 s
+No surviving key guess
+
+Attack index: 126
+Running time: 7.630002975463867 s
+No surviving key guess
+
+Attack index: 127
+Running time: 7.6145524978637695 s
+No surviving key guess
+
+Attack index: 128
+Running time: 7.95742392539978 s
+No surviving key guess
+
+Attack index: 129
+Running time: 7.979589462280273 s
+No surviving key guess
+
+Attack index: 130
+Running time: 8.03681755065918 s
+No surviving key guess
+
+Attack index: 131
+Running time: 7.923422813415527 s
+No surviving key guess
+
+Attack index: 132
+Running time: 8.115602254867554 s
+No surviving key guess
+
+Attack index: 133
+Running time: 7.988280773162842 s
+No surviving key guess
+
+Attack index: 134
+Running time: 7.981372356414795 s
+No surviving key guess
+
+Attack index: 135
+Running time: 7.944148063659668 s
+No surviving key guess
+
+Attack index: 136
+Running time: 7.789664268493652 s
+No surviving key guess
+
+Attack index: 137
+Running time: 7.444053411483765 s
+No surviving key guess
+
+Attack index: 138
+Running time: 7.884033203125 s
+No surviving key guess
+
+Attack index: 139
+Running time: 7.923847198486328 s
+No surviving key guess
+
+Attack index: 140
+Running time: 8.006021976470947 s
+No surviving key guess
+
+Attack index: 141
+Running time: 8.025093078613281 s
+No surviving key guess
+
+Attack index: 142
+Running time: 8.032978534698486 s
+No surviving key guess
+
+Attack index: 143
+Running time: 7.811807632446289 s
+No surviving key guess
+
+Attack index: 144
+Running time: 8.14757490158081 s
+No surviving key guess
+
+Attack index: 145
+Running time: 7.866266489028931 s
+No surviving key guess
+
+Attack index: 146
+Running time: 7.587841510772705 s
+No surviving key guess
+
+Attack index: 147
+Running time: 7.75312614440918 s
+No surviving key guess
+
+Attack index: 148
+Running time: 7.645510911941528 s
+No surviving key guess
+
+Attack index: 149
+Running time: 7.678656101226807 s
+No surviving key guess
+
+Attack index: 150
+Running time: 7.913676977157593 s
+No surviving key guess
+
+Attack index: 151
+Running time: 7.509915351867676 s
+No surviving key guess
+
+Attack index: 152
+Running time: 7.891122341156006 s
+No surviving key guess
+
+Attack index: 153
+Running time: 7.671671390533447 s
+No surviving key guess
+
+Attack index: 154
+Running time: 7.6060097217559814 s
+No surviving key guess
+
+Attack index: 155
+Running time: 7.93937611579895 s
+No surviving key guess
+
+Attack index: 156
+Running time: 7.946612358093262 s
+No surviving key guess
+
+Attack index: 157
+Running time: 8.043901681900024 s
+No surviving key guess
+
+Attack index: 158
+Running time: 7.922488689422607 s
+No surviving key guess
+
+Attack index: 159
+Running time: 8.09960651397705 s
+No surviving key guess
+
+Attack index: 160
+Running time: 7.899288654327393 s
+No surviving key guess
+
+Attack index: 161
+Running time: 7.963434219360352 s
+No surviving key guess
+
+Attack index: 162
+Running time: 7.9228010177612305 s
+No surviving key guess
+
+Attack index: 163
+Running time: 7.752246618270874 s
+No surviving key guess
+
+Attack index: 164
+Running time: 7.570220708847046 s
+No surviving key guess
+
+Attack index: 165
+Running time: 7.924160480499268 s
+No surviving key guess
+
+Attack index: 166
+Running time: 7.951916456222534 s
+No surviving key guess
+
+Attack index: 167
+Running time: 7.963238954544067 s
+No surviving key guess
+
+Attack index: 168
+Running time: 7.9919891357421875 s
+No surviving key guess
+
+Attack index: 169
+Running time: 7.934720516204834 s
+No surviving key guess
+
+Attack index: 170
+Running time: 8.146406412124634 s
+No surviving key guess
+
+Attack index: 171
+Running time: 8.004600763320923 s
+No surviving key guess
+
+Attack index: 172
+Running time: 8.013820886611938 s
+No surviving key guess
+
+Attack index: 173
+Running time: 8.002999305725098 s
+No surviving key guess
+
+Attack index: 174
+Running time: 7.978437662124634 s
+No surviving key guess
+
+Attack index: 175
+Running time: 7.854221343994141 s
+No surviving key guess
+
+Attack index: 176
+Running time: 8.084010601043701 s
+No surviving key guess
+
+Attack index: 177
+Running time: 8.059271097183228 s
+No surviving key guess
+
+Attack index: 178
+Running time: 7.911980390548706 s
+No surviving key guess
+
+Attack index: 179
+Running time: 8.050550937652588 s
+No surviving key guess
+
+Attack index: 180
+Running time: 7.92256760597229 s
+No surviving key guess
+
+Attack index: 181
+Running time: 8.031492233276367 s
+No surviving key guess
+
+Attack index: 182
+Running time: 7.224720239639282 s
+No surviving key guess
+
+Attack index: 183
+Running time: 7.828201770782471 s
+No surviving key guess
+
+Attack index: 184
+Running time: 7.8435328006744385 s
+No surviving key guess
+
+Attack index: 185
+Running time: 8.015821933746338 s
+No surviving key guess
+
+Attack index: 186
+Running time: 7.886242389678955 s
+No surviving key guess
+
+Attack index: 187
+Running time: 7.46461296081543 s
+No surviving key guess
+
+Attack index: 188
+Running time: 7.934238433837891 s
+No surviving key guess
+
+Attack index: 189
+Running time: 7.658444404602051 s
+No surviving key guess
+
+Attack index: 190
+Running time: 7.829301595687866 s
+No surviving key guess
+
+Attack index: 191
+Running time: 7.911885738372803 s
+No surviving key guess
+
+Attack index: 192
+Running time: 7.645104646682739 s
+No surviving key guess
+
+Attack index: 193
+Running time: 7.734071731567383 s
+No surviving key guess
+
+Attack index: 194
+Running time: 7.944983243942261 s
+No surviving key guess
+
+Attack index: 195
+Running time: 7.492806911468506 s
+No surviving key guess
+
+Attack index: 196
+Running time: 7.812925100326538 s
+No surviving key guess
+
+Attack index: 197
+Running time: 7.76099157333374 s
+No surviving key guess
+
+Attack index: 198
+Running time: 7.970779895782471 s
+No surviving key guess
+
+Attack index: 199
+Running time: 7.802511215209961 s
+No surviving key guess
+
+Attack index: 200
+Running time: 7.562572717666626 s
+No surviving key guess
+
+Attack index: 201
+Running time: 7.731099843978882 s
+No surviving key guess
+
+Attack index: 202
+Running time: 7.633216381072998 s
+No surviving key guess
+
+Attack index: 203
+Running time: 7.710376024246216 s
+No surviving key guess
+
+Attack index: 204
+Running time: 7.542316913604736 s
+No surviving key guess
+
+Attack index: 205
+Running time: 7.7772698402404785 s
+No surviving key guess
+
+Attack index: 206
+Running time: 7.684880256652832 s
+No surviving key guess
+
+Attack index: 207
+Running time: 7.718457221984863 s
+No surviving key guess
+
+Attack index: 208
+Running time: 8.02270770072937 s
+No surviving key guess
+
+Attack index: 209
+Running time: 7.849297285079956 s
+No surviving key guess
+
+Attack index: 210
+Running time: 7.571398973464966 s
+No surviving key guess
+
+Attack index: 211
+Running time: 7.698678255081177 s
+No surviving key guess
+
+Attack index: 212
+Running time: 7.812921762466431 s
+No surviving key guess
+
+Attack index: 213
+Running time: 8.092254400253296 s
+No surviving key guess
+
+Attack index: 214
+Running time: 7.8262903690338135 s
+No surviving key guess
+
+Attack index: 215
+Running time: 7.845093488693237 s
+No surviving key guess
+
+Attack index: 216
+Running time: 7.670855522155762 s
+No surviving key guess
+
+Attack index: 217
+Running time: 7.699258804321289 s
+No surviving key guess
+
+Attack index: 218
+Running time: 7.760391712188721 s
+No surviving key guess
+
+Attack index: 219
+Running time: 7.562296390533447 s
+No surviving key guess
+
+Attack index: 220
+Running time: 7.780703544616699 s
+No surviving key guess
+
+Attack index: 221
+Running time: 7.814958095550537 s
+No surviving key guess
+
+Attack index: 222
+Running time: 7.984389781951904 s
+No surviving key guess
+
+Attack index: 223
+Running time: 8.121352434158325 s
+No surviving key guess
+
+Attack index: 224
+Running time: 7.765761852264404 s
+No surviving key guess
+
+Attack index: 225
+Running time: 8.131633758544922 s
+No surviving key guess
+
+Attack index: 226
+Running time: 8.020414590835571 s
+No surviving key guess
+
+Attack index: 227
+Running time: 7.947861433029175 s
+No surviving key guess
+
+Attack index: 228
+Running time: 7.948918581008911 s
+No surviving key guess
+
+Attack index: 229
+Running time: 7.86895227432251 s
+No surviving key guess
+
+Attack index: 230
+Running time: 8.229007244110107 s
+No surviving key guess
+
+Attack index: 231
+Running time: 7.917672872543335 s
+No surviving key guess
+
+Attack index: 232
+Running time: 8.015142917633057 s
+No surviving key guess
+
+Attack index: 233
+Running time: 8.122333288192749 s
+No surviving key guess
+
+Attack index: 234
+Running time: 7.919755220413208 s
+No surviving key guess
+
+Attack index: 235
+Running time: 8.064903974533081 s
+No surviving key guess
+
+Attack index: 236
+Running time: 7.752933979034424 s
+No surviving key guess
+
+Attack index: 237
+Running time: 7.677844047546387 s
+No surviving key guess
+
+Attack index: 238
+Running time: 7.733556509017944 s
+No surviving key guess
+
+Attack index: 239
+Running time: 7.792117118835449 s
+No surviving key guess
+
+Attack index: 240
+Running time: 7.871927976608276 s
+No surviving key guess
+
+Attack index: 241
+Running time: 8.161253213882446 s
+No surviving key guess
+
+Attack index: 242
+Running time: 7.937932252883911 s
+No surviving key guess
+
+Attack index: 243
+Running time: 7.8438403606414795 s
+No surviving key guess
+
+Attack index: 244
+Running time: 8.10843563079834 s
+No surviving key guess
+
+Attack index: 245
+Running time: 7.82486629486084 s
+No surviving key guess
+
+Attack index: 246
+Running time: 7.620843410491943 s
+No surviving key guess
+
+Attack index: 247
+Running time: 7.839372158050537 s
+No surviving key guess
+
+Attack index: 248
+Running time: 7.577294588088989 s
+No surviving key guess
+
+Attack index: 249
+Running time: 7.678905725479126 s
+No surviving key guess
+
+Attack index: 250
+Running time: 7.799009799957275 s
+No surviving key guess
+
+Attack index: 251
+Running time: 7.751769065856934 s
+No surviving key guess
+
+Attack index: 252
+Running time: 7.904972314834595 s
+No surviving key guess
+
+Attack index: 253
+Running time: 7.596649646759033 s
+No surviving key guess
+
+Attack index: 254
+Running time: 7.470572471618652 s
+No surviving key guess
+
+Attack index: 255
+Running time: 7.955261468887329 s
+No surviving key guess
+
+Attack index: 256
+Running time: 8.080791473388672 s
+No surviving key guess
+
+Attack index: 257
+Running time: 7.846676826477051 s
+No surviving key guess
+
+Attack index: 258
+Running time: 7.948511362075806 s
+No surviving key guess
+
+Attack index: 259
+Running time: 7.963612079620361 s
+No surviving key guess
+
+Attack index: 260
+Running time: 7.698114633560181 s
+No surviving key guess
+
+Attack index: 261
+Running time: 7.780042886734009 s
+No surviving key guess
+
+Attack index: 262
+Running time: 7.707544565200806 s
+No surviving key guess
+
+Attack index: 263
+Running time: 8.003635883331299 s
+No surviving key guess
+
+Attack index: 264
+Running time: 8.019652605056763 s
+No surviving key guess
+
+Attack index: 265
+Running time: 8.017139911651611 s
+No surviving key guess
+
+Attack index: 266
+Running time: 8.058173656463623 s
+No surviving key guess
+
+Attack index: 267
+Running time: 7.979604721069336 s
+No surviving key guess
+
+Attack index: 268
+Running time: 7.885382175445557 s
+No surviving key guess
+
+Attack index: 269
+Running time: 7.677636384963989 s
+No surviving key guess
+
+Attack index: 270
+Running time: 7.776029586791992 s
+No surviving key guess
+
+Attack index: 271
+Running time: 7.850198030471802 s
+No surviving key guess
+
+Attack index: 272
+Running time: 7.760751485824585 s
+No surviving key guess
+
+Attack index: 273
+Running time: 8.148520708084106 s
+No surviving key guess
+
+Attack index: 274
+Running time: 7.962786436080933 s
+No surviving key guess
+
+Attack index: 275
+Running time: 7.946592092514038 s
+No surviving key guess
+
+Attack index: 276
+Running time: 7.892672300338745 s
+No surviving key guess
+
+Attack index: 277
+Running time: 7.789886474609375 s
+No surviving key guess
+
+Attack index: 278
+Running time: 7.553249835968018 s
+No surviving key guess
+
+Attack index: 279
+Running time: 7.871278285980225 s
+No surviving key guess
+
+Attack index: 280
+Running time: 7.596685171127319 s
+No surviving key guess
+
+Attack index: 281
+Running time: 7.7422943115234375 s
+No surviving key guess
+
+Attack index: 282
+Running time: 7.8540027141571045 s
+No surviving key guess
+
+Attack index: 283
+Running time: 7.834051609039307 s
+No surviving key guess
+
+Attack index: 284
+Running time: 7.5144946575164795 s
+No surviving key guess
+
+Attack index: 285
+Running time: 7.886410236358643 s
+No surviving key guess
+
+Attack index: 286
+Running time: 7.775220155715942 s
+No surviving key guess
+
+Attack index: 287
+Running time: 7.8908851146698 s
+No surviving key guess
+
+Attack index: 288
+Running time: 8.010127305984497 s
+No surviving key guess
+
+Attack index: 289
+Running time: 7.738677263259888 s
+No surviving key guess
+
+Attack index: 290
+Running time: 8.081171035766602 s
+No surviving key guess
+
+Attack index: 291
+Running time: 8.020196199417114 s
+No surviving key guess
+
+Attack index: 292
+Running time: 7.824429035186768 s
+No surviving key guess
+
+Attack index: 293
+Running time: 7.943480968475342 s
+No surviving key guess
+
+Attack index: 294
+Running time: 7.762228488922119 s
+No surviving key guess
+
+Attack index: 295
+Running time: 7.747365951538086 s
+No surviving key guess
+
+Attack index: 296
+Running time: 7.808114767074585 s
+No surviving key guess
+
+Attack index: 297
+Running time: 7.837219476699829 s
+No surviving key guess
+
+Attack index: 298
+Running time: 7.910280466079712 s
+No surviving key guess
+
+Attack index: 299
+Running time: 7.620264291763306 s
+No surviving key guess
+
+Attack index: 300
+Running time: 7.784546613693237 s
+No surviving key guess
+
+Attack index: 301
+Running time: 7.794509410858154 s
+No surviving key guess
+
+Attack index: 302
+Running time: 7.698909044265747 s
+No surviving key guess
+
+Attack index: 303
+Running time: 7.818414688110352 s
+No surviving key guess
+
+Attack index: 304
+Running time: 7.449166774749756 s
+No surviving key guess
+
+Attack index: 305
+Running time: 7.7637481689453125 s
+No surviving key guess
+
+Attack index: 306
+Running time: 7.688011169433594 s
+No surviving key guess
+
+Attack index: 307
+Running time: 7.774986505508423 s
+No surviving key guess
+
+Attack index: 308
+Running time: 7.837606191635132 s
+No surviving key guess
+
+Attack index: 309
+Running time: 7.72212815284729 s
+No surviving key guess
+
+Attack index: 310
+Running time: 7.6055684089660645 s
+No surviving key guess
+
+Attack index: 311
+Running time: 7.779808282852173 s
+No surviving key guess
+
+Attack index: 312
+Running time: 7.696384429931641 s
+No surviving key guess
+
+Attack index: 313
+Running time: 7.5602710247039795 s
+No surviving key guess
+
+Attack index: 314
+Running time: 7.546741008758545 s
+No surviving key guess
+
+Attack index: 315
+Running time: 7.908995866775513 s
+No surviving key guess
+
+Attack index: 316
+Running time: 7.738688945770264 s
+No surviving key guess
+
+Attack index: 317
+Running time: 7.610520601272583 s
+No surviving key guess
+
+Attack index: 318
+Running time: 7.568812608718872 s
+No surviving key guess
+
+Attack index: 319
+Running time: 8.043704986572266 s
+No surviving key guess
+
+Attack index: 320
+Running time: 8.159791707992554 s
+No surviving key guess
+
+Attack index: 321
+Running time: 7.851234436035156 s
+No surviving key guess
+
+Attack index: 322
+Running time: 8.0828857421875 s
+No surviving key guess
+
+Attack index: 323
+Running time: 8.014346837997437 s
+No surviving key guess
+
+Attack index: 324
+Running time: 8.071439981460571 s
+No surviving key guess
+
+Attack index: 325
+Running time: 7.893902540206909 s
+No surviving key guess
+
+Attack index: 326
+Running time: 8.053425312042236 s
+No surviving key guess
+
+Attack index: 327
+Running time: 7.970317363739014 s
+No surviving key guess
+
+Attack index: 328
+Running time: 7.937955617904663 s
+No surviving key guess
+
+Attack index: 329
+Running time: 8.009754180908203 s
+No surviving key guess
+
+Attack index: 330
+Running time: 7.8436291217803955 s
+No surviving key guess
+
+Attack index: 331
+Running time: 7.673146724700928 s
+No surviving key guess
+
+Attack index: 332
+Running time: 7.651270866394043 s
+No surviving key guess
+
+Attack index: 333
+Running time: 7.894636154174805 s
+No surviving key guess
+
+Attack index: 334
+Running time: 7.812655448913574 s
+No surviving key guess
+
+Attack index: 335
+Running time: 7.885985851287842 s
+No surviving key guess
+
+Attack index: 336
+Running time: 7.478593111038208 s
+No surviving key guess
+
+Attack index: 337
+Running time: 7.718850135803223 s
+No surviving key guess
+
+Attack index: 338
+Running time: 7.755976438522339 s
+No surviving key guess
+
+Attack index: 339
+Running time: 7.428123235702515 s
+No surviving key guess
+
+Attack index: 340
+Running time: 7.895715236663818 s
+No surviving key guess
+
+Attack index: 341
+Running time: 7.9077959060668945 s
+No surviving key guess
+
+Attack index: 342
+Running time: 8.149232149124146 s
+No surviving key guess
+
+Attack index: 343
+Running time: 7.901721715927124 s
+No surviving key guess
+
+Attack index: 344
+Running time: 7.637560129165649 s
+No surviving key guess
+
+Attack index: 345
+Running time: 7.588470697402954 s
+No surviving key guess
+
+Attack index: 346
+Running time: 7.747090101242065 s
+No surviving key guess
+
+Attack index: 347
+Running time: 7.580182313919067 s
+No surviving key guess
+
+Attack index: 348
+Running time: 7.847618818283081 s
+No surviving key guess
+
+Attack index: 349
+Running time: 7.969233751296997 s
+No surviving key guess
+
+Attack index: 350
+Running time: 7.762367486953735 s
+No surviving key guess
+
+Attack index: 351
+Running time: 7.34691047668457 s
+No surviving key guess
+
+Attack index: 352
+Running time: 7.843312740325928 s
+No surviving key guess
+
+Attack index: 353
+Running time: 7.824130058288574 s
+No surviving key guess
+
+Attack index: 354
+Running time: 7.9854350090026855 s
+No surviving key guess
+
+Attack index: 355
+Running time: 8.020115613937378 s
+No surviving key guess
+
+Attack index: 356
+Running time: 7.804825782775879 s
+No surviving key guess
+
+Attack index: 357
+Running time: 8.140110492706299 s
+No surviving key guess
+
+Attack index: 358
+Running time: 8.039742708206177 s
+No surviving key guess
+
+Attack index: 359
+Running time: 7.923672676086426 s
+No surviving key guess
+
+Attack index: 360
+Running time: 7.972858190536499 s
+No surviving key guess
+
+Attack index: 361
+Running time: 7.825293302536011 s
+No surviving key guess
+
+Attack index: 362
+Running time: 7.622851610183716 s
+No surviving key guess
+
+Attack index: 363
+Running time: 7.688140630722046 s
+No surviving key guess
+
+Attack index: 364
+Running time: 7.85109281539917 s
+No surviving key guess
+
+Attack index: 365
+Running time: 8.032623529434204 s
+No surviving key guess
+
+Attack index: 366
+Running time: 8.218923807144165 s
+No surviving key guess
+
+Attack index: 367
+Running time: 7.963066816329956 s
+No surviving key guess
+
+Attack index: 368
+Running time: 7.950456619262695 s
+No surviving key guess
+
+Attack index: 369
+Running time: 7.996356010437012 s
+No surviving key guess
+
+Attack index: 370
+Running time: 7.861046314239502 s
+No surviving key guess
+
+Attack index: 371
+Running time: 8.157537937164307 s
+No surviving key guess
+
+Attack index: 372
+Running time: 7.918938398361206 s
+No surviving key guess
+
+Attack index: 373
+Running time: 8.06109619140625 s
+No surviving key guess
+
+Attack index: 374
+Running time: 8.022123575210571 s
+No surviving key guess
+
+Attack index: 375
+Running time: 8.004055500030518 s
+No surviving key guess
+
+Attack index: 376
+Running time: 8.047126531600952 s
+No surviving key guess
+
+Attack index: 377
+Running time: 7.984760761260986 s
+No surviving key guess
+
+Attack index: 378
+Running time: 7.9884724617004395 s
+No surviving key guess
+
+Attack index: 379
+Running time: 8.032203435897827 s
+No surviving key guess
+
+Attack index: 380
+Running time: 7.953024625778198 s
+No surviving key guess
+
+Attack index: 381
+Running time: 8.048089265823364 s
+No surviving key guess
+
+Attack index: 382
+Running time: 8.024458408355713 s
+No surviving key guess
+
+Attack index: 383
+Running time: 8.183985948562622 s
+No surviving key guess
+
+Attack index: 384
+Running time: 7.91410756111145 s
+No surviving key guess
+
+Attack index: 385
+Running time: 7.898524284362793 s
+No surviving key guess
+
+Attack index: 386
+Running time: 7.939727544784546 s
+No surviving key guess
+
+Attack index: 387
+Running time: 8.042443037033081 s
+No surviving key guess
+
+Attack index: 388
+Running time: 8.046022653579712 s
+No surviving key guess
+
+Attack index: 389
+Running time: 7.949824571609497 s
+No surviving key guess
+
+Attack index: 390
+Running time: 8.041164875030518 s
+No surviving key guess
+
+Attack index: 391
+Running time: 7.922504186630249 s
+No surviving key guess
+
+Attack index: 392
+Running time: 8.0087149143219 s
+No surviving key guess
+
+Attack index: 393
+Running time: 8.049098014831543 s
+No surviving key guess
+
+Attack index: 394
+Running time: 7.908736705780029 s
+No surviving key guess
+
+Attack index: 395
+Running time: 7.965493440628052 s
+No surviving key guess
+
+Attack index: 396
+Running time: 7.95722508430481 s
+No surviving key guess
+
+Attack index: 397
+Running time: 8.097007274627686 s
+No surviving key guess
+
+Attack index: 398
+Running time: 8.120650291442871 s
+No surviving key guess
+
+Attack index: 399
+Running time: 7.876040458679199 s
+No surviving key guess
+
+Attack index: 400
+Running time: 7.969587564468384 s
+No surviving key guess
+
+Attack index: 401
+Running time: 8.100325584411621 s
+No surviving key guess
+
+Attack index: 402
+Running time: 7.965202569961548 s
+No surviving key guess
+
+Attack index: 403
+Running time: 8.00783109664917 s
+No surviving key guess
+
+Attack index: 404
+Running time: 7.8987507820129395 s
+No surviving key guess
+
+Attack index: 405
+Running time: 8.01687502861023 s
+No surviving key guess
+
+Attack index: 406
+Running time: 7.910875558853149 s
+No surviving key guess
+
+Attack index: 407
+Running time: 7.928292989730835 s
+No surviving key guess
+
+Attack index: 408
+Running time: 7.59107518196106 s
+No surviving key guess
+
+Attack index: 409
+Running time: 7.733373403549194 s
+No surviving key guess
+
+Attack index: 410
+Running time: 7.874533414840698 s
+No surviving key guess
+
+Attack index: 411
+Running time: 7.9430694580078125 s
+No surviving key guess
+
+Attack index: 412
+Running time: 7.859963893890381 s
+No surviving key guess
+
+Attack index: 413
+Running time: 7.800788640975952 s
+No surviving key guess
+
+Attack index: 414
+Running time: 7.83812689781189 s
+No surviving key guess
+
+Attack index: 415
+Running time: 7.799145698547363 s
+No surviving key guess
+
+Attack index: 416
+Running time: 7.706651449203491 s
+No surviving key guess
+
+Attack index: 417
+Running time: 7.960945129394531 s
+No surviving key guess
+
+Attack index: 418
+Running time: 7.918289422988892 s
+No surviving key guess
+
+Attack index: 419
+Running time: 7.796658039093018 s
+No surviving key guess
+
+Attack index: 420
+Running time: 7.774340629577637 s
+No surviving key guess
+
+Attack index: 421
+Running time: 7.650498151779175 s
+No surviving key guess
+
+Attack index: 422
+Running time: 7.798364639282227 s
+No surviving key guess
+
+Attack index: 423
+Running time: 7.787797927856445 s
+No surviving key guess
+
+Attack index: 424
+Running time: 7.740377187728882 s
+No surviving key guess
+
+Attack index: 425
+Running time: 7.815455913543701 s
+No surviving key guess
+
+Attack index: 426
+Running time: 7.877942085266113 s
+No surviving key guess
+
+Attack index: 427
+Running time: 7.754779100418091 s
+No surviving key guess
+
+Attack index: 428
+Running time: 7.662999868392944 s
+No surviving key guess
+
+Attack index: 429
+Running time: 7.761250972747803 s
+No surviving key guess
+
+Attack index: 430
+Running time: 7.840660572052002 s
+No surviving key guess
+
+Attack index: 431
+Running time: 7.973853826522827 s
+No surviving key guess
+
+Attack index: 432
+Running time: 7.675279855728149 s
+No surviving key guess
+
+Attack index: 433
+Running time: 7.757741451263428 s
+No surviving key guess
+
+Attack index: 434
+Running time: 7.785647869110107 s
+No surviving key guess
+
+Attack index: 435
+Running time: 7.783468961715698 s
+No surviving key guess
+
+Attack index: 436
+Running time: 7.752079963684082 s
+No surviving key guess
+
+Attack index: 437
+Running time: 7.797094345092773 s
+No surviving key guess
+
+Attack index: 438
+Running time: 7.866091012954712 s
+No surviving key guess
+
+Attack index: 439
+Running time: 7.703881740570068 s
+No surviving key guess
+
+Attack index: 440
+Running time: 7.761411190032959 s
+No surviving key guess
+
+Attack index: 441
+Running time: 7.741204261779785 s
+No surviving key guess
+
+Attack index: 442
+Running time: 7.8025147914886475 s
+No surviving key guess
+
+Attack index: 443
+Running time: 7.796611547470093 s
+No surviving key guess
+
+Attack index: 444
+Running time: 7.823851823806763 s
+No surviving key guess
+
+Attack index: 445
+Running time: 7.851705551147461 s
+No surviving key guess
+
+Attack index: 446
+Running time: 7.711881637573242 s
+No surviving key guess
+
+Attack index: 447
+Running time: 7.723014831542969 s
+No surviving key guess
+
+Attack index: 448
+Running time: 7.744051933288574 s
+No surviving key guess
+
+Attack index: 449
+Running time: 7.90678596496582 s
+No surviving key guess
+
+Attack index: 450
+Running time: 7.981662273406982 s
+No surviving key guess
+
+Attack index: 451
+Running time: 7.864812850952148 s
+No surviving key guess
+
+Attack index: 452
+Running time: 7.827069520950317 s
+No surviving key guess
+
+Attack index: 453
+Running time: 7.88266921043396 s
+No surviving key guess
+
+Attack index: 454
+Running time: 7.792393207550049 s
+No surviving key guess
+
+Attack index: 455
+Running time: 7.722845792770386 s
+No surviving key guess
+
+Attack index: 456
+Running time: 7.874562978744507 s
+No surviving key guess
+
+Attack index: 457
+Running time: 7.896389007568359 s
+No surviving key guess
+
+Attack index: 458
+Running time: 7.8357834815979 s
+No surviving key guess
+
+Attack index: 459
+Running time: 7.634390115737915 s
+No surviving key guess
+
+Attack index: 460
+Running time: 7.771319627761841 s
+No surviving key guess
+
+Attack index: 461
+Running time: 7.905905246734619 s
+No surviving key guess
+
+Attack index: 462
+Running time: 7.8630712032318115 s
+No surviving key guess
+
+Attack index: 463
+Running time: 7.729305028915405 s
+No surviving key guess
+
+Attack index: 464
+Running time: 7.796692371368408 s
+No surviving key guess
+
+Attack index: 465
+Running time: 7.817823886871338 s
+No surviving key guess
+
+Attack index: 466
+Running time: 7.77294921875 s
+No surviving key guess
+
+Attack index: 467
+Running time: 7.731580972671509 s
+No surviving key guess
+
+Attack index: 468
+Running time: 7.760251522064209 s
+No surviving key guess
+
+Attack index: 469
+Running time: 7.850693225860596 s
+No surviving key guess
+
+Attack index: 470
+Running time: 7.743854999542236 s
+No surviving key guess
+
+Attack index: 471
+Running time: 7.8901002407073975 s
+No surviving key guess
+
+Attack index: 472
+Running time: 8.025691509246826 s
+No surviving key guess
+
+Attack index: 473
+Running time: 7.930828809738159 s
+No surviving key guess
+
+Attack index: 474
+Running time: 7.91164231300354 s
+No surviving key guess
+
+Attack index: 475
+Running time: 7.766559839248657 s
+No surviving key guess
+
+Attack index: 476
+Running time: 7.793750762939453 s
+No surviving key guess
+
+Attack index: 477
+Running time: 7.881117820739746 s
+No surviving key guess
+
+Attack index: 478
+Running time: 7.974138259887695 s
+No surviving key guess
+
+Attack index: 479
+Running time: 7.774599313735962 s
+No surviving key guess
+
+Attack index: 480
+Running time: 7.674823045730591 s
+No surviving key guess
+
+Attack index: 481
+Running time: 7.7045066356658936 s
+No surviving key guess
+
+Attack index: 482
+Running time: 7.842794895172119 s
+No surviving key guess
+
+Attack index: 483
+Running time: 7.790183067321777 s
+No surviving key guess
+
+Attack index: 484
+Running time: 7.740026473999023 s
+No surviving key guess
+
+Attack index: 485
+Running time: 7.793339967727661 s
+No surviving key guess
+
+Attack index: 486
+Running time: 7.770053863525391 s
+No surviving key guess
+
+Attack index: 487
+Running time: 7.804673194885254 s
+No surviving key guess
+
+Attack index: 488
+Running time: 7.93572735786438 s
+No surviving key guess
+
+Attack index: 489
+Running time: 7.853596210479736 s
+No surviving key guess
+
+Attack index: 490
+Running time: 7.703754901885986 s
+No surviving key guess
+
+Attack index: 491
+Running time: 7.857297897338867 s
+No surviving key guess
+
+Attack index: 492
+Running time: 7.88652491569519 s
+No surviving key guess
+
+Attack index: 493
+Running time: 7.768614053726196 s
+No surviving key guess
+
+Attack index: 494
+Running time: 7.890369176864624 s
+No surviving key guess
+
+Attack index: 495
+Running time: 7.928612947463989 s
+No surviving key guess
+
+Attack index: 496
+Running time: 7.873775482177734 s
+No surviving key guess
+
+Attack index: 497
+Running time: 7.8996734619140625 s
+No surviving key guess
+
+Attack index: 498
+Running time: 7.887206792831421 s
+No surviving key guess
+
+Attack index: 499
+Running time: 7.842217445373535 s
+No surviving key guess
+
+Attack index: 500
+Running time: 7.993878126144409 s
+No surviving key guess
+
+Attack index: 501
+Running time: 7.851630210876465 s
+No surviving key guess
+
+Attack index: 502
+Running time: 7.787676572799683 s
+No surviving key guess
+
+Attack index: 503
+Running time: 7.8265221118927 s
+No surviving key guess
+
+Attack index: 504
+Running time: 7.964179754257202 s
+No surviving key guess
+
+Attack index: 505
+Running time: 7.845094919204712 s
+No surviving key guess
+
+Attack index: 506
+Running time: 7.893919467926025 s
+No surviving key guess
+
+Attack index: 507
+Running time: 7.857300281524658 s
+No surviving key guess
+
+Attack index: 508
+Running time: 7.872312784194946 s
+No surviving key guess
+
+Attack index: 509
+Running time: 7.7542784214019775 s
+No surviving key guess
+
+Attack index: 510
+Running time: 7.996422529220581 s
+No surviving key guess
+
+Attack index: 511
+Running time: 8.026390075683594 s
+No surviving key guess
+
+Attack index: 512
+Running time: 7.8512866497039795 s
+No surviving key guess
+
+Attack index: 513
+Running time: 7.661988735198975 s
+No surviving key guess
+
+Attack index: 514
+Running time: 7.876062631607056 s
+No surviving key guess
+
+Attack index: 515
+Running time: 7.790040493011475 s
+No surviving key guess
+
+Attack index: 516
+Running time: 7.943268775939941 s
+No surviving key guess
+
+Attack index: 517
+Running time: 7.869879961013794 s
+No surviving key guess
+
+Attack index: 518
+Running time: 7.704648971557617 s
+No surviving key guess
+
+Attack index: 519
+Running time: 7.865288734436035 s
+No surviving key guess
+
+Attack index: 520
+Running time: 7.888651609420776 s
+No surviving key guess
+
+Attack index: 521
+Running time: 7.7907280921936035 s
+No surviving key guess
+
+Attack index: 522
+Running time: 7.775209188461304 s
+No surviving key guess
+
+Attack index: 523
+Running time: 7.892434120178223 s
+No surviving key guess
+
+Attack index: 524
+Running time: 7.982117414474487 s
+No surviving key guess
+
+Attack index: 525
+Running time: 7.689720392227173 s
+No surviving key guess
+
+Attack index: 526
+Running time: 8.061962604522705 s
+No surviving key guess
+
+Attack index: 527
+Running time: 7.567914009094238 s
+No surviving key guess
+
+Attack index: 528
+Running time: 7.7466959953308105 s
+No surviving key guess
+
+Attack index: 529
+Running time: 7.65265154838562 s
+No surviving key guess
+
+Attack index: 530
+Running time: 7.760945796966553 s
+No surviving key guess
+
+Attack index: 531
+Running time: 7.68247652053833 s
+No surviving key guess
+
+Attack index: 532
+Running time: 7.835426092147827 s
+No surviving key guess
+
+Attack index: 533
+Running time: 7.895101070404053 s
+No surviving key guess
+
+Attack index: 534
+Running time: 7.769644260406494 s
+No surviving key guess
+
+Attack index: 535
+Running time: 7.752196550369263 s
+No surviving key guess
+
+Attack index: 536
+Running time: 7.855093955993652 s
+No surviving key guess
+
+Attack index: 537
+Running time: 7.886403560638428 s
+No surviving key guess
+
+Attack index: 538
+Running time: 7.972954034805298 s
+No surviving key guess
+
+Attack index: 539
+Running time: 7.772156000137329 s
+No surviving key guess
+
+Attack index: 540
+Running time: 7.990501165390015 s
+No surviving key guess
+
+Attack index: 541
+Running time: 7.790412664413452 s
+No surviving key guess
+
+Attack index: 542
+Running time: 7.86497163772583 s
+No surviving key guess
+
+Attack index: 543
+Running time: 7.846279144287109 s
+No surviving key guess
+
+Attack index: 544
+Running time: 7.8570637702941895 s
+No surviving key guess
+
+Attack index: 545
+Running time: 7.907419204711914 s
+No surviving key guess
+
+Attack index: 546
+Running time: 7.80627965927124 s
+No surviving key guess
+
+Attack index: 547
+Running time: 7.941620588302612 s
+No surviving key guess
+
+Attack index: 548
+Running time: 7.815559387207031 s
+No surviving key guess
+
+Attack index: 549
+Running time: 7.746768951416016 s
+No surviving key guess
+
+Attack index: 550
+Running time: 7.661645412445068 s
+No surviving key guess
+
+Attack index: 551
+Running time: 7.79838752746582 s
+No surviving key guess
+
+Attack index: 552
+Running time: 7.811113119125366 s
+No surviving key guess
+
+Attack index: 553
+Running time: 7.740017652511597 s
+No surviving key guess
+
+Attack index: 554
+Running time: 7.959659814834595 s
+No surviving key guess
+
+Attack index: 555
+Running time: 7.767102479934692 s
+No surviving key guess
+
+Attack index: 556
+Running time: 7.9145824909210205 s
+No surviving key guess
+
+Attack index: 557
+Running time: 7.7015297412872314 s
+No surviving key guess
+
+Attack index: 558
+Running time: 7.822800636291504 s
+No surviving key guess
+
+Attack index: 559
+Running time: 7.822412729263306 s
+No surviving key guess
+
+Attack index: 560
+Running time: 7.875567197799683 s
+No surviving key guess
+
+Attack index: 561
+Running time: 7.852322816848755 s
+No surviving key guess
+
+Attack index: 562
+Running time: 7.876871585845947 s
+No surviving key guess
+
+Attack index: 563
+Running time: 7.684792518615723 s
+No surviving key guess
+
+Attack index: 564
+Running time: 7.612762689590454 s
+No surviving key guess
+
+Attack index: 565
+Running time: 7.830175399780273 s
+No surviving key guess
+
+Attack index: 566
+Running time: 7.578314304351807 s
+No surviving key guess
+
+Attack index: 567
+Running time: 7.790507793426514 s
+No surviving key guess
+
+Attack index: 568
+Running time: 7.953925132751465 s
+No surviving key guess
+
+Attack index: 569
+Running time: 7.612349987030029 s
+No surviving key guess
+
+Attack index: 570
+Running time: 7.746159076690674 s
+No surviving key guess
+
+Attack index: 571
+Running time: 7.8700337409973145 s
+No surviving key guess
+
+Attack index: 572
+Running time: 7.699689149856567 s
+No surviving key guess
+
+Attack index: 573
+Running time: 7.45429253578186 s
+No surviving key guess
+
+Attack index: 574
+Running time: 7.959153413772583 s
+No surviving key guess
+
+Attack index: 575
+Running time: 7.468663692474365 s
+No surviving key guess
+
+Attack index: 576
+Running time: 7.446644306182861 s
+No surviving key guess
+
+Attack index: 577
+Running time: 7.644972085952759 s
+No surviving key guess
+
+Attack index: 578
+Running time: 7.674072265625 s
+No surviving key guess
+
+Attack index: 579
+Running time: 7.750434875488281 s
+No surviving key guess
+
+Attack index: 580
+Running time: 7.628479957580566 s
+No surviving key guess
+
+Attack index: 581
+Running time: 7.835813045501709 s
+No surviving key guess
+
+Attack index: 582
+Running time: 7.612865447998047 s
+No surviving key guess
+
+Attack index: 583
+Running time: 7.529640197753906 s
+No surviving key guess
+
+Attack index: 584
+Running time: 7.689109563827515 s
+No surviving key guess
+
+Attack index: 585
+Running time: 7.762833118438721 s
+No surviving key guess
+
+Attack index: 586
+Running time: 7.716858386993408 s
+No surviving key guess
+
+Attack index: 587
+Running time: 7.902917385101318 s
+No surviving key guess
+
+Attack index: 588
+Running time: 7.803793430328369 s
+No surviving key guess
+
+Attack index: 589
+Running time: 7.772017240524292 s
+No surviving key guess
+
+Attack index: 590
+Running time: 7.842364072799683 s
+No surviving key guess
+
+Attack index: 591
+Running time: 7.616752862930298 s
+No surviving key guess
+
+Attack index: 592
+Running time: 7.666983127593994 s
+No surviving key guess
+
+Attack index: 593
+Running time: 7.418172359466553 s
+No surviving key guess
+
+Attack index: 594
+Running time: 7.723312139511108 s
+No surviving key guess
+
+Attack index: 595
+Running time: 7.649794816970825 s
+No surviving key guess
+
+Attack index: 596
+Running time: 7.7729246616363525 s
+No surviving key guess
+
+Attack index: 597
+Running time: 7.591319799423218 s
+No surviving key guess
+
+Attack index: 598
+Running time: 7.6231849193573 s
+No surviving key guess
+
+Attack index: 599
+Running time: 7.597060918807983 s
+No surviving key guess
+
+Attack index: 600
+Running time: 7.7694127559661865 s
+No surviving key guess
+
+Attack index: 601
+Running time: 7.407660722732544 s
+No surviving key guess
+
+Attack index: 602
+Running time: 7.681193828582764 s
+No surviving key guess
+
+Attack index: 603
+Running time: 7.646047830581665 s
+No surviving key guess
+
+Attack index: 604
+Running time: 7.532659292221069 s
+No surviving key guess
+
+Attack index: 605
+Running time: 7.731202125549316 s
+No surviving key guess
+
+Attack index: 606
+Running time: 7.786300420761108 s
+No surviving key guess
+
+Attack index: 607
+Running time: 7.634125709533691 s
+No surviving key guess
+
+Attack index: 608
+Running time: 7.3789989948272705 s
+No surviving key guess
+
+Attack index: 609
+Running time: 7.58447790145874 s
+No surviving key guess
+
+Attack index: 610
+Running time: 7.733783483505249 s
+No surviving key guess
+
+Attack index: 611
+Running time: 7.918644428253174 s
+No surviving key guess
+
+Attack index: 612
+Running time: 7.858358860015869 s
+No surviving key guess
+
+Attack index: 613
+Running time: 7.8065245151519775 s
+No surviving key guess
+
+Attack index: 614
+Running time: 7.661276578903198 s
+No surviving key guess
+
+Attack index: 615
+Running time: 7.790918827056885 s
+No surviving key guess
+
+Attack index: 616
+Running time: 7.66386604309082 s
+No surviving key guess
+
+Attack index: 617
+Running time: 7.667189359664917 s
+No surviving key guess
+
+Attack index: 618
+Running time: 7.587956190109253 s
+No surviving key guess
+
+Attack index: 619
+Running time: 7.6795454025268555 s
+No surviving key guess
+
+Attack index: 620
+Running time: 7.687957525253296 s
+No surviving key guess
+
+Attack index: 621
+Running time: 7.576169490814209 s
+No surviving key guess
+
+Attack index: 622
+Running time: 7.743242025375366 s
+No surviving key guess
+
+Attack index: 623
+Running time: 7.7751240730285645 s
+No surviving key guess
+
+Attack index: 624
+Running time: 7.504351615905762 s
+No surviving key guess
+
+Attack index: 625
+Running time: 7.744004964828491 s
+No surviving key guess
+
+Attack index: 626
+Running time: 7.524847984313965 s
+No surviving key guess
+
+Attack index: 627
+Running time: 7.541812181472778 s
+No surviving key guess
+
+Attack index: 628
+Running time: 7.470721960067749 s
+No surviving key guess
+
+Attack index: 629
+Running time: 7.597026109695435 s
+No surviving key guess
+
+Attack index: 630
+Running time: 7.936534404754639 s
+No surviving key guess
+
+Attack index: 631
+Running time: 7.59423041343689 s
+No surviving key guess
+
+Attack index: 632
+Running time: 7.701827764511108 s
+No surviving key guess
+
+Attack index: 633
+Running time: 7.910430669784546 s
+No surviving key guess
+
+Attack index: 634
+Running time: 7.736548900604248 s
+No surviving key guess
+
+Attack index: 635
+Running time: 7.663016080856323 s
+No surviving key guess
+
+Attack index: 636
+Running time: 7.58403754234314 s
+No surviving key guess
+
+Attack index: 637
+Running time: 7.738826036453247 s
+No surviving key guess
+
+Attack index: 638
+Running time: 7.4924468994140625 s
+No surviving key guess
+
+Attack index: 639
+Running time: 7.636216878890991 s
+No surviving key guess
+
+Attack index: 640
+Running time: 7.61664080619812 s
+No surviving key guess
+
+Attack index: 641
+Running time: 7.803113698959351 s
+No surviving key guess
+
+Attack index: 642
+Running time: 7.663854598999023 s
+No surviving key guess
+
+Attack index: 643
+Running time: 7.899206638336182 s
+No surviving key guess
+
+Attack index: 644
+Running time: 7.720975399017334 s
+No surviving key guess
+
+Attack index: 645
+Running time: 7.427318572998047 s
+No surviving key guess
+
+Attack index: 646
+Running time: 7.599967002868652 s
+No surviving key guess
+
+Attack index: 647
+Running time: 7.633496522903442 s
+No surviving key guess
+
+Attack index: 648
+Running time: 7.671321630477905 s
+No surviving key guess
+
+Attack index: 649
+Running time: 7.539202690124512 s
+No surviving key guess
+
+Attack index: 650
+Running time: 7.703714370727539 s
+No surviving key guess
+
+Attack index: 651
+Running time: 7.413434982299805 s
+No surviving key guess
+
+Attack index: 652
+Running time: 7.666337013244629 s
+No surviving key guess
+
+Attack index: 653
+Running time: 7.33093523979187 s
+No surviving key guess
+
+Attack index: 654
+Running time: 7.735383749008179 s
+No surviving key guess
+
+Attack index: 655
+Running time: 7.769443511962891 s
+No surviving key guess
+
+Attack index: 656
+Running time: 7.837335586547852 s
+No surviving key guess
+
+Attack index: 657
+Running time: 7.537957429885864 s
+No surviving key guess
+
+Attack index: 658
+Running time: 7.4913249015808105 s
+No surviving key guess
+
+Attack index: 659
+Running time: 7.51258111000061 s
+No surviving key guess
+
+Attack index: 660
+Running time: 7.515393972396851 s
+No surviving key guess
+
+Attack index: 661
+Running time: 7.426211595535278 s
+No surviving key guess
+
+Attack index: 662
+Running time: 7.653355836868286 s
+No surviving key guess
+
+Attack index: 663
+Running time: 7.591183423995972 s
+No surviving key guess
+
+Attack index: 664
+Running time: 7.598408460617065 s
+No surviving key guess
+
+Attack index: 665
+Running time: 7.658330202102661 s
+No surviving key guess
+
+Attack index: 666
+Running time: 7.887662887573242 s
+No surviving key guess
+
+Attack index: 667
+Running time: 7.556090354919434 s
+No surviving key guess
+
+Attack index: 668
+Running time: 7.568027973175049 s
+No surviving key guess
+
+Attack index: 669
+Running time: 8.129159927368164 s
+No surviving key guess
+
+Attack index: 670
+Running time: 7.452122449874878 s
+No surviving key guess
+
+Attack index: 671
+Running time: 7.644884347915649 s
+No surviving key guess
+
+Attack index: 672
+Running time: 7.82387638092041 s
+No surviving key guess
+
+Attack index: 673
+Running time: 7.710835695266724 s
+No surviving key guess
+
+Attack index: 674
+Running time: 7.751905202865601 s
+No surviving key guess
+
+Attack index: 675
+Running time: 7.821282148361206 s
+No surviving key guess
+
+Attack index: 676
+Running time: 7.670159101486206 s
+No surviving key guess
+
+Attack index: 677
+Running time: 7.893753290176392 s
+No surviving key guess
+
+Attack index: 678
+Running time: 7.8059680461883545 s
+No surviving key guess
+
+Attack index: 679
+Running time: 7.931323289871216 s
+No surviving key guess
+
+Attack index: 680
+Running time: 7.866886854171753 s
+No surviving key guess
+
+Attack index: 681
+Running time: 7.889252424240112 s
+No surviving key guess
+
+Attack index: 682
+Running time: 7.8342366218566895 s
+No surviving key guess
+
+Attack index: 683
+Running time: 7.811047554016113 s
+No surviving key guess
+
+Attack index: 684
+Running time: 8.054805755615234 s
+No surviving key guess
+
+Attack index: 685
+Running time: 7.978096008300781 s
+No surviving key guess
+
+Attack index: 686
+Running time: 7.9305338859558105 s
+No surviving key guess
+
+Attack index: 687
+Running time: 8.038771152496338 s
+No surviving key guess
+
+Attack index: 688
+Running time: 7.798825979232788 s
+No surviving key guess
+
+Attack index: 689
+Running time: 7.759852409362793 s
+No surviving key guess
+
+Attack index: 690
+Running time: 7.784146547317505 s
+No surviving key guess
+
+Attack index: 691
+Running time: 7.8722827434539795 s
+No surviving key guess
+
+Attack index: 692
+Running time: 7.839006423950195 s
+No surviving key guess
+
+Attack index: 693
+Running time: 7.999666929244995 s
+No surviving key guess
+
+Attack index: 694
+Running time: 8.064014434814453 s
+No surviving key guess
+
+Attack index: 695
+Running time: 7.751462936401367 s
+No surviving key guess
+
+Attack index: 696
+Running time: 7.785982608795166 s
+No surviving key guess
+
+Attack index: 697
+Running time: 7.874784231185913 s
+No surviving key guess
+
+Attack index: 698
+Running time: 7.617591619491577 s
+No surviving key guess
+
+Attack index: 699
+Running time: 7.693284749984741 s
+No surviving key guess
+
+Attack index: 700
+Running time: 7.7975006103515625 s
+No surviving key guess
+
+Attack index: 701
+Running time: 7.760734796524048 s
+No surviving key guess
+
+Attack index: 702
+Running time: 7.892251253128052 s
+No surviving key guess
+
+Attack index: 703
+Running time: 7.7330217361450195 s
+No surviving key guess
+
+Attack index: 704
+Running time: 7.686994314193726 s
+No surviving key guess
+
+Attack index: 705
+Running time: 7.815498113632202 s
+No surviving key guess
+
+Attack index: 706
+Running time: 7.753002166748047 s
+No surviving key guess
+
+Attack index: 707
+Running time: 7.60164475440979 s
+No surviving key guess
+
+Attack index: 708
+Running time: 7.82235050201416 s
+No surviving key guess
+
+Attack index: 709
+Running time: 7.779512166976929 s
+No surviving key guess
+
+Attack index: 710
+Running time: 7.9672675132751465 s
+No surviving key guess
+
+Attack index: 711
+Running time: 7.85523796081543 s
+No surviving key guess
+
+Attack index: 712
+Running time: 7.890245199203491 s
+No surviving key guess
+
+Attack index: 713
+Running time: 7.82737135887146 s
+No surviving key guess
+
+Attack index: 714
+Running time: 7.77093243598938 s
+No surviving key guess
+
+Attack index: 715
+Running time: 7.763636827468872 s
+No surviving key guess
+
+Attack index: 716
+Running time: 7.642757177352905 s
+No surviving key guess
+
+Attack index: 717
+Running time: 7.926269769668579 s
+No surviving key guess
+
+Attack index: 718
+Running time: 7.673103094100952 s
+No surviving key guess
+
+Attack index: 719
+Running time: 7.703191518783569 s
+No surviving key guess
+
+Attack index: 720
+Running time: 7.621110200881958 s
+No surviving key guess
+
+Attack index: 721
+Running time: 7.58226752281189 s
+No surviving key guess
+
+Attack index: 722
+Running time: 7.588980197906494 s
+No surviving key guess
+
+Attack index: 723
+Running time: 7.796128273010254 s
+No surviving key guess
+
+Attack index: 724
+Running time: 7.736354827880859 s
+No surviving key guess
+
+Attack index: 725
+Running time: 7.638481855392456 s
+No surviving key guess
+
+Attack index: 726
+Running time: 7.715713977813721 s
+No surviving key guess
+
+Attack index: 727
+Running time: 7.926600694656372 s
+No surviving key guess
+
+Attack index: 728
+Running time: 7.996914625167847 s
+No surviving key guess
+
+Attack index: 729
+Running time: 7.816935300827026 s
+No surviving key guess
+
+Attack index: 730
+Running time: 7.776700973510742 s
+No surviving key guess
+
+Attack index: 731
+Running time: 7.726483345031738 s
+No surviving key guess
+
+Attack index: 732
+Running time: 7.731202840805054 s
+No surviving key guess
+
+Attack index: 733
+Running time: 7.896348237991333 s
+No surviving key guess
+
+Attack index: 734
+Running time: 7.783466100692749 s
+No surviving key guess
+
+Attack index: 735
+Running time: 7.730494737625122 s
+No surviving key guess
+
+Attack index: 736
+Running time: 7.769148826599121 s
+No surviving key guess
+
+Attack index: 737
+Running time: 7.746867895126343 s
+No surviving key guess
+
+Attack index: 738
+Running time: 7.777775526046753 s
+No surviving key guess
+
+Attack index: 739
+Running time: 7.8081748485565186 s
+No surviving key guess
+
+Attack index: 740
+Running time: 7.97284722328186 s
+No surviving key guess
+
+Attack index: 741
+Running time: 7.870429754257202 s
+No surviving key guess
+
+Attack index: 742
+Running time: 7.720592021942139 s
+No surviving key guess
+
+Attack index: 743
+Running time: 7.842325925827026 s
+No surviving key guess
+
+Attack index: 744
+Running time: 7.637397766113281 s
+No surviving key guess
+
+Attack index: 745
+Running time: 7.334050178527832 s
+No surviving key guess
+
+Attack index: 746
+Running time: 7.69927716255188 s
+No surviving key guess
+
+Attack index: 747
+Running time: 7.802304267883301 s
+No surviving key guess
+
+Attack index: 748
+Running time: 7.761257648468018 s
+No surviving key guess
+
+Attack index: 749
+Running time: 8.049579620361328 s
+No surviving key guess
+
+Attack index: 750
+Running time: 7.858168363571167 s
+No surviving key guess
+
+Attack index: 751
+Running time: 7.801434755325317 s
+No surviving key guess
+
+Attack index: 752
+Running time: 7.5033323764801025 s
+No surviving key guess
+
+Attack index: 753
+Running time: 7.477578401565552 s
+No surviving key guess
+
+Attack index: 754
+Running time: 7.767735958099365 s
+No surviving key guess
+
+Attack index: 755
+Running time: 7.824076414108276 s
+No surviving key guess
+
+Attack index: 756
+Running time: 7.783585786819458 s
+No surviving key guess
+
+Attack index: 757
+Running time: 7.972695350646973 s
+No surviving key guess
+
+Attack index: 758
+Running time: 7.926913022994995 s
+No surviving key guess
+
+Attack index: 759
+Running time: 7.953056335449219 s
+No surviving key guess
+
+Attack index: 760
+Running time: 7.732309818267822 s
+No surviving key guess
+
+Attack index: 761
+Running time: 7.736281633377075 s
+No surviving key guess
+
+Attack index: 762
+Running time: 7.860211610794067 s
+No surviving key guess
+
+Attack index: 763
+Running time: 7.726652383804321 s
+No surviving key guess
+
+Attack index: 764
+Running time: 7.683480978012085 s
+No surviving key guess
+
+Attack index: 765
+Running time: 7.753094911575317 s
+No surviving key guess
+
+Attack index: 766
+Running time: 7.615801811218262 s
+No surviving key guess
+
+Attack index: 767
+Running time: 7.391998529434204 s
+No surviving key guess
+
+Attack index: 768
+Running time: 7.634381294250488 s
+No surviving key guess
+
+Attack index: 769
+Running time: 7.739475965499878 s
+No surviving key guess
+
+Attack index: 770
+Running time: 7.515020847320557 s
+No surviving key guess
+
+Attack index: 771
+Running time: 7.771479368209839 s
+No surviving key guess
+
+Attack index: 772
+Running time: 7.741737365722656 s
+No surviving key guess
+
+Attack index: 773
+Running time: 7.513886213302612 s
+No surviving key guess
+
+Attack index: 774
+Running time: 7.792762041091919 s
+No surviving key guess
+
+Attack index: 775
+Running time: 7.759447336196899 s
+No surviving key guess
+
+Attack index: 776
+Running time: 7.549067735671997 s
+No surviving key guess
+
+Attack index: 777
+Running time: 7.843999862670898 s
+No surviving key guess
+
+Attack index: 778
+Running time: 7.803220272064209 s
+No surviving key guess
+
+Attack index: 779
+Running time: 7.697040557861328 s
+No surviving key guess
+
+Attack index: 780
+Running time: 7.6771509647369385 s
+No surviving key guess
+
+Attack index: 781
+Running time: 7.7966461181640625 s
+No surviving key guess
+
+Attack index: 782
+Running time: 7.587910890579224 s
+No surviving key guess
+
+Attack index: 783
+Running time: 7.770984411239624 s
+No surviving key guess
+
+Attack index: 784
+Running time: 7.745535135269165 s
+No surviving key guess
+
+Attack index: 785
+Running time: 7.6824049949646 s
+No surviving key guess
+
+Attack index: 786
+Running time: 7.347019195556641 s
+No surviving key guess
+
+Attack index: 787
+Running time: 7.849581003189087 s
+No surviving key guess
+
+Attack index: 788
+Running time: 7.872345209121704 s
+No surviving key guess
+
+Attack index: 789
+Running time: 7.930479288101196 s
+No surviving key guess
+
+Attack index: 790
+Running time: 7.748453855514526 s
+No surviving key guess
+
+Attack index: 791
+Running time: 7.847594738006592 s
+No surviving key guess
+
+Attack index: 792
+Running time: 7.862682342529297 s
+No surviving key guess
+
+Attack index: 793
+Running time: 7.91559100151062 s
+No surviving key guess
+
+Attack index: 794
+Running time: 7.6424031257629395 s
+No surviving key guess
+
+Attack index: 795
+Running time: 7.861696243286133 s
+No surviving key guess
+
+Attack index: 796
+Running time: 7.861652135848999 s
+No surviving key guess
+
+Attack index: 797
+Running time: 7.899725914001465 s
+No surviving key guess
+
+Attack index: 798
+Running time: 7.82709813117981 s
+No surviving key guess
+
+Attack index: 799
+Running time: 7.880167722702026 s
+No surviving key guess
+
+Attack index: 800
+Running time: 7.748632192611694 s
+No surviving key guess
+
+Attack index: 801
+Running time: 7.6808483600616455 s
+No surviving key guess
+
+Attack index: 802
+Running time: 7.752835988998413 s
+No surviving key guess
+
+Attack index: 803
+Running time: 7.5810935497283936 s
+No surviving key guess
+
+Attack index: 804
+Running time: 7.5333287715911865 s
+No surviving key guess
+
+Attack index: 805
+Running time: 7.340884208679199 s
+No surviving key guess
+
+Attack index: 806
+Running time: 7.568386793136597 s
+No surviving key guess
+
+Attack index: 807
+Running time: 7.768696546554565 s
+No surviving key guess
+
+Attack index: 808
+Running time: 7.776888132095337 s
+No surviving key guess
+
+Attack index: 809
+Running time: 7.888469457626343 s
+No surviving key guess
+
+Attack index: 810
+Running time: 7.661549806594849 s
+No surviving key guess
+
+Attack index: 811
+Running time: 7.7953855991363525 s
+No surviving key guess
+
+Attack index: 812
+Running time: 7.728728532791138 s
+No surviving key guess
+
+Attack index: 813
+Running time: 7.172899484634399 s
+No surviving key guess
+
+Attack index: 814
+Running time: 7.706990957260132 s
+No surviving key guess
+
+Attack index: 815
+Running time: 7.625081539154053 s
+No surviving key guess
+
+Attack index: 816
+Running time: 7.342381477355957 s
+No surviving key guess
+
+Attack index: 817
+Running time: 7.575448989868164 s
+No surviving key guess
+
+Attack index: 818
+Running time: 7.6933839321136475 s
+No surviving key guess
+
+Attack index: 819
+Running time: 7.591253995895386 s
+No surviving key guess
+
+Attack index: 820
+Running time: 7.44347882270813 s
+No surviving key guess
+
+Attack index: 821
+Running time: 7.716443300247192 s
+No surviving key guess
+
+Attack index: 822
+Running time: 7.689638614654541 s
+No surviving key guess
+
+Attack index: 823
+Running time: 7.597874879837036 s
+No surviving key guess
+
+Attack index: 824
+Running time: 7.4652419090271 s
+No surviving key guess
+
+Attack index: 825
+Running time: 7.48958420753479 s
+No surviving key guess
+
+Attack index: 826
+Running time: 7.482155799865723 s
+No surviving key guess
+
+Attack index: 827
+Running time: 7.722067594528198 s
+No surviving key guess
+
+Attack index: 828
+Running time: 7.698112487792969 s
+No surviving key guess
+
+Attack index: 829
+Running time: 7.711517095565796 s
+No surviving key guess
+
+Attack index: 830
+Running time: 7.863592624664307 s
+No surviving key guess
+
+Attack index: 831
+Running time: 7.450216293334961 s
+No surviving key guess
+
+Attack index: 832
+Running time: 7.587647438049316 s
+No surviving key guess
+
+Attack index: 833
+Running time: 7.601078271865845 s
+No surviving key guess
+
+Attack index: 834
+Running time: 7.451632738113403 s
+No surviving key guess
+
+Attack index: 835
+Running time: 7.862431764602661 s
+No surviving key guess
+
+Attack index: 836
+Running time: 7.557687282562256 s
+No surviving key guess
+
+Attack index: 837
+Running time: 7.691162347793579 s
+No surviving key guess
+
+Attack index: 838
+Running time: 7.25770902633667 s
+No surviving key guess
+
+Attack index: 839
+Running time: 7.806593894958496 s
+No surviving key guess
+
+Attack index: 840
+Running time: 7.554692506790161 s
+No surviving key guess
+
+Attack index: 841
+Running time: 7.576135635375977 s
+No surviving key guess
+
+Attack index: 842
+Running time: 7.50757622718811 s
+No surviving key guess
+
+Attack index: 843
+Running time: 7.357418775558472 s
+No surviving key guess
+
+Attack index: 844
+Running time: 7.422708511352539 s
+No surviving key guess
+
+Attack index: 845
+Running time: 7.419573545455933 s
+No surviving key guess
+
+Attack index: 846
+Running time: 7.316189527511597 s
+No surviving key guess
+
+Attack index: 847
+Running time: 7.4209065437316895 s
+No surviving key guess
+
+Attack index: 848
+Running time: 7.353240489959717 s
+No surviving key guess
+
+Attack index: 849
+Running time: 7.536038160324097 s
+No surviving key guess
+
+Attack index: 850
+Running time: 7.730850458145142 s
+No surviving key guess
+
+Attack index: 851
+Running time: 7.662728548049927 s
+No surviving key guess
+
+Attack index: 852
+Running time: 7.517443656921387 s
+No surviving key guess
+
+Attack index: 853
+Running time: 7.4301440715789795 s
+No surviving key guess
+
+Attack index: 854
+Running time: 7.616603851318359 s
+No surviving key guess
+
+Attack index: 855
+Running time: 7.301669359207153 s
+No surviving key guess
+
+Attack index: 856
+Running time: 7.51956582069397 s
+No surviving key guess
+
+Attack index: 857
+Running time: 7.198498964309692 s
+No surviving key guess
+
+Attack index: 858
+Running time: 7.503255128860474 s
+No surviving key guess
+
+Attack index: 859
+Running time: 7.544282674789429 s
+No surviving key guess
+
+Attack index: 860
+Running time: 7.555866479873657 s
+No surviving key guess
+
+Attack index: 861
+Running time: 7.140878438949585 s
+No surviving key guess
+
+Attack index: 862
+Running time: 7.441971063613892 s
+No surviving key guess
+
+Attack index: 863
+Running time: 7.260049104690552 s
+No surviving key guess
+
+Attack index: 864
+Running time: 7.429216146469116 s
+No surviving key guess
+
+Attack index: 865
+Running time: 7.3895978927612305 s
+No surviving key guess
+
+Attack index: 866
+Running time: 7.389413118362427 s
+No surviving key guess
+
+Attack index: 867
+Running time: 7.314632892608643 s
+No surviving key guess
+
+Attack index: 868
+Running time: 7.529408693313599 s
+No surviving key guess
+
+Attack index: 869
+Running time: 7.38901686668396 s
+No surviving key guess
+
+Attack index: 870
+Running time: 7.266103744506836 s
+No surviving key guess
+
+Attack index: 871
+Running time: 7.28530478477478 s
+No surviving key guess
+
+Attack index: 872
+Running time: 7.613861083984375 s
+No surviving key guess
+
+Attack index: 873
+Running time: 7.471963167190552 s
+No surviving key guess
+
+Attack index: 874
+Running time: 7.445425987243652 s
+No surviving key guess
+
+Attack index: 875
+Running time: 7.629966974258423 s
+No surviving key guess
+
+Attack index: 876
+Running time: 7.279583692550659 s
+No surviving key guess
+
+Attack index: 877
+Running time: 7.626289367675781 s
+No surviving key guess
+
+Attack index: 878
+Running time: 7.5145745277404785 s
+No surviving key guess
+
+Attack index: 879
+Running time: 7.549911737442017 s
+No surviving key guess
+
+Attack index: 880
+Running time: 7.373624801635742 s
+No surviving key guess
+
+Attack index: 881
+Running time: 7.492974042892456 s
+No surviving key guess
+
+Attack index: 882
+Running time: 7.556621551513672 s
+No surviving key guess
+
+Attack index: 883
+Running time: 7.601437330245972 s
+No surviving key guess
+
+Attack index: 884
+Running time: 7.663634538650513 s
+No surviving key guess
+
+Attack index: 885
+Running time: 7.5764899253845215 s
+No surviving key guess
+
+Attack index: 886
+Running time: 7.559083461761475 s
+No surviving key guess
+
+Attack index: 887
+Running time: 7.522815465927124 s
+No surviving key guess
+
+Attack index: 888
+Running time: 7.513086318969727 s
+No surviving key guess
+
+Attack index: 889
+Running time: 7.527346134185791 s
+No surviving key guess
+
+Attack index: 890
+Running time: 7.542933464050293 s
+No surviving key guess
+
+Attack index: 891
+Running time: 7.455411672592163 s
+No surviving key guess
+
+Attack index: 892
+Running time: 7.73602294921875 s
+No surviving key guess
+
+Attack index: 893
+Running time: 7.561847448348999 s
+No surviving key guess
+
+Attack index: 894
+Running time: 7.489535331726074 s
+No surviving key guess
+
+Attack index: 895
+Running time: 7.621073961257935 s
+No surviving key guess
+
+Attack index: 896
+Running time: 7.346524000167847 s
+No surviving key guess
+
+Attack index: 897
+Running time: 7.649671792984009 s
+No surviving key guess
+
+Attack index: 898
+Running time: 7.628376007080078 s
+No surviving key guess
+
+Attack index: 899
+Running time: 7.731346130371094 s
+No surviving key guess
+
+Attack index: 900
+Running time: 7.715378522872925 s
+No surviving key guess
+
+Attack index: 901
+Running time: 7.49107551574707 s
+No surviving key guess
+
+Attack index: 902
+Running time: 7.436655044555664 s
+No surviving key guess
+
+Attack index: 903
+Running time: 7.38737940788269 s
+No surviving key guess
+
+Attack index: 904
+Running time: 7.4832282066345215 s
+No surviving key guess
+
+Attack index: 905
+Running time: 7.490022420883179 s
+No surviving key guess
+
+Attack index: 906
+Running time: 7.2730748653411865 s
+No surviving key guess
+
+Attack index: 907
+Running time: 7.345627069473267 s
+No surviving key guess
+
+Attack index: 908
+Running time: 7.613814830780029 s
+No surviving key guess
+
+Attack index: 909
+Running time: 7.3228912353515625 s
+No surviving key guess
+
+Attack index: 910
+Running time: 7.456179857254028 s
+No surviving key guess
+
+Attack index: 911
+Running time: 7.594248056411743 s
+No surviving key guess
+
+Attack index: 912
+Running time: 7.672007083892822 s
+No surviving key guess
+
+Attack index: 913
+Running time: 7.583628416061401 s
+No surviving key guess
+
+Attack index: 914
+Running time: 7.855800628662109 s
+No surviving key guess
+
+Attack index: 915
+Running time: 7.620526313781738 s
+No surviving key guess
+
+Attack index: 916
+Running time: 7.668505430221558 s
+No surviving key guess
+
+Attack index: 917
+Running time: 7.630367755889893 s
+No surviving key guess
+
+Attack index: 918
+Running time: 7.693358659744263 s
+No surviving key guess
+
+Attack index: 919
+Running time: 7.614901304244995 s
+No surviving key guess
+
+Attack index: 920
+Running time: 7.677282333374023 s
+No surviving key guess
+
+Attack index: 921
+Running time: 7.69518256187439 s
+No surviving key guess
+
+Attack index: 922
+Running time: 7.65155029296875 s
+No surviving key guess
+
+Attack index: 923
+Running time: 7.73009729385376 s
+No surviving key guess
+
+Attack index: 924
+Running time: 7.657328844070435 s
+No surviving key guess
+
+Attack index: 925
+Running time: 7.342737674713135 s
+No surviving key guess
+
+Attack index: 926
+Running time: 7.470361948013306 s
+No surviving key guess
+
+Attack index: 927
+Running time: 7.618162631988525 s
+No surviving key guess
+
+Attack index: 928
+Running time: 7.5539162158966064 s
+No surviving key guess
+
+Attack index: 929
+Running time: 7.537768602371216 s
+No surviving key guess
+
+Attack index: 930
+Running time: 7.463500261306763 s
+No surviving key guess
+
+Attack index: 931
+Running time: 7.495826482772827 s
+No surviving key guess
+
+Attack index: 932
+Running time: 7.440455198287964 s
+No surviving key guess
+
+Attack index: 933
+Running time: 7.563863277435303 s
+No surviving key guess
+
+Attack index: 934
+Running time: 7.555112361907959 s
+No surviving key guess
+
+Attack index: 935
+Running time: 7.502998352050781 s
+No surviving key guess
+
+Attack index: 936
+Running time: 7.4839231967926025 s
+No surviving key guess
+
+Attack index: 937
+Running time: 7.694713830947876 s
+No surviving key guess
+
+Attack index: 938
+Running time: 7.665196895599365 s
+No surviving key guess
+
+Attack index: 939
+Running time: 7.681631326675415 s
+No surviving key guess
+
+Attack index: 940
+Running time: 7.417504549026489 s
+No surviving key guess
+
+Attack index: 941
+Running time: 7.401079177856445 s
+No surviving key guess
+
+Attack index: 942
+Running time: 7.53857159614563 s
+No surviving key guess
+
+Attack index: 943
+Running time: 7.665078401565552 s
+No surviving key guess
+
+Attack index: 944
+Running time: 7.5710365772247314 s
+No surviving key guess
+
+Attack index: 945
+Running time: 7.552591323852539 s
+No surviving key guess
+
+Attack index: 946
+Running time: 7.723484754562378 s
+No surviving key guess
+
+Attack index: 947
+Running time: 7.605656147003174 s
+No surviving key guess
+
+Attack index: 948
+Running time: 7.654722452163696 s
+No surviving key guess
+
+Attack index: 949
+Running time: 7.553542137145996 s
+No surviving key guess
+
+Attack index: 950
+Running time: 7.621502637863159 s
+No surviving key guess
+
+Attack index: 951
+Running time: 7.47909140586853 s
+No surviving key guess
+
+Attack index: 952
+Running time: 7.665458679199219 s
+No surviving key guess
+
+Attack index: 953
+Running time: 7.686280965805054 s
+No surviving key guess
+
+Attack index: 954
+Running time: 7.373115301132202 s
+No surviving key guess
+
+Attack index: 955
+Running time: 7.438582420349121 s
+No surviving key guess
+
+Attack index: 956
+Running time: 7.594839334487915 s
+No surviving key guess
+
+Attack index: 957
+Running time: 7.529217481613159 s
+No surviving key guess
+
+Attack index: 958
+Running time: 7.514283180236816 s
+No surviving key guess
+
+Attack index: 959
+Running time: 7.620642423629761 s
+No surviving key guess
+
+Attack index: 960
+Running time: 7.425516843795776 s
+No surviving key guess
+
+Attack index: 961
+Running time: 7.4865381717681885 s
+No surviving key guess
+
+Attack index: 962
+Running time: 7.4128406047821045 s
+No surviving key guess
+
+Attack index: 963
+Running time: 7.638407468795776 s
+No surviving key guess
+
+Attack index: 964
+Running time: 7.6565423011779785 s
+No surviving key guess
+
+Attack index: 965
+Running time: 7.688234329223633 s
+No surviving key guess
+
+Attack index: 966
+Running time: 7.665542840957642 s
+No surviving key guess
+
+Attack index: 967
+Running time: 7.646167516708374 s
+No surviving key guess
+
+Attack index: 968
+Running time: 7.629009485244751 s
+No surviving key guess
+
+Attack index: 969
+Running time: 7.554472923278809 s
+No surviving key guess
+
+Attack index: 970
+Running time: 7.60212254524231 s
+No surviving key guess
+
+Attack index: 971
+Running time: 7.579769849777222 s
+No surviving key guess
+
+Attack index: 972
+Running time: 7.640727519989014 s
+No surviving key guess
+
+Attack index: 973
+Running time: 7.51923680305481 s
+No surviving key guess
+
+Attack index: 974
+Running time: 7.6749348640441895 s
+No surviving key guess
+
+Attack index: 975
+Running time: 7.541506052017212 s
+No surviving key guess
+
+Attack index: 976
+Running time: 7.7477500438690186 s
+No surviving key guess
+
+Attack index: 977
+Running time: 7.660306215286255 s
+No surviving key guess
+
+Attack index: 978
+Running time: 7.582942247390747 s
+No surviving key guess
+
+Attack index: 979
+Running time: 7.663081884384155 s
+No surviving key guess
+
+Attack index: 980
+Running time: 7.7086992263793945 s
+No surviving key guess
+
+Attack index: 981
+Running time: 7.639563798904419 s
+No surviving key guess
+
+Attack index: 982
+Running time: 7.612633228302002 s
+No surviving key guess
+
+Attack index: 983
+Running time: 7.659399747848511 s
+No surviving key guess
+
+Attack index: 984
+Running time: 7.624628067016602 s
+No surviving key guess
+
+Attack index: 985
+Running time: 7.607659578323364 s
+No surviving key guess
+
+Attack index: 986
+Running time: 7.723198652267456 s
+No surviving key guess
+
+Attack index: 987
+Running time: 7.661778450012207 s
+No surviving key guess
+
+Attack index: 988
+Running time: 7.623732328414917 s
+No surviving key guess
+
+Attack index: 989
+Running time: 7.641242504119873 s
+No surviving key guess
+
+Attack index: 990
+Running time: 7.793134927749634 s
+No surviving key guess
+
+Attack index: 991
+Running time: 7.6992833614349365 s
+No surviving key guess
+
+Attack index: 992
+Running time: 7.629744291305542 s
+No surviving key guess
+
+Attack index: 993
+Running time: 7.784960985183716 s
+No surviving key guess
+
+Attack index: 994
+Running time: 7.507886648178101 s
+No surviving key guess
+
+Attack index: 995
+Running time: 7.6937994956970215 s
+No surviving key guess
+
+Attack index: 996
+Running time: 7.358835935592651 s
+No surviving key guess
+
+Attack index: 997
+Running time: 7.554857969284058 s
+No surviving key guess
+
+Attack index: 998
+Running time: 7.593254566192627 s
+No surviving key guess
+
+Attack index: 999
+Running time: 7.607731103897095 s
+No surviving key guess
+
+Avergae valid pr for right kg: 0.766314453125
+Avergae valid pr for wrong kg: 0.7655219029017857
+For right kg: average score is -183.406982421875, max score is -91.98782348632812, min score is -260.6784973144531
+For wrong kg: average score is -182.80495816460956, max score is -46.4697151184082, min score is -321.2866516113281
+Max succeed kg diff hw matric: 2
+Key surviving time: 0
+Average attack time: 7.773600075483322 s
+Average surviving key guess number: 0.0
