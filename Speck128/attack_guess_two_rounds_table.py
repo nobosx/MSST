@@ -44,7 +44,6 @@ def gen_user_key(nr, version=128):
 # sk0: the subkey of the penultimate round
 # sk1: the subkey of the last round
 def key_guess_two_rounds(cipher_structure, lookup_table, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, total_kg_bits_per_round, borrow_pos_per_round, m_per_round):
-    # global debug_tk0, debug_tk1, debug_valid_pair_pos_stage1, debug_valid_pair_pos_stage2
     c0l, c0r, c1l, c1r = cipher_structure
     structure_size = len(c0l)
     c0r = c0l ^ c0r; c1r = c1l ^ c1r

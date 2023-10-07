@@ -263,7 +263,7 @@ if __name__ == "__main__":
     lookup_table_path = 'lookup_table/7/21-20_{}_student_distinguisher.npy'.format(diff_pos)
 
     # Test the key recovery attack using right plaintext structures
-    test_attack(2, structure_size, dis_nr, dis_diff, lookup_table_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder)
+    test_attack(1000, structure_size, dis_nr, dis_diff, lookup_table_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder)
 
     # Test the key recovery attack using wrong plaintext structures
-    test_attack_with_bad_structure(2, structure_size, dis_nr, dis_diff, lookup_table_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder+'bad_structure/')
+    test_attack_with_bad_structure(1000, structure_size, dis_nr, dis_diff, lookup_table_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder+'bad_structure/')
