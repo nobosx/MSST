@@ -1,9 +1,9 @@
 import numpy as np
 import speck as sp
+import sys
 from time import time
 from os import urandom, path, makedirs
-from util import extract_selected_bits_int, extract_bits_and_combine, combine_ints, cal_hw, extract_sensitive_bits
-from keras.models import load_model
+from util import extract_selected_bits_int, extract_bits_and_combine, combine_ints, cal_hw
 
 # Try to determine the borrow bit b[kg_low] at bit position kg_low using m consecutive bits [kg_low-1~kg_low-m]
 # Return: b[kg_low], is_valid
@@ -13,7 +13,7 @@ def determine_borrow_bit_from_low(z, y, kg_low, m):
     a = (z >> (kg_low - m)) & mask_val
     b = (y >> (kg_low - m)) & mask_val
     return a < b, a != b
-    
+
 def expand_key_guess_space(key_guess_bits):
     kg = np.zeros((1,), dtype=np.uint64)
     for kg_bit in key_guess_bits:
@@ -23,20 +23,28 @@ def expand_key_guess_space(key_guess_bits):
     return kg
 
 # Generate a random user key for a key recovery attack
-def gen_user_key(nr):
-    keys = np.frombuffer(urandom(16), dtype=np.uint64).reshape(2, 1)
-    ks = sp.expand_key(keys, nr)
+def gen_user_key(nr, version=128):
+    if version == 128:
+        keys = np.frombuffer(urandom(16), dtype=np.uint64).reshape(2, 1)
+        ks = sp.expand_key(keys, nr, version=version)
+    elif version == 192:
+        keys = np.frombuffer(urandom(24), dtype=np.uint64).reshape(3, 1)
+        ks = sp.expand_key(keys, nr, version=version)
+    else:
+        keys = np.frombuffer(urandom(32), dtype=np.uint64).reshape(4, 1)
+        ks = sp.expand_key(keys, nr, version=version)
     return ks
 
 # Execute the core key guessing and filtering pipeline
-# The filtering process ueses a neural network as a distingusiher
+# The filtering process ueses a lookup table as a distingusiher
 # The total key guessing space is divided into three stages
 # stage1: guess the bits of the subkey sk1 that are related to the borrow bit in the modular substraction operation of the last round
 # stage2: guess the bits of the subkeys sk0 and sk1 that are related to the borrow bit Modular substraction operation of the penultimate round
 # stage3: guess other bits of the subkeys sk0 and sk1 that are related to the input of the distinguisher
 # sk0: the subkey of the penultimate round
 # sk1: the subkey of the last round
-def key_guess_two_rounds(cipher_structure, net, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, total_kg_bits_per_round, borrow_pos_per_round, m_per_round):
+def key_guess_two_rounds(cipher_structure, lookup_table, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, total_kg_bits_per_round, borrow_pos_per_round, m_per_round):
+    # global debug_tk0, debug_tk1, debug_valid_pair_pos_stage1, debug_valid_pair_pos_stage2
     c0l, c0r, c1l, c1r = cipher_structure
     structure_size = len(c0l)
     c0r = c0l ^ c0r; c1r = c1l ^ c1r
@@ -90,9 +98,8 @@ def key_guess_two_rounds(cipher_structure, net, selected_bits, direct_kg_bits_pe
                 a1 = a1 ^ extended_joint_direct_kg_space_0 ^ borrow_kg0
                 a0 = sp.rol(a0 - b0, sp.ALPHA())
                 a1 = sp.rol(a1 - b1, sp.ALPHA())
-                X = sp.convert_to_binary([a0, b0, a1, b1])
-                X = extract_sensitive_bits(X, selected_bits)
-                Z = net.predict(X, batch_size=10000, verbose=0).reshape(direct_kg_size, valid_num); Z = np.log2(Z / (1 - Z))
+                table_input_int = extract_bits_and_combine([a0, b0, a1, b1], selected_bits)
+                Z = lookup_table[table_input_int].reshape(direct_kg_size, valid_num)
                 Z = np.sum(Z, axis=1)
                 Z = Z * structure_size / valid_num
                 embedded_kg = combine_ints([extract_selected_bits_int(borrow_kg0 ^ joint_direct_kg_space_0, total_kg_bits_per_round[0], True), extract_selected_bits_int(borrow_kg1_high ^ borrow_kg1_low ^ joint_direct_kg_space_1, total_kg_bits_per_round[1], True)], [len(total_kg_bits_per_round[0]), len(total_kg_bits_per_round[1])])
@@ -100,8 +107,8 @@ def key_guess_two_rounds(cipher_structure, net, selected_bits, direct_kg_bits_pe
     return kg_scores
 
 # Test the key recovery attack using right plaintext structures
-def test_attack(n, structure_size, dis_nr, dis_diff, net_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder):
-    net = load_model(net_path)
+def test_attack(n, structure_size, dis_nr, dis_diff, lookup_table_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder):
+    lookup_table = np.load(lookup_table_path)
     total_kg_bits_0 = [i for i in reversed(range(sp.WORD_SIZE())) if i in direct_kg_bits_per_round[0] or i in borrow_kg_bits_per_round_stage2[0]]
     total_kg_bits_1 = [i for i in reversed(range(sp.WORD_SIZE())) if i in direct_kg_bits_per_round[1] or i in borrow_kg_bits_stage1 or i in borrow_kg_bits_per_round_stage2[1]]
     total_kg_bits_per_round = [total_kg_bits_0, total_kg_bits_1]
@@ -128,7 +135,7 @@ def test_attack(n, structure_size, dis_nr, dis_diff, net_path, selected_bits, di
         tk0 = ks[-2][0]; tk1 = ks[-1][0]
         embedded_tk = combine_ints([extract_selected_bits_int(tk0, total_kg_bits_per_round[0], True), extract_selected_bits_int(tk1, total_kg_bits_per_round[1], True)], [len(total_kg_bits_per_round[0]), len(total_kg_bits_per_round[1])])
         start_time = time()
-        kg_scores = key_guess_two_rounds((c0l, c0r, c1l, c1r), net, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, total_kg_bits_per_round, borrow_pos_per_round, m_per_round)
+        kg_scores = key_guess_two_rounds((c0l, c0r, c1l, c1r), lookup_table, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, total_kg_bits_per_round, borrow_pos_per_round, m_per_round)
         end_time = time()
         wk_pos = np.ones(2**(len(total_kg_bits_0) + len(total_kg_bits_1)), dtype=bool)
         wk_pos[embedded_tk] = False
@@ -178,10 +185,10 @@ def test_attack(n, structure_size, dis_nr, dis_diff, net_path, selected_bits, di
     np.save(attack_saved_folder + 'sv_attack_time.npy', sv_attack_time_consumption)
     np.save(attack_saved_folder + 'sv_best_kg_diff_show_time.npy', sv_best_kg_diff_show_time)
     np.save(attack_saved_folder + 'sv_num_surviving_kgs.npy', sv_num_surviving_kgs)
-    
+
 # Test the key recovery attack using wrong plaintext structures
-def test_attack_with_bad_structure(n, structure_size, dis_nr, dis_diff, net_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder):
-    net = load_model(net_path)
+def test_attack_with_bad_structure(n, structure_size, dis_nr, dis_diff, lookup_table_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder):
+    lookup_table = np.load(lookup_table_path)
     total_kg_bits_0 = [i for i in reversed(range(sp.WORD_SIZE())) if i in direct_kg_bits_per_round[0] or i in borrow_kg_bits_per_round_stage2[0]]
     total_kg_bits_1 = [i for i in reversed(range(sp.WORD_SIZE())) if i in direct_kg_bits_per_round[1] or i in borrow_kg_bits_stage1 or i in borrow_kg_bits_per_round_stage2[1]]
     total_kg_bits_per_round = [total_kg_bits_0, total_kg_bits_1]
@@ -189,7 +196,7 @@ def test_attack_with_bad_structure(n, structure_size, dis_nr, dis_diff, net_path
     tk_ranks = []
     tk_scores = []
     wk_average_scores = []
-    wk_max_score = -10000
+    wk_max_score = -1000000
     MAX_SUCCEED_KG_DIFF_HW = 2
     sv_whether_surviving_kg = np.zeros(n, dtype=np.uint8)
     sv_attack_time_consumption = np.zeros(n)
@@ -206,7 +213,7 @@ def test_attack_with_bad_structure(n, structure_size, dis_nr, dis_diff, net_path
         tk0 = ks[-2][0]; tk1 = ks[-1][0]
         embedded_tk = combine_ints([extract_selected_bits_int(tk0, total_kg_bits_per_round[0], True), extract_selected_bits_int(tk1, total_kg_bits_per_round[1], True)], [len(total_kg_bits_per_round[0]), len(total_kg_bits_per_round[1])])
         start_time = time()
-        kg_scores = key_guess_two_rounds((c0l, c0r, c1l, c1r), net, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, total_kg_bits_per_round, borrow_pos_per_round, m_per_round)
+        kg_scores = key_guess_two_rounds((c0l, c0r, c1l, c1r), lookup_table, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, total_kg_bits_per_round, borrow_pos_per_round, m_per_round)
         end_time = time()
         wk_pos = np.ones(2**(len(total_kg_bits_0) + len(total_kg_bits_1)), dtype=bool)
         wk_pos[embedded_tk] = False
@@ -244,28 +251,22 @@ def test_attack_with_bad_structure(n, structure_size, dis_nr, dis_diff, net_path
     np.save(attack_saved_folder + 'sv_num_surviving_kgs.npy', sv_num_surviving_kgs)
 
 if __name__ == "__main__":
-    structure_size = 2**11
-    dis_nr = 7
-    diff_pos = 42
+    structure_size = 2**12
+    dis_nr = 9
+    diff_pos = 66
     selected_bits = [21, 20]
-    direct_kg_bits_per_round = [[13,12], [16,15,8,7]]
+    direct_kg_bits_per_round = [[13,12], [16,15,8]]
     borrow_kg_bits_stage1 = [14,13,12]
-    borrow_kg_bits_per_round_stage2 = [[11,10,9],[6,5,4,3,2,1,0]]
+    borrow_kg_bits_per_round_stage2 = [[11,10,9],[7,6,5,4,3,2,1,0]]
     borrow_pos_per_round = [12, 15]
     m_per_round = [3, 3]
-    diff_l = 0
-    diff_r = 0
-    if diff_pos < sp.WORD_SIZE():
-        diff_r |= 1 << diff_pos
-    else:
-        diff_l |= 1 << (diff_pos - sp.WORD_SIZE())
-    dis_diff = (diff_l, diff_r)
-    c = 50
+    dis_diff = (1 << (diff_pos - sp.WORD_SIZE()), 0)
+    lookup_table_path = 'lookup_table/9/21-20_{}_student_distinguisher.npy'.format(diff_pos)
+    c = 5
     attack_saved_folder = 'attack_res/guess_two_rounds/'
-    net_path = 'saved_model/7/21-20_{}_student_distinguisher.h5'.format(diff_pos)
 
     # Test the key recovery attack using right plaintext structures
-    test_attack(1000, structure_size, dis_nr, dis_diff, net_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder)
+    test_attack(100, structure_size, dis_nr, dis_diff, lookup_table_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder)
 
     # Test the key recovery attack using wrong plaintext structures
-    # test_attack_with_bad_structure(1000, structure_size, dis_nr, dis_diff, net_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder+'bad_structure/')
+    test_attack_with_bad_structure(100, structure_size, dis_nr, dis_diff, lookup_table_path, selected_bits, direct_kg_bits_per_round, borrow_kg_bits_stage1, borrow_kg_bits_per_round_stage2, borrow_pos_per_round, m_per_round, c, attack_saved_folder+"bad_structure/")
